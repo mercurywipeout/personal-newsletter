@@ -1,4 +1,4 @@
-# AI & Tech Signal
+# Daily Personal Newsletter
 
 A daily newsletter that fetches AI and tech news from RSS feeds, curates the best stories using Claude, and delivers a formatted HTML email every morning.
 
