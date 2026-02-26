@@ -36,6 +36,15 @@ def load_config():
 
 CONFIG = load_config()
 
+_REQUIRED_KEYS = ["GMAIL_USER", "GMAIL_APP_PASSWORD", "RECIPIENT_EMAIL", "ANTHROPIC_API_KEY"]
+
+def validate_config():
+    missing = [k for k in _REQUIRED_KEYS if not CONFIG.get(k)]
+    if missing:
+        for k in missing:
+            print(f"  ✗ Missing config: {k} — set it in newsletter.config or as an environment variable")
+        raise SystemExit(1)
+
 # ── Deduplication ──────────────────────────────────────────────────────────────
 SEEN_PATH    = Path(__file__).parent / "seen_stories.json"
 SEEN_TTL_DAYS = 7
@@ -358,6 +367,8 @@ def main():
     print(f"\n{'='*55}")
     print(f"  AI & Tech Signal  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*55}")
+
+    validate_config()
 
     seen_urls = load_seen_urls()
     print(f"  Loaded {len(seen_urls)} previously seen URLs (last {SEEN_TTL_DAYS} days)")
