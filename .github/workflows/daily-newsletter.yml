@@ -25,6 +25,14 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
+      - name: Restore seen-stories cache
+        uses: actions/cache@v4
+        with:
+          path: seen_stories.json
+          key: seen-stories-${{ github.run_id }}
+          restore-keys: |
+            seen-stories-
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 

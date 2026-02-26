@@ -11,6 +11,7 @@ import time
 import smtplib
 import feedparser
 from html import escape
+from urllib.parse import urlparse, urlencode, parse_qsl, urlunparse
 from datetime import datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -35,6 +36,50 @@ def load_config():
 
 CONFIG = load_config()
 
+# ── Deduplication ──────────────────────────────────────────────────────────────
+SEEN_PATH    = Path(__file__).parent / "seen_stories.json"
+SEEN_TTL_DAYS = 7
+
+_TRACKING_PARAMS = {
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "utm_id",
+    "ref", "referrer", "source", "fbclid", "gclid", "msclkid", "twclid", "_ga", "_gl",
+}
+
+def normalize_url(url):
+    try:
+        parsed = urlparse(url)
+        clean_qs = [(k, v) for k, v in parse_qsl(parsed.query)
+                    if k.lower() not in _TRACKING_PARAMS]
+        return urlunparse(parsed._replace(query=urlencode(clean_qs), fragment=""))
+    except Exception:
+        return url
+
+def load_seen_urls():
+    if not SEEN_PATH.exists():
+        return set()
+    try:
+        cutoff = datetime.now() - timedelta(days=SEEN_TTL_DAYS)
+        data = json.loads(SEEN_PATH.read_text())
+        return {e["url"] for e in data if datetime.fromisoformat(e["date"]) > cutoff}
+    except Exception:
+        return set()
+
+def save_seen_urls(new_urls):
+    today = datetime.now().date().isoformat()
+    cutoff = datetime.now() - timedelta(days=SEEN_TTL_DAYS)
+    existing = []
+    if SEEN_PATH.exists():
+        try:
+            existing = [e for e in json.loads(SEEN_PATH.read_text())
+                        if datetime.fromisoformat(e["date"]) > cutoff]
+        except Exception:
+            pass
+    existing_urls = {e["url"] for e in existing}
+    for url in new_urls:
+        if url not in existing_urls:
+            existing.append({"url": url, "date": today})
+    SEEN_PATH.write_text(json.dumps(existing, indent=2))
+
 # ── RSS Sources ────────────────────────────────────────────────────────────────
 RSS_FEEDS = [
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
@@ -55,8 +100,11 @@ RSS_FEEDS = [
 ]
 
 # ── Fetch Stories ──────────────────────────────────────────────────────────────
-def fetch_recent_stories():
+def fetch_recent_stories(seen_urls=None):
+    if seen_urls is None:
+        seen_urls = set()
     stories = []
+    seen_this_run = set()
     cutoff = datetime.now() - timedelta(hours=36)  # slightly wider net
 
     for feed_info in RSS_FEEDS:
@@ -71,6 +119,12 @@ def fetch_recent_stories():
                         pass
 
                 if published is None or published > cutoff:
+                    raw_url = entry.get("link", "")
+                    key = normalize_url(raw_url)
+                    if key in seen_urls or key in seen_this_run:
+                        continue
+                    seen_this_run.add(key)
+
                     raw_summary = entry.get("summary", entry.get("description", ""))
                     clean_summary = re.sub(r"<[^>]+>", " ", raw_summary)
                     clean_summary = re.sub(r"\s+", " ", clean_summary).strip()[:600]
@@ -79,7 +133,7 @@ def fetch_recent_stories():
                         "source":    feed_info["name"],
                         "title":     entry.get("title", "").strip(),
                         "summary":   clean_summary,
-                        "url":       entry.get("link", ""),
+                        "url":       raw_url,
                         "published": published.strftime("%Y-%m-%d %H:%M") if published else "recent",
                     })
         except Exception as e:
@@ -268,8 +322,11 @@ def main():
     print(f"  AI & Tech Signal  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*55}")
 
+    seen_urls = load_seen_urls()
+    print(f"  Loaded {len(seen_urls)} previously seen URLs (last {SEEN_TTL_DAYS} days)")
+
     print("\n[1/4] Fetching stories from RSS feeds...")
-    stories = fetch_recent_stories()
+    stories = fetch_recent_stories(seen_urls)
 
     if not stories:
         print("  No stories found — aborting.")
@@ -288,6 +345,10 @@ def main():
 
     print("\n[4/4] Sending email...")
     send_email(html)
+
+    new_seen = {normalize_url(s["url"]) for s in curated if s.get("url")}
+    save_seen_urls(new_seen)
+    print(f"  Saved {len(new_seen)} URLs to seen history")
 
     print(f"\n  Done! Newsletter delivered.\n")
 
