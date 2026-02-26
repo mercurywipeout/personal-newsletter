@@ -10,6 +10,7 @@ import json
 import time
 import smtplib
 import feedparser
+from html import escape
 from datetime import datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -151,6 +152,13 @@ Return ONLY a valid JSON array. No markdown, no explanation, no code fences.
     return []
 
 
+def safe_url(url):
+    url = str(url).strip()
+    if url.startswith(("http://", "https://")) and '"' not in url and "'" not in url:
+        return url
+    return "#"
+
+
 # ── Build HTML Email ───────────────────────────────────────────────────────────
 def build_html_email(stories):
     today_long  = datetime.now().strftime("%A, %B %d, %Y")
@@ -166,20 +174,21 @@ def build_html_email(stories):
     for cat, items in categories.items():
         story_blocks = ""
         for s in items:
+            url = safe_url(s.get('url', ''))
             story_blocks += f"""
             <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #f0eeeb;">
               <div style="font-size:11px;color:#999;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:6px;">
-                {s.get('signal','')}&nbsp;&nbsp;·&nbsp;&nbsp;{s.get('source','')}
+                {escape(s.get('signal',''))}&nbsp;&nbsp;·&nbsp;&nbsp;{escape(s.get('source',''))}
               </div>
-              <a href="{s.get('url','#')}" style="text-decoration:none;">
+              <a href="{url}" style="text-decoration:none;">
                 <h3 style="margin:0 0 8px 0;font-size:17px;font-weight:600;line-height:1.35;color:#1a1a1a;">
-                  {s.get('title','')}
+                  {escape(s.get('title',''))}
                 </h3>
               </a>
               <p style="margin:0;font-size:14px;line-height:1.65;color:#444;">
-                {s.get('summary','')}
+                {escape(s.get('summary',''))}
               </p>
-              <a href="{s.get('url','#')}" style="display:inline-block;margin-top:8px;font-size:12px;color:#0057ff;text-decoration:none;font-weight:500;">
+              <a href="{url}" style="display:inline-block;margin-top:8px;font-size:12px;color:#0057ff;text-decoration:none;font-weight:500;">
                 Read more →
               </a>
             </div>"""
@@ -187,7 +196,7 @@ def build_html_email(stories):
         sections_html += f"""
         <div style="margin-bottom:36px;">
           <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#0057ff;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #0057ff;">
-            {cat}
+            {escape(cat)}
           </div>
           {story_blocks}
         </div>"""
