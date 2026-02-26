@@ -165,10 +165,13 @@ def pre_filter_stories(stories, per_source=8, total_cap=100):
     stories = [s for s in stories
                if s.get("title") and s.get("url") and len(s.get("summary", "")) >= 30]
 
+    # Undated entries sort just above the cutoff — possibly recent, but below confirmed timestamps
+    _undated_rank = datetime.now() - timedelta(hours=34)
+
     def recency_key(s):
         p = s.get("published", "")
         if not p or p == "recent":
-            return datetime.max  # treat undated as newest
+            return _undated_rank
         try:
             return datetime.strptime(p, "%Y-%m-%d %H:%M")
         except Exception:
