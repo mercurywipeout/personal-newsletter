@@ -4,15 +4,6 @@ Daily AI & Tech Signal Newsletter
 Fetches top stories from RSS feeds, curates them with Claude, and sends a formatted email.
 """
 
-# Auto-install dependencies if missing (safe to run on any machine)
-import subprocess, sys
-for _pkg in ["feedparser", "anthropic"]:
-    try:
-        __import__(_pkg)
-    except ImportError:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", _pkg,
-                               "--break-system-packages", "-q"])
-
 import os
 import re
 import json
