@@ -150,6 +150,36 @@ def fetch_recent_stories(seen_urls=None):
     return stories
 
 
+# ── Pre-filter ─────────────────────────────────────────────────────────────────
+def pre_filter_stories(stories, per_source=8, total_cap=100):
+    # Drop entries missing title, url, or a meaningful summary
+    stories = [s for s in stories
+               if s.get("title") and s.get("url") and len(s.get("summary", "")) >= 30]
+
+    def recency_key(s):
+        p = s.get("published", "")
+        if not p or p == "recent":
+            return datetime.max  # treat undated as newest
+        try:
+            return datetime.strptime(p, "%Y-%m-%d %H:%M")
+        except Exception:
+            return datetime.min
+
+    # Take the most recent `per_source` stories per feed
+    by_source = {}
+    for s in stories:
+        by_source.setdefault(s["source"], []).append(s)
+
+    filtered = []
+    for source_stories in by_source.values():
+        source_stories.sort(key=recency_key, reverse=True)
+        filtered.extend(source_stories[:per_source])
+
+    # Final sort by recency and hard cap
+    filtered.sort(key=recency_key, reverse=True)
+    return filtered[:total_cap]
+
+
 # ── Claude Curation ────────────────────────────────────────────────────────────
 def curate_with_claude(stories):
     import anthropic
@@ -338,6 +368,9 @@ def main():
     if not stories:
         print("  No stories found — aborting.")
         return
+
+    stories = pre_filter_stories(stories)
+    print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
 
     print("\n[2/4] Curating with Claude...")
     curated = curate_with_claude(stories)
