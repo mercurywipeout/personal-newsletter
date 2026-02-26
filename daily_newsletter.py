@@ -45,34 +45,21 @@ CONFIG = load_config()
 
 # ── RSS Sources ────────────────────────────────────────────────────────────────
 RSS_FEEDS = [
-    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
-    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
     {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
     {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/"},
     {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
-    {"name": "Hacker News", "url": "https://news.ycombinator.com/rss"},
-    {"name": "The Information", "url": "https://www.theinformation.com/feed"},
     {"name": "Import AI", "url": "https://importai.substack.com/feed"},
     {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml"},
     {"name": "Anthropic News", "url": "https://www.anthropic.com/news/rss.xml"},
     {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
-    {"name": "Papers with Code", "url": "https://paperswithcode.com/latest.rss"},
-    {"name": "arXiv cs.AI", "url": "https://arxiv.org/rss/cs.AI"},
-    {"name": "arXiv cs.LG", "url": "https://arxiv.org/rss/cs.LG"},
-    {"name": "arXiv cs.CL", "url": "https://arxiv.org/rss/cs.CL"},
     {"name": "Hacker News Frontpage", "url": "https://hnrss.org/frontpage"},
-    {"name": "Hacker News Newest", "url": "https://hnrss.org/newest"},
     {"name": "Reddit r/MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/.rss"},
     {"name": "Reddit r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/.rss"},
-    {"name": "Product Hunt", "url": "https://www.producthunt.com/feed"},
-    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/ai/rss"},
     {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed"},
-    {"name": "Import AI", "url": "https://importai.substack.com/feed"},
     {"name": "One Useful Thing", "url": "https://oneusefulthing.substack.com/feed"},
     {"name": "Nathan Lambert Substack", "url": "https://natolambert.substack.com/feed"},
-    {"name": "Dwarkesh Podcast", "url": "https://api.substack.com/feed/podcast/69345.rss"},
-    {"name": "Meta Engineering", "url": "https://engineering.fb.com/feed"}
-    {"name": "The GitHub Blog", "url": "https://github.blog/feed"}    
+    {"name": "Google DeepMind News", "url": "https://deepmind.google/blog/rss.xml"},
+    {"name": "The GitHub Blog", "url": "https://github.blog/feed"}  
 ]
 
 # ── Fetch Stories ──────────────────────────────────────────────────────────────
@@ -247,8 +234,8 @@ def build_html_email(stories):
     <!-- Footer -->
     <div style="background:#f8f7f4;padding:24px 44px;border-top:1px solid #ece9e3;">
       <p style="margin:0;font-size:11px;color:#aaa;line-height:1.7;">
-        Curated by Claude · Sources: TechCrunch, The Verge, Ars Technica, VentureBeat, MIT Tech Review, Hacker News
-        <br>You're receiving this because you set it up. To stop, delete the scheduled task in Cowork.
+        Curated by Claude · Sources: {", ".join(f["name"] for f in RSS_FEEDS)}
+        <br>You're receiving this because you set it up. To stop, disable actions in the GitHub repo's settings.
       </p>
     </div>
 

@@ -1,11 +1,11 @@
 # Daily Personal Newsletter
 
-A daily newsletter that fetches AI and tech news from RSS feeds, curates the best stories using Claude, and delivers a formatted HTML email every morning.
+A daily newsletter that fetches AI and tech news from RSS feeds, curates the best stories using AI, and delivers a formatted HTML email every morning.
 
 ## How it works
 
-1. Pulls stories from 8 RSS feeds (TechCrunch, The Verge, Ars Technica, VentureBeat, MIT Tech Review, Hacker News, The Information, Import AI)
-2. Sends the raw stories to Claude, which selects 6–8 high-signal items and rewrites them with concise summaries
+1. Pulls stories from a configurable list of RSS feeds (news sites, blogs, Reddit, and more)
+2. Sends the raw stories to Claude/GPT, which selects 6–8 high-signal items and rewrites them with concise summaries
 3. Builds a responsive HTML email grouped by category
 4. Sends it via Gmail SMTP
 
