@@ -110,13 +110,20 @@ def fetch_recent_stories(seen_urls=None):
     for feed_info in RSS_FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:25]:
+            for i, entry in enumerate(feed.entries[:25]):
                 published = None
-                if hasattr(entry, "published_parsed") and entry.published_parsed:
-                    try:
-                        published = datetime.fromtimestamp(time.mktime(entry.published_parsed))
-                    except Exception:
-                        pass
+                for date_field in ("published_parsed", "updated_parsed"):
+                    raw = getattr(entry, date_field, None)
+                    if raw:
+                        try:
+                            published = datetime.fromtimestamp(time.mktime(raw))
+                            break
+                        except Exception:
+                            pass
+
+                # No date: include only the top 5 entries (feeds are reverse-chronological)
+                if published is None and i >= 5:
+                    continue
 
                 if published is None or published > cutoff:
                     raw_url = entry.get("link", "")
