@@ -6,10 +6,12 @@ Fetches top stories from RSS feeds, curates them with Claude, and sends a format
 
 import os
 import re
+import sys
 import json
 import time
 import smtplib
 import feedparser
+import concurrent.futures
 from html import escape
 from urllib.parse import urlparse, urlencode, parse_qsl, urlunparse
 from datetime import datetime, timedelta
@@ -109,51 +111,68 @@ RSS_FEEDS = [
 ]
 
 # ── Fetch Stories ──────────────────────────────────────────────────────────────
+def _fetch_one_feed(feed_info, seen_urls, cutoff):
+    stories = []
+    try:
+        feed = feedparser.parse(feed_info["url"], timeout=10)
+        for i, entry in enumerate(feed.entries[:25]):
+            published = None
+            for date_field in ("published_parsed", "updated_parsed"):
+                raw = getattr(entry, date_field, None)
+                if raw:
+                    try:
+                        published = datetime.fromtimestamp(time.mktime(raw))
+                        break
+                    except Exception:
+                        pass
+
+            # No date: include only the top 5 entries (feeds are reverse-chronological)
+            if published is None and i >= 5:
+                continue
+
+            if published is None or published > cutoff:
+                raw_url = entry.get("link", "")
+                if normalize_url(raw_url) in seen_urls:
+                    continue
+
+                raw_summary = entry.get("summary", entry.get("description", ""))
+                clean_summary = re.sub(r"<[^>]+>", " ", raw_summary)
+                clean_summary = re.sub(r"\s+", " ", clean_summary).strip()[:600]
+
+                stories.append({
+                    "source":    feed_info["name"],
+                    "title":     entry.get("title", "").strip(),
+                    "summary":   clean_summary,
+                    "url":       raw_url,
+                    "published": published.strftime("%Y-%m-%d %H:%M") if published else "recent",
+                })
+    except Exception as e:
+        print(f"  ⚠  Could not fetch {feed_info['name']}: {e}")
+    return stories
+
+
 def fetch_recent_stories(seen_urls=None):
     if seen_urls is None:
         seen_urls = set()
-    stories = []
+    cutoff = datetime.now() - timedelta(hours=36)
+
+    all_stories = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(_fetch_one_feed, fi, seen_urls, cutoff): fi for fi in RSS_FEEDS}
+        for future in concurrent.futures.as_completed(futures, timeout=60):
+            try:
+                all_stories.extend(future.result())
+            except Exception as e:
+                print(f"  ⚠  Feed fetch error: {e}")
+
+    # Dedup by normalized URL across all feeds
     seen_this_run = set()
-    cutoff = datetime.now() - timedelta(hours=36)  # slightly wider net
-
-    for feed_info in RSS_FEEDS:
-        try:
-            feed = feedparser.parse(feed_info["url"])
-            for i, entry in enumerate(feed.entries[:25]):
-                published = None
-                for date_field in ("published_parsed", "updated_parsed"):
-                    raw = getattr(entry, date_field, None)
-                    if raw:
-                        try:
-                            published = datetime.fromtimestamp(time.mktime(raw))
-                            break
-                        except Exception:
-                            pass
-
-                # No date: include only the top 5 entries (feeds are reverse-chronological)
-                if published is None and i >= 5:
-                    continue
-
-                if published is None or published > cutoff:
-                    raw_url = entry.get("link", "")
-                    key = normalize_url(raw_url)
-                    if key in seen_urls or key in seen_this_run:
-                        continue
-                    seen_this_run.add(key)
-
-                    raw_summary = entry.get("summary", entry.get("description", ""))
-                    clean_summary = re.sub(r"<[^>]+>", " ", raw_summary)
-                    clean_summary = re.sub(r"\s+", " ", clean_summary).strip()[:600]
-
-                    stories.append({
-                        "source":    feed_info["name"],
-                        "title":     entry.get("title", "").strip(),
-                        "summary":   clean_summary,
-                        "url":       raw_url,
-                        "published": published.strftime("%Y-%m-%d %H:%M") if published else "recent",
-                    })
-        except Exception as e:
-            print(f"  ⚠  Could not fetch {feed_info['name']}: {e}")
+    stories = []
+    for s in all_stories:
+        key = normalize_url(s["url"])
+        if key not in seen_this_run:
+            seen_this_run.add(key)
+            stories.append(s)
 
     print(f"  Fetched {len(stories)} raw stories across {len(RSS_FEEDS)} feeds")
     return stories
@@ -367,8 +386,12 @@ def send_email(html_content):
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 def main():
+    dry_run = "--dry-run" in sys.argv
+
     print(f"\n{'='*55}")
     print(f"  AI & Tech Signal  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    if dry_run:
+        print("  DRY RUN — no email will be sent, seen_stories not updated")
     print(f"{'='*55}")
 
     validate_config()
@@ -396,6 +419,13 @@ def main():
 
     print("\n[3/4] Building HTML email...")
     html = build_html_email(curated)
+
+    if dry_run:
+        preview_path = Path(__file__).parent / "newsletter_preview.html"
+        preview_path.write_text(html)
+        print(f"\n  Dry run complete. Preview saved to {preview_path.name}")
+        print("  Open it in a browser to inspect the output.\n")
+        return
 
     print("\n[4/4] Sending email...")
     send_email(html)
