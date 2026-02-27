@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Daily AI & Tech Signal Newsletter
+Daily Systems Brief Newsletter
 Fetches top stories from RSS feeds, curates them with Claude, and sends a formatted email.
 """
 
@@ -115,12 +115,7 @@ RSS_FEEDS = [
 def _fetch_one_feed(feed_info, seen_urls, cutoff):
     stories = []
     try:
-        old_timeout = socket.getdefaulttimeout()
-        socket.setdefaulttimeout(10)
-        try:
-            feed = feedparser.parse(feed_info["url"])
-        finally:
-            socket.setdefaulttimeout(old_timeout)
+        feed = feedparser.parse(feed_info["url"])
         for i, entry in enumerate(feed.entries[:25]):
             published = None
             for date_field in ("published_parsed", "updated_parsed"):
@@ -163,13 +158,21 @@ def fetch_recent_stories(seen_urls=None):
     cutoff = datetime.now() - timedelta(hours=36)
 
     all_stories = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        futures = {executor.submit(_fetch_one_feed, fi, seen_urls, cutoff): fi for fi in RSS_FEEDS}
-        for future in concurrent.futures.as_completed(futures, timeout=60):
+    old_timeout = socket.getdefaulttimeout()
+    socket.setdefaulttimeout(10)
+    try:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            futures = {executor.submit(_fetch_one_feed, fi, seen_urls, cutoff): fi for fi in RSS_FEEDS}
             try:
-                all_stories.extend(future.result())
-            except Exception as e:
-                print(f"  ⚠  Feed fetch error: {e}")
+                for future in concurrent.futures.as_completed(futures, timeout=60):
+                    try:
+                        all_stories.extend(future.result())
+                    except Exception as e:
+                        print(f"  ⚠  Feed fetch error: {e}")
+            except concurrent.futures.TimeoutError:
+                print("  ⚠  Feed fetching timed out after 60s — using partial results")
+    finally:
+        socket.setdefaulttimeout(old_timeout)
 
     # Dedup by normalized URL across all feeds
     seen_this_run = set()
@@ -225,7 +228,9 @@ def curate_with_claude(stories):
     today_str = datetime.now().strftime("%B %d, %Y")
     stories_json = json.dumps(stories, indent=2)
 
-    prompt = f"""You are the editor of a sharp daily newsletter called "AI & Tech Signal." Your reader is a tech-savvy professional who wants early-signal intelligence — not just mainstream news, but emerging trends and things that haven't reached the mainstream radar yet.
+    prompt = f"""You are the editor of a sharp daily newsletter called "Systems Brief."
+
+Your reader is a tech-savvy professional who wants high-signal awareness of what materially moved in AI and tech in the last 36 hours. They do NOT want forced narratives, hype, or artificial thematic cohesion.
 
 Today's date: {today_str}
 
@@ -234,31 +239,51 @@ Here are raw stories pulled from RSS feeds in the last 36 hours:
 {stories_json}
 
 Your job:
-1. Select the 6–8 most valuable stories across these three categories:
-   • **AI Models & Research** — new model releases, breakthrough papers, benchmark results
-   • **Developer Tools & Infrastructure** — APIs, frameworks, open-source projects gaining traction
-   • **Big Tech & Industry Moves** — strategy shifts, product launches, acquisitions, funding rounds
 
-2. Prioritize EARLY SIGNAL: things gaining momentum before they're mainstream. Deprioritize press releases and fluff.
+0. First, analyze the full set of stories and identify what materially changed in the AI and tech landscape in the last 36 hours.
+
+Write a 3–5 sentence situational briefing that:
+- Summarizes what moved without forcing a single overarching narrative
+- Avoids hype or sweeping claims
+- Distinguishes confirmed developments from speculation
+- Does NOT repeat individual story summaries
+- Clearly states if signals are fragmented or incremental
+
+1. Select the 6–8 most valuable stories across these three categories:
+   • AI Models & Research — new model releases, breakthrough papers, benchmark results
+   • Developer Tools & Infrastructure — APIs, frameworks, open-source projects gaining traction
+   • Big Tech & Industry Moves — strategy shifts, product launches, acquisitions, funding rounds
+
+2. Prioritize EARLY SIGNAL: meaningful developments before they are fully mainstream.
+   Prefer:
+   - Architecture-level changes over minor features
+   - Infrastructure shifts over incremental upgrades
+   - Behavioral or adoption shifts over marketing announcements
+   - Credible evidence over hype
 
 3. For each selected story write:
-   - A punchy, specific headline (rewrite if the original is vague or clickbait-y)
+   - A punchy, specific headline (rewrite vague or clickbait titles)
    - A 2–3 sentence summary focused on WHY it matters and what to watch for
+   - Measured language — avoid overstating structural impact unless clearly justified
    - A signal tag: one of "🔴 Major news", "🟡 Worth watching", or "🟢 Early signal"
    - The category: "AI Models & Research", "Developer Tools & Infra", or "Big Tech & Industry"
 
-Return ONLY a valid JSON array. No markdown, no explanation, no code fences.
+Return ONLY a valid JSON object with this structure:
 
-[
-  {{
-    "title": "...",
-    "summary": "...",
-    "signal": "🟡 Worth watching",
-    "category": "Developer Tools & Infra",
-    "source": "...",
-    "url": "..."
-  }}
-]"""
+{{
+  "situational_briefing": "3–5 sentence overview here",
+  "stories": [
+    {{
+      "title": "...",
+      "summary": "...",
+      "signal": "🟡 Worth watching",
+      "category": "Developer Tools & Infra",
+      "source": "...",
+      "url": "..."
+    }}
+  ]
+}}
+"""
 
     message = client.messages.create(
         model="claude-opus-4-5-20251101",
@@ -272,12 +297,23 @@ Return ONLY a valid JSON array. No markdown, no explanation, no code fences.
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
 
-    match = re.search(r"\[.*\]", raw, re.DOTALL)
-    if match:
-        return json.loads(match.group())
+    # Try new envelope format first: {"situational_briefing": "...", "stories": [...]}
+    obj_match = re.search(r"\{.*\}", raw, re.DOTALL)
+    if obj_match:
+        try:
+            parsed = json.loads(obj_match.group())
+            if "stories" in parsed:
+                return parsed.get("situational_briefing", ""), parsed["stories"]
+        except Exception:
+            pass
+
+    # Fallback: bare array
+    arr_match = re.search(r"\[.*\]", raw, re.DOTALL)
+    if arr_match:
+        return "", json.loads(arr_match.group())
 
     print("  ⚠  Could not parse Claude response — using raw stories as fallback")
-    return []
+    return "", []
 
 
 def safe_url(url):
@@ -288,7 +324,7 @@ def safe_url(url):
 
 
 # ── Build HTML Email ───────────────────────────────────────────────────────────
-def build_html_email(stories):
+def build_html_email(stories, situational_briefing=""):
     today_long  = datetime.now().strftime("%A, %B %d, %Y")
     today_short = datetime.now().strftime("%b %d")
 
@@ -334,7 +370,7 @@ def build_html_email(stories):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>AI &amp; Tech Signal — {today_short}</title>
+  <title>Systems Brief — {today_short}</title>
 </head>
 <body style="margin:0;padding:0;background:#f2f1ee;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,sans-serif;">
 
@@ -343,14 +379,14 @@ def build_html_email(stories):
     <!-- Header -->
     <div style="background:#0a0a0a;padding:36px 44px 32px;">
       <div style="font-size:10px;font-weight:600;color:#555;text-transform:uppercase;letter-spacing:2.5px;margin-bottom:10px;">Daily Intelligence</div>
-      <div style="font-size:30px;font-weight:800;color:#ffffff;letter-spacing:-0.5px;line-height:1;">AI &amp; Tech Signal</div>
+      <div style="font-size:30px;font-weight:800;color:#ffffff;letter-spacing:-0.5px;line-height:1;">Systems Brief</div>
       <div style="margin-top:10px;font-size:13px;color:#888;">{today_long}</div>
     </div>
 
-    <!-- Intro -->
+    <!-- Intro / Situational Briefing -->
     <div style="padding:28px 44px 0;border-bottom:1px solid #f0eeeb;">
       <p style="margin:0 0 24px;font-size:14px;line-height:1.7;color:#555;">
-        Your daily curation of what's moving in AI, developer tools, and big tech — filtered for signal over noise.
+        {escape(situational_briefing) if situational_briefing else "Your daily curation of what&#39;s moving in AI, developer tools, and big tech — filtered for signal over noise."}
       </p>
     </div>
 
@@ -375,11 +411,11 @@ def build_html_email(stories):
 # ── Send Email ─────────────────────────────────────────────────────────────────
 def send_email(html_content):
     today_short = datetime.now().strftime("%b %d")
-    subject = f"AI & Tech Signal — {today_short}"
+    subject = f"Systems Brief — {today_short}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"]    = f"AI & Tech Signal <{CONFIG['GMAIL_USER']}>"
+    msg["From"]    = f"Systems Brief <{CONFIG['GMAIL_USER']}>"
     msg["To"]      = CONFIG["RECIPIENT_EMAIL"]
     msg.attach(MIMEText(html_content, "html"))
 
@@ -395,7 +431,7 @@ def main():
     dry_run = "--dry-run" in sys.argv
 
     print(f"\n{'='*55}")
-    print(f"  AI & Tech Signal  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"  Systems Brief  |  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     if dry_run:
         print("  DRY RUN — no email will be sent, seen_stories not updated")
     print(f"{'='*55}")
@@ -416,7 +452,7 @@ def main():
     print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
 
     print("\n[2/4] Curating with Claude...")
-    curated = curate_with_claude(stories)
+    briefing, curated = curate_with_claude(stories)
     print(f"  Selected {len(curated)} stories for the newsletter")
 
     if not curated:
@@ -424,7 +460,7 @@ def main():
         return
 
     print("\n[3/4] Building HTML email...")
-    html = build_html_email(curated)
+    html = build_html_email(curated, briefing)
 
     if dry_run:
         preview_path = Path(__file__).parent / "newsletter_preview.html"
