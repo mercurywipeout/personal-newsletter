@@ -9,6 +9,7 @@ import re
 import sys
 import json
 import time
+import socket
 import smtplib
 import feedparser
 import concurrent.futures
@@ -114,7 +115,12 @@ RSS_FEEDS = [
 def _fetch_one_feed(feed_info, seen_urls, cutoff):
     stories = []
     try:
-        feed = feedparser.parse(feed_info["url"], timeout=10)
+        old_timeout = socket.getdefaulttimeout()
+        socket.setdefaulttimeout(10)
+        try:
+            feed = feedparser.parse(feed_info["url"])
+        finally:
+            socket.setdefaulttimeout(old_timeout)
         for i, entry in enumerate(feed.entries[:25]):
             published = None
             for date_field in ("published_parsed", "updated_parsed"):
