@@ -249,6 +249,21 @@ Write a 3–5 sentence situational briefing that:
 - Does NOT repeat individual story summaries
 - Clearly states if signals are fragmented or incremental
 
+0.5. Based on your analysis, generate a concise subject line.
+
+Subject line rules:
+- Reflect the most significant confirmed development in the last 36 hours
+- If no single dominant shift exists, reflect the strongest cluster of meaningful signals
+- Use concrete nouns and specific developments (avoid abstractions)
+- Avoid hype, drama, urgency language, or emotional framing
+- Do NOT use clickbait structures
+- Max 12 words
+- Clear > clever
+- No emojis
+- No quotation marks
+
+The subject line should read like a compressed log entry of what changed.
+
 1. Select the 6–8 most valuable stories across these three categories:
    • AI Models & Research — new model releases, breakthrough papers, benchmark results
    • Developer Tools & Infrastructure — APIs, frameworks, open-source projects gaining traction
@@ -267,10 +282,12 @@ Write a 3–5 sentence situational briefing that:
    - Measured language — avoid overstating structural impact unless clearly justified
    - A signal tag: one of "🔴 Major news", "🟡 Worth watching", or "🟢 Early signal"
    - The category: "AI Models & Research", "Developer Tools & Infra", or "Big Tech & Industry"
+   - The original source name and URL
 
 Return ONLY a valid JSON object with this structure:
 
 {{
+  "subject_line": "...",
   "situational_briefing": "3–5 sentence overview here",
   "stories": [
     {{
@@ -303,17 +320,21 @@ Return ONLY a valid JSON object with this structure:
         try:
             parsed = json.loads(obj_match.group())
             if "stories" in parsed:
-                return parsed.get("situational_briefing", ""), parsed["stories"]
+                return (
+                    parsed.get("subject_line", ""),
+                    parsed.get("situational_briefing", ""),
+                    parsed["stories"],
+                )
         except Exception:
             pass
 
     # Fallback: bare array
     arr_match = re.search(r"\[.*\]", raw, re.DOTALL)
     if arr_match:
-        return "", json.loads(arr_match.group())
+        return "", "", json.loads(arr_match.group())
 
     print("  ⚠  Could not parse Claude response — using raw stories as fallback")
-    return "", []
+    return "", "", []
 
 
 def safe_url(url):
@@ -409,9 +430,9 @@ def build_html_email(stories, situational_briefing=""):
 
 
 # ── Send Email ─────────────────────────────────────────────────────────────────
-def send_email(html_content):
+def send_email(html_content, subject_line=""):
     today_short = datetime.now().strftime("%b %d")
-    subject = f"Systems Brief — {today_short}"
+    subject = subject_line if subject_line else f"Systems Brief — {today_short}"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -452,7 +473,7 @@ def main():
     print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
 
     print("\n[2/4] Curating with Claude...")
-    briefing, curated = curate_with_claude(stories)
+    subject_line, briefing, curated = curate_with_claude(stories)
     print(f"  Selected {len(curated)} stories for the newsletter")
 
     if not curated:
@@ -465,12 +486,13 @@ def main():
     if dry_run:
         preview_path = Path(__file__).parent / "newsletter_preview.html"
         preview_path.write_text(html)
-        print(f"\n  Dry run complete. Preview saved to {preview_path.name}")
+        print(f"\n  Subject: {subject_line or '(fallback — no subject_line from Claude)'}")
+        print(f"  Dry run complete. Preview saved to {preview_path.name}")
         print("  Open it in a browser to inspect the output.\n")
         return
 
     print("\n[4/4] Sending email...")
-    send_email(html)
+    send_email(html, subject_line)
 
     new_seen = {normalize_url(s["url"]) for s in curated if s.get("url")}
     save_seen_urls(new_seen)
