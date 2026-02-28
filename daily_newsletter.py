@@ -93,23 +93,13 @@ def save_seen_urls(new_urls):
     SEEN_PATH.write_text(json.dumps(existing, indent=2))
 
 # ── RSS Sources ────────────────────────────────────────────────────────────────
-RSS_FEEDS = [
-    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
-    {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/"},
-    {"name": "MIT Tech Review", "url": "https://www.technologyreview.com/feed/"},
-    {"name": "Import AI", "url": "https://importai.substack.com/feed"},
-    {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml"},
-    {"name": "Anthropic News", "url": "https://www.anthropic.com/news/rss.xml"},
-    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
-    {"name": "Hacker News Frontpage", "url": "https://hnrss.org/frontpage"},
-    {"name": "Reddit r/MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/.rss"},
-    {"name": "Reddit r/LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/.rss"},
-    {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed"},
-    {"name": "One Useful Thing", "url": "https://oneusefulthing.substack.com/feed"},
-    {"name": "Nathan Lambert Substack", "url": "https://natolambert.substack.com/feed"},
-    {"name": "Google DeepMind News", "url": "https://deepmind.google/blog/rss.xml"},
-    {"name": "The GitHub Blog", "url": "https://github.blog/feed"}  
-]
+FEEDS_PATH = Path(__file__).parent / "feeds.json"
+
+def load_feeds():
+    feeds = json.loads(FEEDS_PATH.read_text())
+    return [f for f in feeds if f.get("enabled", True)]
+
+RSS_FEEDS = load_feeds()
 
 # ── Fetch Stories ──────────────────────────────────────────────────────────────
 def _fetch_one_feed(feed_info, seen_urls, cutoff):
