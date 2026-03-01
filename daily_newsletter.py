@@ -13,6 +13,7 @@ import socket
 import smtplib
 import feedparser
 import concurrent.futures
+from article_fetcher import enrich_stories
 from html import escape
 from urllib.parse import urlparse, urlencode, parse_qsl, urlunparse
 from datetime import datetime, timedelta
@@ -506,6 +507,7 @@ def main():
 
     stories = pre_filter_stories(stories)
     print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
+    enrich_stories(stories)
 
     print("\n[2/4] Curating with Claude...")
     subject_line, briefing, emerging_patterns, quiet_signals, curated = curate_with_claude(stories)

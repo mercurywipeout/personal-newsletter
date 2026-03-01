@@ -5,3 +5,6 @@ CLAUDE.md
 .claude/settings.local.json
 seen_stories.json
 newsletter_preview.html
+article_cache.jsonl
+__pycache__/
+*.pyc
