@@ -2,9 +2,12 @@
 """
 Full-article retrieval using Trafilatura.
 
-Two-stage pipeline: fetch → extract.
+Two-stage pipeline: fetch (urllib3) → extract (trafilatura).
 Results are persisted in a JSONL cache (article_cache.jsonl) so the same
 URL is never fetched twice across runs.
+
+Telemetry events (article_ok / article_error / article_blocked) are emitted
+to the scorecard's daily run file via scoring.scorecard.emit_telemetry().
 
 Public API
 ----------
@@ -15,12 +18,14 @@ enrich_stories(stories)        → same list, with 'full_text' added where avail
 
 import json
 import time
+import urllib3
 from collections import defaultdict
 from pathlib import Path
 from urllib.parse import urlparse
 
 import trafilatura
-from trafilatura.settings import use_config
+
+from scoring.scorecard import emit_telemetry, slug
 
 # ── Constants ──────────────────────────────────────────────────────────────────
 MAX_ARTICLES_PER_RUN = 20   # max new fetches per pipeline run
@@ -30,9 +35,30 @@ FULL_TEXT_TRUNCATE   = 2000 # chars of full text passed through to Claude
 
 CACHE_PATH = Path(__file__).parent / "article_cache.jsonl"
 
-# Trafilatura config: 15-second download timeout
-_TRAF_CONFIG = use_config()
-_TRAF_CONFIG.set("DEFAULT", "DOWNLOAD_TIMEOUT", "15")
+# Blocked HTTP status codes
+_BLOCKED_STATUSES = {402, 403, 429}
+
+# Paywall language patterns checked against the first 600 chars of extracted text
+_PAYWALL_SIGNALS = (
+    "subscribe to read", "sign in to read", "subscribers only",
+    "create a free account", "paywall", "premium content",
+    "member-only", "to continue reading", "log in to read",
+)
+
+# ── urllib3 HTTP pool ──────────────────────────────────────────────────────────
+_http = urllib3.PoolManager(
+    timeout=urllib3.Timeout(connect=10, read=15),
+    headers={
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/121.0.0.0 Safari/537.36"
+        ),
+        "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+    },
+    num_pools=5,
+)
 
 
 # ── URL helpers ────────────────────────────────────────────────────────────────
@@ -50,6 +76,13 @@ def _domain(url: str) -> str:
         return urlparse(url).netloc.lower().lstrip("www.")
     except Exception:
         return ""
+
+
+def _paywall_hint(text: str) -> bool:
+    if not text:
+        return False
+    lower = text.lower()[:600]
+    return any(sig in lower for sig in _PAYWALL_SIGNALS)
 
 
 # ── JSONL cache ────────────────────────────────────────────────────────────────
@@ -79,51 +112,85 @@ def _append_cache(result: dict) -> None:
 # ── Core extraction ────────────────────────────────────────────────────────────
 def extract_with_trafilatura(url: str) -> dict:
     """
-    Fetch and extract article content from a URL.
+    Fetch and extract article content from a URL using urllib3 + trafilatura.
 
     Returns a dict with keys:
         url, final_url, title, author, date, site_name,
-        text, language, word_count, status, error
+        text, language, word_count, status, error,
+        http_status, fetch_ms, extract_ms, blocked, paywall_hint
 
     Never raises — failures are returned as structured error objects.
     """
     canonical = _canonical(url)
     result: dict = {
-        "url":        canonical,
-        "final_url":  None,
-        "title":      None,
-        "author":     None,
-        "date":       None,
-        "site_name":  None,
-        "text":       None,
-        "language":   None,
-        "word_count": None,
-        "status":     "error",
-        "error":      None,
+        "url":          canonical,
+        "final_url":    None,
+        "title":        None,
+        "author":       None,
+        "date":         None,
+        "site_name":    None,
+        "text":         None,
+        "language":     None,
+        "word_count":   None,
+        "status":       "error",
+        "error":        None,
+        "http_status":  None,
+        "fetch_ms":     None,
+        "extract_ms":   None,
+        "blocked":      False,
+        "paywall_hint": False,
     }
 
     try:
-        downloaded = trafilatura.fetch_url(canonical, config=_TRAF_CONFIG)
-        if not downloaded:
-            result["error"] = "fetch_failed"
+        # ── Fetch ──────────────────────────────────────────────────────────────
+        t0 = time.monotonic()
+        try:
+            response = _http.request("GET", canonical, redirect=True)
+        except urllib3.exceptions.HTTPError as exc:
+            result["error"]    = f"fetch_error:{str(exc)[:200]}"
+            result["fetch_ms"] = int((time.monotonic() - t0) * 1000)
             return result
 
+        result["fetch_ms"]    = int((time.monotonic() - t0) * 1000)
+        result["http_status"] = response.status
+
+        if response.status in _BLOCKED_STATUSES:
+            result["error"]   = f"blocked:{response.status}"
+            result["blocked"] = True
+            return result
+
+        if response.status not in range(200, 300):
+            result["error"] = f"http_error:{response.status}"
+            return result
+
+        html_bytes = response.data
+        if not html_bytes:
+            result["error"] = "empty_response"
+            return result
+
+        # ── Extract ────────────────────────────────────────────────────────────
+        t1 = time.monotonic()
         raw = trafilatura.extract(
-            downloaded,
+            html_bytes,
+            url=canonical,
             output_format="json",
             with_metadata=True,
             include_comments=False,
             include_tables=True,
             deduplicate=True,
             favor_recall=True,
-            config=_TRAF_CONFIG,
         )
+        result["extract_ms"] = int((time.monotonic() - t1) * 1000)
+
         if not raw:
             result["error"] = "extraction_failed"
             return result
 
         data = json.loads(raw)
         text = (data.get("text") or "").strip()
+
+        result["paywall_hint"] = _paywall_hint(text)
+
         if len(text) < MIN_TEXT_LENGTH:
             result["error"] = f"text_too_short:{len(text)}"
             return result
@@ -158,11 +225,13 @@ def fetch_articles(stories: list) -> dict:
     Cache hits are included in the returned mapping but do not count
     toward either limit.
 
+    Emits article_ok / article_error / article_blocked telemetry events.
+
     Returns {canonical_url: result_dict, ...} for all processed stories.
     """
     cache = _load_cache()
     results: dict        = {}
-    to_fetch: list       = []   # (original_url, canonical_url) pairs
+    to_fetch: list       = []   # (original_url, canonical_url, feed_id) triples
     domain_counts: dict  = defaultdict(int)
 
     # ── Selection stage (apply limits before fetching) ─────────────────────────
@@ -184,26 +253,44 @@ def fetch_articles(stories: list) -> dict:
             continue
 
         domain_counts[dom] += 1
-        to_fetch.append((url, canon))
+        feed_id = story.get("feed_id") or slug(story.get("source", "unknown"))
+        to_fetch.append((url, canon, feed_id))
 
     # ── Fetch stage ────────────────────────────────────────────────────────────
     ok_count  = 0
     err_count = 0
     domain_metrics: dict = defaultdict(lambda: {"ok": 0, "error": 0})
 
-    for _orig_url, canon in to_fetch:
+    for _orig_url, canon, feed_id in to_fetch:
         result = extract_with_trafilatura(canon)
         result["fetched_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
         _append_cache(result)
         results[canon] = result
 
         dom = _domain(canon)
-        if result["status"] == "ok":
+        if result["blocked"]:
+            err_count += 1
+            domain_metrics[dom]["error"] += 1
+            emit_telemetry({"event": "article_blocked", "feed_id": feed_id, "url": canon})
+        elif result["status"] == "ok":
             ok_count += 1
             domain_metrics[dom]["ok"] += 1
+            emit_telemetry({
+                "event":      "article_ok",
+                "feed_id":    feed_id,
+                "url":        canon,
+                "fetch_ms":   result["fetch_ms"],
+                "extract_ms": result["extract_ms"],
+            })
         else:
             err_count += 1
             domain_metrics[dom]["error"] += 1
+            emit_telemetry({
+                "event":   "article_error",
+                "feed_id": feed_id,
+                "url":     canon,
+                "error":   result.get("error"),
+            })
 
     cache_hits = len(results) - len(to_fetch)
     print(f"  Article fetch: {ok_count} ok, {err_count} failed "

@@ -14,6 +14,7 @@ import smtplib
 import feedparser
 import concurrent.futures
 from article_fetcher import enrich_stories
+from scoring.scorecard import sync_feeds_state, post_run, get_rate_limit, slug, emit_telemetry
 from html import escape
 from urllib.parse import urlparse, urlencode, parse_qsl, urlunparse
 from datetime import datetime, timedelta
@@ -98,7 +99,10 @@ FEEDS_PATH = Path(__file__).parent / "feeds.json"
 
 def load_feeds():
     feeds = json.loads(FEEDS_PATH.read_text())
-    return [f for f in feeds if f.get("enabled", True)]
+    result = [f for f in feeds if f.get("enabled", True)]
+    for f in result:
+        f.setdefault("id", slug(f["name"]))
+    return result
 
 RSS_FEEDS = load_feeds()
 
@@ -133,6 +137,7 @@ def _fetch_one_feed(feed_info, seen_urls, cutoff):
 
                 stories.append({
                     "source":    feed_info["name"],
+                    "feed_id":   feed_info.get("id", ""),
                     "title":     entry.get("title", "").strip(),
                     "summary":   clean_summary,
                     "url":       raw_url,
@@ -174,12 +179,17 @@ def fetch_recent_stories(seen_urls=None):
             seen_this_run.add(key)
             stories.append(s)
 
+    # Emit story_fetched telemetry (sequential — after thread pool completes)
+    for s in stories:
+        if s.get("feed_id"):
+            emit_telemetry({"event": "story_fetched", "feed_id": s["feed_id"]})
+
     print(f"  Fetched {len(stories)} raw stories across {len(RSS_FEEDS)} feeds")
     return stories
 
 
 # ── Pre-filter ─────────────────────────────────────────────────────────────────
-def pre_filter_stories(stories, per_source=8, total_cap=100):
+def pre_filter_stories(stories, per_source=8, total_cap=100, feeds_state_by_id=None):
     # Drop entries missing title, url, or a meaningful summary
     stories = [s for s in stories
                if s.get("title") and s.get("url") and len(s.get("summary", "")) >= 30]
@@ -196,15 +206,28 @@ def pre_filter_stories(stories, per_source=8, total_cap=100):
         except Exception:
             return datetime.min
 
-    # Take the most recent `per_source` stories per feed
+    # Take the most recent N stories per feed, where N comes from the scorecard
     by_source = {}
     for s in stories:
         by_source.setdefault(s["source"], []).append(s)
 
     filtered = []
     for source_stories in by_source.values():
+        feed_id = source_stories[0].get("feed_id", "") if source_stories else ""
+        if feeds_state_by_id and feed_id:
+            status = feeds_state_by_id.get(feed_id, {}).get("status", "active")
+            limit  = get_rate_limit(status)
+        else:
+            limit = per_source
+        if limit == 0:
+            continue  # disabled feed — drop entirely
         source_stories.sort(key=recency_key, reverse=True)
-        filtered.extend(source_stories[:per_source])
+        filtered.extend(source_stories[:limit])
+
+    # Emit story_passed telemetry
+    for s in filtered:
+        if s.get("feed_id"):
+            emit_telemetry({"event": "story_passed", "feed_id": s["feed_id"]})
 
     # Final sort by recency and hard cap
     filtered.sort(key=recency_key, reverse=True)
@@ -495,6 +518,9 @@ def main():
 
     validate_config()
 
+    feeds_state       = sync_feeds_state(RSS_FEEDS)
+    feeds_state_by_id = {f["id"]: f for f in feeds_state}
+
     seen_urls = load_seen_urls()
     print(f"  Loaded {len(seen_urls)} previously seen URLs (last {SEEN_TTL_DAYS} days)")
 
@@ -505,7 +531,7 @@ def main():
         print("  No stories found — aborting.")
         return
 
-    stories = pre_filter_stories(stories)
+    stories = pre_filter_stories(stories, feeds_state_by_id=feeds_state_by_id)
     print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
     enrich_stories(stories)
 
@@ -526,6 +552,7 @@ def main():
         print(f"\n  Subject: {subject_line or '(none returned by Claude)'}")
         print(f"  Dry run complete. Preview saved to {preview_path.name}")
         print("  Open it in a browser to inspect the output.\n")
+        post_run(RSS_FEEDS)
         return
 
     print("\n[4/4] Sending email...")
@@ -535,6 +562,7 @@ def main():
     save_seen_urls(new_seen)
     print(f"  Saved {len(new_seen)} URLs to seen history")
 
+    post_run(RSS_FEEDS)
     print(f"\n  Done! Newsletter delivered.\n")
 
 

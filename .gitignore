@@ -8,3 +8,8 @@ newsletter_preview.html
 article_cache.jsonl
 __pycache__/
 *.pyc
+
+# Scorecard runtime data (history stays local / in GitHub Actions cache)
+data/feeds.json
+data/feed_stats_daily.json
+data/runs/
