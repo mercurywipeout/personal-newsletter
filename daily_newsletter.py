@@ -232,12 +232,18 @@ Your job:
 
 0. First, analyze the full set of stories and identify what materially changed in the AI and tech landscape in the last 36 hours.
 
-Write a 3–5 sentence situational briefing that:
+Write a 2–3 sentence situational briefing that:
 - Summarizes what moved without forcing a single overarching narrative
 - Avoids hype or sweeping claims
 - Distinguishes confirmed developments from speculation
 - Does NOT repeat individual story summaries
 - Clearly states if signals are fragmented or incremental
+
+0.25. Write the following synthesis sections (no emojis anywhere in these sections):
+
+Emerging patterns (2–3 bullets): What structural or directional patterns are emerging across multiple stories? Focus on second-order effects and cross-cutting trends, not individual events. Each bullet is a concise sentence.
+
+Quiet signals (1–3 bullets): Low-visibility developments that deserve attention but didn't make the main story selection. Think: early adoption patterns, under-covered releases, or subtle behavioral shifts. Each bullet is a concise sentence.
 
 0.5. Based on your analysis, generate a concise subject line.
 
@@ -270,7 +276,7 @@ The subject line should read like a compressed log entry of what changed.
    - A punchy, specific headline (rewrite vague or clickbait titles)
    - A 2–3 sentence summary focused on WHY it matters and what to watch for
    - Measured language — avoid overstating structural impact unless clearly justified
-   - A signal tag: one of "🔴 Major news", "🟡 Worth watching", or "🟢 Early signal"
+   - A signal tag: one of "Major news", "Worth watching", or "Early signal" (no emojis)
    - The category: "AI Models & Research", "Developer Tools & Infra", or "Big Tech & Industry"
    - The original source name and URL
 
@@ -278,12 +284,14 @@ Return ONLY a valid JSON object with this structure:
 
 {{
   "subject_line": "...",
-  "situational_briefing": "3–5 sentence overview here",
+  "situational_briefing": "2–3 sentence overview here",
+  "emerging_patterns": ["pattern sentence 1", "pattern sentence 2"],
+  "quiet_signals": ["signal sentence 1", "signal sentence 2"],
   "stories": [
     {{
       "title": "...",
       "summary": "...",
-      "signal": "🟡 Worth watching",
+      "signal": "Worth watching",
       "category": "Developer Tools & Infra",
       "source": "...",
       "url": "..."
@@ -304,7 +312,7 @@ Return ONLY a valid JSON object with this structure:
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
 
-    # Try new envelope format first: {"situational_briefing": "...", "stories": [...]}
+    # Try envelope format: {"subject_line": "...", "situational_briefing": "...", "stories": [...], ...}
     obj_match = re.search(r"\{.*\}", raw, re.DOTALL)
     if obj_match:
         try:
@@ -313,6 +321,8 @@ Return ONLY a valid JSON object with this structure:
                 return (
                     parsed.get("subject_line", ""),
                     parsed.get("situational_briefing", ""),
+                    parsed.get("emerging_patterns", []),
+                    parsed.get("quiet_signals", []),
                     parsed["stories"],
                 )
         except Exception:
@@ -321,10 +331,10 @@ Return ONLY a valid JSON object with this structure:
     # Fallback: bare array
     arr_match = re.search(r"\[.*\]", raw, re.DOTALL)
     if arr_match:
-        return "", "", json.loads(arr_match.group())
+        return "", "", [], [], json.loads(arr_match.group())
 
     print("  ⚠  Could not parse Claude response — using raw stories as fallback")
-    return "", "", []
+    return "", "", [], [], []
 
 
 def safe_url(url):
@@ -335,11 +345,41 @@ def safe_url(url):
 
 
 # ── Build HTML Email ───────────────────────────────────────────────────────────
-def build_html_email(stories, situational_briefing=""):
+def build_html_email(stories, situational_briefing="", emerging_patterns=None, quiet_signals=None):
     today_long  = datetime.now().strftime("%A, %B %d, %Y")
     today_short = datetime.now().strftime("%b %d")
 
-    # Group by category
+    # ── Emerging Patterns (subsection below briefing) ───────────────────────────
+    emerging_html = ""
+    if emerging_patterns:
+        bullets = "".join(
+            f'<li style="font-size:13px;line-height:1.65;color:#555;margin-bottom:5px;">{escape(b)}</li>'
+            for b in emerging_patterns
+        )
+        emerging_html = f"""
+      <div style="margin-top:16px;margin-bottom:4px;">
+        <div style="font-size:10px;font-weight:600;color:#1a1a1a;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;">
+          Emerging patterns
+        </div>
+        <ul style="margin:0;padding:0 0 0 16px;">{bullets}</ul>
+      </div>"""
+
+    # ── Quiet Signals (bottom of email, before footer) ──────────────────────────
+    quiet_signals_html = ""
+    if quiet_signals:
+        bullets = "".join(
+            f'<li style="font-size:13px;line-height:1.65;color:#666;margin-bottom:5px;">{escape(b)}</li>'
+            for b in quiet_signals
+        )
+        quiet_signals_html = f"""
+  <div style="padding:20px 44px 24px;border-top:1px solid #ece9e3;">
+    <div style="font-size:10px;font-weight:600;color:#1a1a1a;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;">
+      Quiet signals
+    </div>
+    <ul style="margin:0;padding:0 0 0 16px;">{bullets}</ul>
+  </div>"""
+
+    # ── Story sections grouped by category ─────────────────────────────────────
     categories = {}
     for s in stories:
         cat = s.get("category", "General")
@@ -394,17 +434,22 @@ def build_html_email(stories, situational_briefing=""):
       <div style="margin-top:10px;font-size:13px;color:#888;">{today_long}</div>
     </div>
 
-    <!-- Intro / Situational Briefing -->
+    <!-- Intro / Situational Briefing + Emerging Patterns -->
     <div style="padding:28px 44px 0;border-bottom:1px solid #f0eeeb;">
-      <p style="margin:0 0 24px;font-size:14px;line-height:1.7;color:#555;">
+      <p style="margin:0 0 {('26' if emerging_patterns else '34')}px;font-size:14px;line-height:1.7;color:#555;">
         {escape(situational_briefing) if situational_briefing else "Your daily curation of what&#39;s moving in AI, developer tools, and big tech — filtered for signal over noise."}
       </p>
+      {emerging_html}
+      <div style="height:24px;"></div>
     </div>
 
     <!-- Stories -->
     <div style="padding:32px 44px;">
       {sections_html}
     </div>
+
+    <!-- Quiet Signals -->
+    {quiet_signals_html}
 
     <!-- Footer -->
     <div style="background:#f8f7f4;padding:24px 44px;border-top:1px solid #ece9e3;">
@@ -463,7 +508,7 @@ def main():
     print(f"  Pre-filtered to {len(stories)} stories (≤8 per source, ≤100 total)")
 
     print("\n[2/4] Curating with Claude...")
-    subject_line, briefing, curated = curate_with_claude(stories)
+    subject_line, briefing, emerging_patterns, quiet_signals, curated = curate_with_claude(stories)
     print(f"  Selected {len(curated)} stories for the newsletter")
 
     if not curated:
@@ -471,12 +516,12 @@ def main():
         return
 
     print("\n[3/4] Building HTML email...")
-    html = build_html_email(curated, briefing)
+    html = build_html_email(curated, briefing, emerging_patterns, quiet_signals)
 
     if dry_run:
         preview_path = Path(__file__).parent / "newsletter_preview.html"
         preview_path.write_text(html)
-        print(f"\n  Subject: {subject_line or '(fallback — no subject_line from Claude)'}")
+        print(f"\n  Subject: {subject_line or '(none returned by Claude)'}")
         print(f"  Dry run complete. Preview saved to {preview_path.name}")
         print("  Open it in a browser to inspect the output.\n")
         return
