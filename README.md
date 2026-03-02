@@ -1,15 +1,18 @@
 # Daily Personal Newsletter
 
-A daily newsletter that fetches AI and tech news from RSS feeds, curates the best stories using AI, and delivers a formatted HTML email every morning.
+A daily AI & tech newsletter that fetches stories from RSS feeds, deduplicates and clusters them, curates the best with Claude, and delivers a formatted HTML email every morning.
 
 ## How it works
 
-1. Pulls stories from a configurable list of RSS feeds (news sites, blogs, Reddit, and more)
-2. Sends the raw stories to Claude/GPT, which selects 6–8 high-signal items and rewrites them with concise summaries
-3. Builds a responsive HTML email grouped by category
-4. Sends it via Gmail SMTP
+1. **Fetch** — pulls stories from a configurable list of RSS feeds (last 36 hours)
+2. **Enrich** — fetches full article text for better deduplication signal
+3. **Cluster** — groups near-duplicate stories using SimHash; one representative per event
+4. **Curate** — sends representatives to Claude, which selects 6–8 high-signal items with concise summaries, signal tags, and a situational briefing
+5. **Deliver** — builds a responsive HTML email and sends it via Gmail SMTP
 
 Runs automatically every day at **7 AM PT** via GitHub Actions.
+
+---
 
 ## Setup
 
@@ -18,31 +21,35 @@ Runs automatically every day at **7 AM PT** via GitHub Actions.
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+pip install -r requirements.txt
 ```
 
 ### 2. Add GitHub Secrets
 
-In your repo go to **Settings → Secrets and variables → Actions** and add:
+In **Settings → Secrets and variables → Actions**, add:
 
 | Secret | Description |
 |---|---|
 | `ANTHROPIC_API_KEY` | Your Anthropic API key |
 | `GMAIL_USER` | Gmail address to send from |
-| `GMAIL_APP_PASSWORD` | [Gmail App Password](https://myaccount.google.com/apppasswords) (not your regular password) |
-| `RECIPIENT_EMAIL` | Email address to deliver the newsletter to |
+| `GMAIL_APP_PASSWORD` | [Gmail App Password](https://myaccount.google.com/apppasswords) |
+| `RECIPIENT_EMAIL` | Delivery address |
 
 ### 3. Enable GitHub Actions
 
-The workflow file at `.github/workflows/daily-newsletter.yml` will run automatically once the secrets are set. You can also trigger it manually from the **Actions** tab.
+`.github/workflows/daily-newsletter.yml` runs automatically once secrets are set.
+Trigger manually from the **Actions** tab at any time.
+
+---
 
 ## Running locally
 
 ```bash
-pip install -r requirements.txt
-python daily_newsletter.py
+python daily_newsletter.py          # full run (sends email)
+python daily_newsletter.py --dry-run  # preview only, saves newsletter_preview.html
 ```
 
-Create a `newsletter.config` file in the project root with your credentials:
+Create a `newsletter.config` file in the project root:
 
 ```
 GMAIL_USER=you@gmail.com
@@ -51,17 +58,65 @@ RECIPIENT_EMAIL=you@gmail.com
 ANTHROPIC_API_KEY=sk-ant-...
 ```
 
-This file is gitignored and will never be committed.
+This file is gitignored and never committed.
+
+---
+
+## Feed management
+
+Feeds are defined in `config/feeds.seed.json`. Each entry has a name, URL, category, and priority. On first run, this seed is bootstrapped into `data/feeds.json`, which tracks runtime state (status, performance streaks).
+
+The scorecard system automatically moves low-performing feeds to `probation` or `disabled` status based on rolling click and pass-through rates. It recovers feeds that improve.
+
+### Adding feeds
+
+Edit `config/feeds.seed.json`. The runtime state file (`data/feeds.json`) is gitignored and re-created from the seed if absent.
+
+### Weekly feed discovery
+
+A separate workflow (`.github/workflows/weekly-feed-discovery.yml`) runs every Sunday. It analyzes outbound links from recent articles, discovers candidate RSS/Atom feeds, validates them, and writes ranked recommendations to `data/feed_recommendations.json`.
+
+Run it manually:
+
+```bash
+# Discover feeds from a specific cluster date
+python -m discovery.recommend_feeds --day 2026-03-01
+
+# Also auto-add top candidates as probation feeds
+python -m discovery.recommend_feeds --day 2026-03-01 --auto-add
+```
+
+---
 
 ## Story categories
 
-Claude organizes stories into three categories:
+Stories are organized into three categories:
 
-- **AI Models & Research** — new model releases, papers, benchmark results
+- **AI Models & Research** — model releases, papers, benchmark results
 - **Developer Tools & Infrastructure** — APIs, frameworks, open-source projects
 - **Big Tech & Industry Moves** — strategy shifts, launches, acquisitions, funding
 
 Each story gets a signal tag: 🔴 Major news · 🟡 Worth watching · 🟢 Early signal
+
+---
+
+## Project structure
+
+```
+daily_newsletter.py          # main entry point
+config/
+  feeds.seed.json            # committed feed definitions (seed)
+article_fetcher.py           # full-text enrichment (urllib3 + trafilatura)
+clustering/                  # SimHash deduplication
+scoring/                     # feed scorecard and telemetry
+discovery/                   # weekly feed recommendation system
+data/                        # runtime state (gitignored)
+.github/workflows/
+  daily-newsletter.yml       # daily send at 7 AM PT
+  weekly-feed-discovery.yml  # Sunday feed discovery
+```
+
+---
 
 ## Requirements
 
