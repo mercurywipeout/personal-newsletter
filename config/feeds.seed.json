@@ -1,0 +1,152 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news/rss.xml",
+    "category": "ai",
+    "enabled": false,
+    "priority": 1
+  },
+  {
+    "name": "Google DeepMind News",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "category": "ai",
+    "enabled": true,
+    "priority": 1
+  },
+
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "developer",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "The GitHub Blog",
+    "url": "https://github.blog/feed",
+    "category": "developer",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "LangChain Blog",
+    "url": "https://blog.langchain.dev/rss/",
+    "category": "developer",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "LlamaIndex Blog",
+    "url": "https://medium.com/feed/llamaindex-blog",
+    "category": "developer",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Latent Space",
+    "url": "https://www.latent.space/feed",
+    "category": "practice",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Simon Willison",
+    "url": "https://simonwillison.net/atom/everything/",
+    "category": "practice",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Chip Huyen",
+    "url": "https://huyenchip.com/feed.xml",
+    "category": "practice",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Sebastian Raschka",
+    "url": "https://magazine.sebastianraschka.com/feed",
+    "category": "practice",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/feed",
+    "category": "ai",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+    "category": "tech",
+    "enabled": true,
+    "priority": 2
+  },
+
+  {
+    "name": "Import AI",
+    "url": "https://importai.substack.com/feed",
+    "category": "ai",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "Nathan Lambert Substack",
+    "url": "https://natolambert.substack.com/feed",
+    "category": "ai",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "One Useful Thing",
+    "url": "https://oneusefulthing.substack.com/feed",
+    "category": "ai",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "category": "ai",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "tech",
+    "enabled": true,
+    "priority": 3
+  },
+
+  {
+    "name": "Hacker News Frontpage",
+    "url": "https://hnrss.org/frontpage",
+    "category": "tech",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "Reddit r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/.rss",
+    "category": "ai",
+    "enabled": true,
+    "priority": 4
+  },
+  {
+    "name": "Reddit r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
+    "category": "ai",
+    "enabled": true,
+    "priority": 4
+  }
+]

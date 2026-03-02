@@ -96,7 +96,7 @@ def save_seen_urls(new_urls):
     SEEN_PATH.write_text(json.dumps(existing, indent=2))
 
 # ── RSS Sources ────────────────────────────────────────────────────────────────
-FEEDS_PATH = Path(__file__).parent / "feeds.json"
+FEEDS_PATH = Path(__file__).parent / "config" / "feeds.seed.json"
 
 def load_feeds():
     feeds = json.loads(FEEDS_PATH.read_text())
@@ -519,6 +519,9 @@ def main():
 
     validate_config()
 
+    from discovery.recommend_feeds import bootstrap_feeds_state
+    bootstrap_feeds_state()
+
     feeds_state       = sync_feeds_state(RSS_FEEDS)
     feeds_state_by_id = {f["id"]: f for f in feeds_state}
 
@@ -561,6 +564,9 @@ def main():
         print(f"  Dry run complete. Preview saved to {preview_path.name}")
         print("  Open it in a browser to inspect the output.\n")
         post_run(RSS_FEEDS)
+        if os.environ.get("RECOMMEND_FEEDS"):
+            from discovery.recommend_feeds import run_recommendations
+            run_recommendations(stories, auto_add=bool(os.environ.get("AUTO_ADD_RECOMMENDED_FEEDS")))
         return
 
     print("\n[4/4] Sending email...")
@@ -571,6 +577,9 @@ def main():
     print(f"  Saved {len(new_seen)} URLs to seen history")
 
     post_run(RSS_FEEDS)
+    if os.environ.get("RECOMMEND_FEEDS"):
+        from discovery.recommend_feeds import run_recommendations
+        run_recommendations(stories, auto_add=bool(os.environ.get("AUTO_ADD_RECOMMENDED_FEEDS")))
     print(f"\n  Done! Newsletter delivered.\n")
 
 

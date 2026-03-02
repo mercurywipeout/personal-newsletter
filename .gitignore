@@ -12,5 +12,7 @@ __pycache__/
 # Scorecard runtime data (history stays local / in GitHub Actions cache)
 data/feeds.json
 data/feed_stats_daily.json
+data/feed_recommendations.json
 data/runs/
 data/clusters/
+data/cache/
