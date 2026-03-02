@@ -130,13 +130,13 @@ def _domain(url: str) -> str:
 # ── Representative scoring ─────────────────────────────────────────────────────
 def score_for_representative(story: dict) -> float:
     """
-    Score a story for representative selection within its cluster.
-    Higher is better. Isolated here so it can be tested and tuned independently.
+    Base score for representative selection within a cluster.
+    Higher is better. Does not include time-based scoring — earliness is
+    measured cluster-relative inside cluster_stories() and added on top.
 
-    Criteria (in priority order):
+    Criteria:
       1. Successful full-text extraction — large binary bonus.
       2. Higher word count (prefers well-developed articles, capped at 800 words).
-      3. Earlier publish time — proxy for originality (up to 5 points over 72 h).
     """
     score = 0.0
 
@@ -145,16 +145,6 @@ def score_for_representative(story: dict) -> float:
         score += 1000.0
         words = len(full_text.split())
         score += min(words / 100.0, 8.0)  # up to 8 pts for ≥ 800 words
-
-    published = story.get("published", "")
-    if published and published != "recent":
-        try:
-            dt = _parse_published(published)
-            if dt is not None:
-                hours_ago = max(0.0, (datetime.now() - dt).total_seconds() / 3600.0)
-                score += min(hours_ago / TIME_WINDOW_HOURS * 5.0, 5.0)  # up to 5 pts
-        except Exception:
-            pass
 
     return score
 
@@ -226,18 +216,34 @@ def cluster_stories(
 
     for indices in groups.values():
         cluster_stories_list = [stories[i] for i in indices]
-        representative = max(cluster_stories_list, key=score_for_representative)
+
+        # Cluster-relative earliness: find the earliest valid publish timestamp.
+        parsed_times = [_parse_published(s.get("published", "")) for s in cluster_stories_list]
+        valid_dts    = [dt for dt in parsed_times if dt is not None]
+        earliest_dt  = min(valid_dts) if valid_dts else None
+        earliest_iso = earliest_dt.strftime("%Y-%m-%dT%H:%M:%SZ") if earliest_dt else None
+
+        # Score = base score + earliness bonus (up to 5 pts; earlier = more pts).
+        scores = []
+        for k, story in enumerate(cluster_stories_list):
+            s = score_for_representative(story)
+            if earliest_dt is not None and parsed_times[k] is not None:
+                delay_h = (parsed_times[k] - earliest_dt).total_seconds() / 3600.0
+                s += max(0.0, 5.0 - delay_h / TIME_WINDOW_HOURS * 5.0)
+            scores.append(s)
+        representative = cluster_stories_list[scores.index(max(scores))]
 
         article_ids = [s.get("url", "") for s in cluster_stories_list]
         domains     = sorted({_domain(s.get("url", "")) for s in cluster_stories_list
                                if s.get("url")})
 
         clusters.append({
-            "cluster_id":               _cluster_id(representative),
-            "created_at":               now_str,
-            "article_ids":              article_ids,
+            "cluster_id":                _cluster_id(representative),
+            "created_at":                now_str,
+            "article_ids":               article_ids,
             "representative_article_id": representative.get("url", ""),
-            "domains":                  domains,
+            "domains":                   domains,
+            "earliest_published_at":     earliest_iso,
         })
         representatives.append(representative)
 
@@ -286,7 +292,7 @@ def emit_cluster_telemetry(
                              multi-article cluster (counts toward first_in_cluster_rate)
     """
     story_by_url = {s.get("url"): s for s in all_stories if s.get("url")}
-    rep_urls     = {s.get("url") for s in representatives}
+    emitted: set = set()  # (event, feed_id, url) — dedups within this call
 
     for cluster in clusters:
         article_ids = cluster["article_ids"]
@@ -309,11 +315,17 @@ def emit_cluster_telemetry(
             is_rep = (url == rep_url)
 
             if not is_rep:
-                emit_telemetry({"event": "story_duplicate", "feed_id": feed_id, "url": url})
+                key = ("story_duplicate", feed_id, url)
+                if key not in emitted:
+                    emitted.add(key)
+                    emit_telemetry({"event": "story_duplicate", "feed_id": feed_id, "url": url})
             else:
                 if _is_earliest_in_cluster(story, cluster_articles):
-                    emit_telemetry({
-                        "event":   "story_first_in_cluster",
-                        "feed_id": feed_id,
-                        "url":     url,
-                    })
+                    key = ("story_first_in_cluster", feed_id, url)
+                    if key not in emitted:
+                        emitted.add(key)
+                        emit_telemetry({
+                            "event":   "story_first_in_cluster",
+                            "feed_id": feed_id,
+                            "url":     url,
+                        })

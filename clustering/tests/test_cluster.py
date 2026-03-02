@@ -5,13 +5,16 @@ Tests cover:
   1. Similar texts cluster together
   2. Dissimilar texts do not cluster
   3. Time window prevents clustering despite text similarity
-  4. Representative selection: full_text gate, word count, earlier publish time
+  4. Representative selection: full_text gate, word count, cluster-relative earliness
   5. SimHash and Hamming distance primitives
+  6. Cluster manifest fields (earliest_published_at)
+  7. emit_cluster_telemetry idempotency and event counts
 
 Run with:  python3 -m unittest clustering.tests.test_cluster
 """
 
 import unittest
+from unittest.mock import patch
 from clustering.cluster import (
     _simhash,
     _hamming_distance,
@@ -21,6 +24,7 @@ from clustering.cluster import (
     _is_earliest_in_cluster,
     score_for_representative,
     cluster_stories,
+    emit_cluster_telemetry,
     SIMILARITY_THRESHOLD,
     TIME_WINDOW_HOURS,
 )
@@ -229,10 +233,11 @@ class TestScoreForRepresentative(unittest.TestCase):
             score_for_representative(without_text),
         )
 
-    def test_earlier_publish_preferred_when_both_have_full_text(self):
+    def test_publish_time_does_not_affect_base_score(self):
+        """Time-based scoring is cluster-relative; publish time has no effect on base score."""
         earlier = self._story(published="2026-03-01 08:00", full_text="content " * 50)
         later   = self._story(published="2026-03-01 20:00", full_text="content " * 50)
-        self.assertGreater(
+        self.assertEqual(
             score_for_representative(earlier),
             score_for_representative(later),
         )
@@ -256,11 +261,11 @@ class TestScoreForRepresentative(unittest.TestCase):
             delta=0.1,
         )
 
-    def test_recent_unknown_publish_gets_no_time_bonus(self):
+    def test_unknown_publish_time_does_not_affect_base_score(self):
+        """Publish time is not part of the base score; unknown and known timestamps are equal."""
         known   = self._story(published="2026-03-01 08:00", full_text="content " * 50)
         unknown = self._story(published="recent", full_text="content " * 50)
-        # Known (earlier) should outscore unknown
-        self.assertGreaterEqual(
+        self.assertEqual(
             score_for_representative(known),
             score_for_representative(unknown),
         )
@@ -323,6 +328,163 @@ class TestIsEarliestInCluster(unittest.TestCase):
     def test_true_for_singleton(self):
         s1 = self._story("s1", "2026-03-01 10:00")
         self.assertTrue(_is_earliest_in_cluster(s1, [s1]))
+
+
+# ── Cluster manifest fields ────────────────────────────────────────────────────
+class TestClusterManifestFields(unittest.TestCase):
+
+    def test_earliest_published_at_present_when_timestamps_known(self):
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00"),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 12:00"),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertEqual(len(clusters), 1)
+        self.assertEqual(clusters[0]["earliest_published_at"], "2026-03-01T08:00:00Z")
+
+    def test_earliest_published_at_null_when_all_timestamps_unknown(self):
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="recent"),
+            _make_story("s2", _SAME_EVENT_B, published="recent"),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertIsNone(clusters[0]["earliest_published_at"])
+
+    def test_earliest_published_at_uses_earliest_not_representative(self):
+        # s2 is rep (has full_text), but s1 published earlier
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 06:00"),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 10:00",
+                        full_text="full article content " * 30),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertEqual(len(clusters), 1)
+        self.assertEqual(clusters[0]["earliest_published_at"], "2026-03-01T06:00:00Z")
+
+    def test_singleton_cluster_has_earliest_published_at(self):
+        story = _make_story("s1", _SAME_EVENT_A, published="2026-03-01 09:00")
+        _, clusters = cluster_stories([story])
+        self.assertEqual(clusters[0]["earliest_published_at"], "2026-03-01T09:00:00Z")
+
+
+# ── Cluster-relative earliness in representative selection ─────────────────────
+class TestClusterEarlinessSelection(unittest.TestCase):
+
+    def test_earliest_story_chosen_when_full_text_and_word_count_equal(self):
+        same_ft = "content word " * 30
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00", full_text=same_ft),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 16:00", full_text=same_ft),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertEqual(len(clusters), 1)
+        self.assertEqual(clusters[0]["representative_article_id"],
+                         "https://example.com/s1")
+
+    def test_full_text_beats_earliness(self):
+        # s2 is later but has full_text; s1 is earlier but has no full_text.
+        # full_text bonus (1000 pts) exceeds max earliness bonus (5 pts).
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00", full_text=""),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 20:00",
+                        full_text="full article content " * 30),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertEqual(len(clusters), 1)
+        self.assertEqual(clusters[0]["representative_article_id"],
+                         "https://example.com/s2")
+
+    def test_story_without_timestamp_loses_earliness_bonus(self):
+        # s1 has no timestamp (gets 0 earliness), s2 has timestamp (gets max 5 pts bonus).
+        # Both have same full_text and word count, so s2 wins.
+        same_ft = "content word " * 30
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="recent", full_text=same_ft),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 10:00", full_text=same_ft),
+        ]
+        _, clusters = cluster_stories(stories)
+        self.assertEqual(len(clusters), 1)
+        self.assertEqual(clusters[0]["representative_article_id"],
+                         "https://example.com/s2")
+
+
+# ── emit_cluster_telemetry() ───────────────────────────────────────────────────
+class TestEmitClusterTelemetry(unittest.TestCase):
+
+    @patch("clustering.cluster.emit_telemetry")
+    def test_exactly_one_duplicate_event_per_non_rep(self, mock_emit):
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00"),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 10:00"),
+            _make_story("s3", _SAME_EVENT_A + " additional coverage",
+                        published="2026-03-01 12:00"),
+        ]
+        reps, clusters = cluster_stories(stories)
+        mock_emit.reset_mock()
+        emit_cluster_telemetry(stories, reps, clusters)
+
+        dup_calls = [c for c in mock_emit.call_args_list
+                     if c[0][0]["event"] == "story_duplicate"]
+        self.assertEqual(len(dup_calls), 2)  # 3-story cluster → 2 non-reps
+
+    @patch("clustering.cluster.emit_telemetry")
+    def test_no_telemetry_for_singleton_clusters(self, mock_emit):
+        story = _make_story("s1", _SAME_EVENT_A, published="2026-03-01 10:00")
+        reps, clusters = cluster_stories([story])
+        emit_cluster_telemetry([story], reps, clusters)
+        mock_emit.assert_not_called()
+
+    @patch("clustering.cluster.emit_telemetry")
+    def test_idempotency_guard_prevents_double_emit_within_call(self, mock_emit):
+        # Manually craft a cluster where s2 appears twice in article_ids.
+        s1 = _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00")
+        s2 = _make_story("s2", _SAME_EVENT_B, published="2026-03-01 10:00")
+        clusters = [{
+            "cluster_id":                "test",
+            "created_at":                "2026-03-01T10:00:00Z",
+            "article_ids":               [s1["url"], s2["url"], s2["url"]],  # s2 duplicated
+            "representative_article_id": s1["url"],
+            "domains":                   ["example.com"],
+            "earliest_published_at":     "2026-03-01T08:00:00Z",
+        }]
+        emit_cluster_telemetry([s1, s2], [s1], clusters)
+
+        dup_for_s2 = [c for c in mock_emit.call_args_list
+                      if c[0][0].get("event") == "story_duplicate"
+                      and c[0][0].get("url") == s2["url"]]
+        self.assertEqual(len(dup_for_s2), 1)
+
+    @patch("clustering.cluster.emit_telemetry")
+    def test_first_in_cluster_only_emitted_for_earliest_rep(self, mock_emit):
+        same_ft = "content word " * 30
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00", full_text=same_ft),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 16:00", full_text=same_ft),
+        ]
+        reps, clusters = cluster_stories(stories)
+        mock_emit.reset_mock()
+        emit_cluster_telemetry(stories, reps, clusters)
+
+        fic_calls = [c for c in mock_emit.call_args_list
+                     if c[0][0]["event"] == "story_first_in_cluster"]
+        self.assertEqual(len(fic_calls), 1)
+        self.assertEqual(fic_calls[0][0][0]["url"], "https://example.com/s1")
+
+    @patch("clustering.cluster.emit_telemetry")
+    def test_first_in_cluster_not_emitted_when_rep_is_not_earliest(self, mock_emit):
+        # s2 (later) wins representative because it has full_text; s1 is earliest.
+        stories = [
+            _make_story("s1", _SAME_EVENT_A, published="2026-03-01 08:00", full_text=""),
+            _make_story("s2", _SAME_EVENT_B, published="2026-03-01 20:00",
+                        full_text="full article content " * 30),
+        ]
+        reps, clusters = cluster_stories(stories)
+        mock_emit.reset_mock()
+        emit_cluster_telemetry(stories, reps, clusters)
+
+        fic_calls = [c for c in mock_emit.call_args_list
+                     if c[0][0]["event"] == "story_first_in_cluster"]
+        self.assertEqual(len(fic_calls), 0)
 
 
 if __name__ == "__main__":
