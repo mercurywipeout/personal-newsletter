@@ -41,7 +41,8 @@ POOR_DAYS_TO_DISABLED  = 14   # consecutive poor days (probation) → disabled
 RECOVERY_DAYS          = 7    # consecutive good days → back to active
 
 _STAT_KEYS = ("stories_fetched", "stories_passed",
-              "article_ok", "article_error", "article_blocked")
+              "article_ok", "article_error", "article_blocked",
+              "dup_count", "first_in_cluster_count")
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -139,11 +140,13 @@ def aggregate_daily(day: str) -> dict:
         return {}
 
     event_map = {
-        "story_fetched":   "stories_fetched",
-        "story_passed":    "stories_passed",
-        "article_ok":      "article_ok",
-        "article_error":   "article_error",
-        "article_blocked": "article_blocked",
+        "story_fetched":        "stories_fetched",
+        "story_passed":         "stories_passed",
+        "article_ok":           "article_ok",
+        "article_error":        "article_error",
+        "article_blocked":      "article_blocked",
+        "story_duplicate":      "dup_count",
+        "story_first_in_cluster": "first_in_cluster_count",
     }
     by_feed: dict = defaultdict(lambda: dict(_blank_day_stats()))
 

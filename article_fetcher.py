@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Full-article retrieval using Trafilatura.
+Full-article retrieval using urllib3 + trafilatura.
 
 Two-stage pipeline: fetch (urllib3) → extract (trafilatura).
 Results are persisted in a JSONL cache (article_cache.jsonl) so the same
@@ -45,6 +45,18 @@ _PAYWALL_SIGNALS = (
     "member-only", "to continue reading", "log in to read",
 )
 
+# URLs that are never articles (status dashboards, social media, video, etc.)
+# Matched against the URL's netloc (lowercased, without port).
+_BLOCKLIST_EXACT_HOSTS = {
+    "x.com", "twitter.com",
+    "youtube.com", "youtu.be",
+    "health.aws.amazon.com",
+}
+# Netloc prefixes — catches status.*, health.*, statuspage.*, incident.*, uptime.*
+_BLOCKLIST_HOST_PREFIXES = (
+    "status.", "statuspage.", "health.", "incident.", "uptime.",
+)
+
 # ── urllib3 HTTP pool ──────────────────────────────────────────────────────────
 _http = urllib3.PoolManager(
     timeout=urllib3.Timeout(connect=10, read=15),
@@ -83,6 +95,19 @@ def _paywall_hint(text: str) -> bool:
         return False
     lower = text.lower()[:600]
     return any(sig in lower for sig in _PAYWALL_SIGNALS)
+
+
+def _is_blocked_url(url: str) -> bool:
+    """Return True for URLs that are never articles (status pages, social media, etc.)."""
+    try:
+        netloc = urlparse(url).netloc.lower().split(":")[0]  # strip port
+        if netloc in _BLOCKLIST_EXACT_HOSTS:
+            return True
+        if any(netloc.startswith(p) for p in _BLOCKLIST_HOST_PREFIXES):
+            return True
+    except Exception:
+        pass
+    return False
 
 
 # ── JSONL cache ────────────────────────────────────────────────────────────────
@@ -244,6 +269,9 @@ def fetch_articles(stories: list) -> dict:
         if canon in cache:
             results[canon] = cache[canon]
             continue
+
+        if _is_blocked_url(canon):
+            continue  # non-article URL — skip silently
 
         if len(to_fetch) >= MAX_ARTICLES_PER_RUN:
             continue
