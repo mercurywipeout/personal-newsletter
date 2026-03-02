@@ -1,0 +1,49 @@
+name: Weekly Feed Discovery
+
+on:
+  schedule:
+    # Sundays at 15:00 UTC (same clock as the daily newsletter)
+    - cron: "0 15 * * 0"
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      day:
+        description: "Cluster date to analyse (YYYY-MM-DD, defaults to today)"
+        required: false
+        default: ""
+      auto_add:
+        description: "Auto-add top candidates to feeds list (true/false)"
+        required: false
+        default: "false"
+
+jobs:
+  discover-feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run feed discovery
+        env:
+          # Only set AUTO_ADD_RECOMMENDED_FEEDS when manually triggered with auto_add=true.
+          # On scheduled runs, auto-add is always off.
+          AUTO_ADD_RECOMMENDED_FEEDS: ${{ github.event.inputs.auto_add == 'true' && '1' || '' }}
+        run: |
+          DAY="${{ github.event.inputs.day }}"
+          if [ -n "$DAY" ]; then
+            python -m discovery.recommend_feeds --day "$DAY"
+          else
+            python -m discovery.recommend_feeds
+          fi
