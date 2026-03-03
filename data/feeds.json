@@ -1,0 +1,202 @@
+[
+  {
+    "id": "openai-news",
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "google-deepmind-news",
+    "name": "Google DeepMind News",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "hugging-face-blog",
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "the-github-blog",
+    "name": "The GitHub Blog",
+    "url": "https://github.blog/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "langchain-blog",
+    "name": "LangChain Blog",
+    "url": "https://blog.langchain.dev/rss/",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "llamaindex-blog",
+    "name": "LlamaIndex Blog",
+    "url": "https://medium.com/feed/llamaindex-blog",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "latent-space",
+    "name": "Latent Space",
+    "url": "https://www.latent.space/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "simon-willison",
+    "name": "Simon Willison",
+    "url": "https://simonwillison.net/atom/everything/",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "chip-huyen",
+    "name": "Chip Huyen",
+    "url": "https://huyenchip.com/feed.xml",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "sebastian-raschka",
+    "name": "Sebastian Raschka",
+    "url": "https://magazine.sebastianraschka.com/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "ars-technica-ai",
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "ars-technica",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "import-ai",
+    "name": "Import AI",
+    "url": "https://importai.substack.com/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "nathan-lambert-substack",
+    "name": "Nathan Lambert Substack",
+    "url": "https://natolambert.substack.com/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "one-useful-thing",
+    "name": "One Useful Thing",
+    "url": "https://oneusefulthing.substack.com/feed",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "venturebeat-ai",
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Tech Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "hacker-news-frontpage",
+    "name": "Hacker News Frontpage",
+    "url": "https://hnrss.org/frontpage",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "reddit-r-machinelearning",
+    "name": "Reddit r/MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/.rss",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "reddit-r-localllama",
+    "name": "Reddit r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
+    "status": "active",
+    "added_at": "2026-03-02",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  }
+]

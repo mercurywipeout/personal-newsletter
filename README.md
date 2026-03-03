@@ -40,6 +40,16 @@ In **Settings → Secrets and variables → Actions**, add:
 `.github/workflows/daily-newsletter.yml` runs automatically once secrets are set.
 Trigger manually from the **Actions** tab at any time.
 
+### 4. Clear runtime state (if you forked)
+
+This repo commits runtime state (`seen_stories.json`, `data/feeds.json`, `data/feed_stats_daily.json`, `data/runs/`) back to main after each run. If you forked it, delete these files before your first run so you start fresh:
+
+```bash
+rm -f seen_stories.json data/feeds.json data/feed_stats_daily.json
+rm -rf data/runs/
+git commit -am "chore: clear runtime state" && git push
+```
+
 ---
 
 ## Running locally
@@ -110,7 +120,7 @@ article_fetcher.py           # full-text enrichment (urllib3 + trafilatura)
 clustering/                  # SimHash deduplication
 scoring/                     # feed scorecard and telemetry
 discovery/                   # weekly feed recommendation system
-data/                        # runtime state (gitignored)
+data/                        # runtime state (committed by CI)
 .github/workflows/
   daily-newsletter.yml       # daily send at 7 AM PT
   weekly-feed-discovery.yml  # Sunday feed discovery

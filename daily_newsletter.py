@@ -11,6 +11,7 @@ import json
 import time
 import socket
 import smtplib
+import calendar
 import feedparser
 import concurrent.futures
 from article_fetcher import enrich_stories
@@ -73,15 +74,15 @@ def load_seen_urls():
     if not SEEN_PATH.exists():
         return set()
     try:
-        cutoff = datetime.now() - timedelta(days=SEEN_TTL_DAYS)
+        cutoff = datetime.utcnow() - timedelta(days=SEEN_TTL_DAYS)
         data = json.loads(SEEN_PATH.read_text())
         return {e["url"] for e in data if datetime.fromisoformat(e["date"]) > cutoff}
     except Exception:
         return set()
 
 def save_seen_urls(new_urls):
-    today = datetime.now().date().isoformat()
-    cutoff = datetime.now() - timedelta(days=SEEN_TTL_DAYS)
+    today = datetime.utcnow().date().isoformat()
+    cutoff = datetime.utcnow() - timedelta(days=SEEN_TTL_DAYS)
     existing = []
     if SEEN_PATH.exists():
         try:
@@ -99,7 +100,14 @@ def save_seen_urls(new_urls):
 FEEDS_PATH = Path(__file__).parent / "config" / "feeds.seed.json"
 
 def load_feeds():
-    feeds = json.loads(FEEDS_PATH.read_text())
+    try:
+        feeds = json.loads(FEEDS_PATH.read_text())
+    except FileNotFoundError:
+        print(f"  ✗ Feed file not found: {FEEDS_PATH}")
+        sys.exit(1)
+    except json.JSONDecodeError as exc:
+        print(f"  ✗ Invalid JSON in {FEEDS_PATH}: {exc}")
+        sys.exit(1)
     result = [f for f in feeds if f.get("enabled", True)]
     for f in result:
         f.setdefault("id", slug(f["name"]))
@@ -118,7 +126,7 @@ def _fetch_one_feed(feed_info, seen_urls, cutoff):
                 raw = getattr(entry, date_field, None)
                 if raw:
                     try:
-                        published = datetime.fromtimestamp(time.mktime(raw))
+                        published = datetime.utcfromtimestamp(calendar.timegm(raw))
                         break
                     except Exception:
                         pass
@@ -152,7 +160,7 @@ def _fetch_one_feed(feed_info, seen_urls, cutoff):
 def fetch_recent_stories(seen_urls=None):
     if seen_urls is None:
         seen_urls = set()
-    cutoff = datetime.now() - timedelta(hours=36)
+    cutoff = datetime.utcnow() - timedelta(hours=36)
 
     all_stories = []
     old_timeout = socket.getdefaulttimeout()
@@ -356,7 +364,10 @@ Return ONLY a valid JSON object with this structure:
     # Fallback: bare array
     arr_match = re.search(r"\[.*\]", raw, re.DOTALL)
     if arr_match:
-        return "", "", [], [], json.loads(arr_match.group())
+        try:
+            return "", "", [], [], json.loads(arr_match.group())
+        except Exception:
+            pass
 
     print("  ⚠  Could not parse Claude response — using raw stories as fallback")
     return "", "", [], [], []
@@ -492,7 +503,8 @@ def build_html_email(stories, situational_briefing="", emerging_patterns=None, q
 # ── Send Email ─────────────────────────────────────────────────────────────────
 def send_email(html_content, subject_line=""):
     today_short = datetime.now().strftime("%b %d")
-    subject = subject_line if subject_line else f"Systems Brief — {today_short}"
+    raw_subject = subject_line if subject_line else f"Systems Brief — {today_short}"
+    subject = raw_subject.replace("\r", "").replace("\n", " ").strip()[:200]
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -563,7 +575,6 @@ def main():
         print(f"\n  Subject: {subject_line or '(none returned by Claude)'}")
         print(f"  Dry run complete. Preview saved to {preview_path.name}")
         print("  Open it in a browser to inspect the output.\n")
-        post_run(RSS_FEEDS)
         if os.environ.get("RECOMMEND_FEEDS"):
             from discovery.recommend_feeds import run_recommendations
             run_recommendations(stories, auto_add=bool(os.environ.get("AUTO_ADD_RECOMMENDED_FEEDS")))

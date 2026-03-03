@@ -3,16 +3,15 @@
 /newsletter.config
 CLAUDE.md
 .claude/settings.local.json
-seen_stories.json
 newsletter_preview.html
 article_cache.jsonl
 __pycache__/
 *.pyc
 
-# Scorecard runtime data (history stays local / in GitHub Actions cache)
-data/feeds.json
-data/feed_stats_daily.json
+# Ephemeral discovery / cluster outputs (not needed across runs)
 data/feed_recommendations.json
-data/runs/
 data/clusters/
 data/cache/
+
+# Runtime state committed by CI — do NOT add to this list without updating the workflow
+# (seen_stories.json, data/feeds.json, data/feed_stats_daily.json, data/runs/ are tracked)

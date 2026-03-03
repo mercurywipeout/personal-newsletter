@@ -193,15 +193,20 @@ def _extract_feed_links_from_html(html: str, base_url: str) -> list:
 
 # ── Network fetch functions (patchable in tests) ───────────────────────────────
 
-def _fetch_html(url: str):
+def _fetch_html(url: str, max_bytes: int = 512 * 1024):
     """
     Fetch URL and return (decoded_html, http_status) or (None, error_str).
+    Reads at most max_bytes to avoid downloading large non-HTML responses.
     """
     try:
-        resp = _http.request("GET", url, redirect=True)
-        if resp.status == 200:
-            return resp.data.decode("utf-8", errors="replace"), resp.status
-        return None, resp.status
+        resp = _http.request("GET", url, redirect=True, preload_content=False)
+        status = resp.status
+        if status != 200:
+            resp.drain_conn()
+            return None, status
+        data = resp.read(max_bytes)
+        resp.close()
+        return data.decode("utf-8", errors="replace"), status
     except Exception as exc:
         return None, str(exc)[:200]
 
@@ -471,21 +476,42 @@ def save_recommendations(recs: list) -> None:
     )
 
 
+def _append_to_seed(new_entries: list) -> None:
+    """Append newly discovered feeds to config/feeds.seed.json."""
+    seed_path = _HERE / "config" / "feeds.seed.json"
+    try:
+        seeds = json.loads(seed_path.read_text(encoding="utf-8"))
+    except Exception:
+        return
+    existing_urls = {f.get("url", "") for f in seeds}
+    appended = False
+    for entry in new_entries:
+        if entry.get("url") not in existing_urls:
+            seeds.append(entry)
+            existing_urls.add(entry["url"])
+            appended = True
+    if appended:
+        seed_path.write_text(
+            json.dumps(seeds, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        )
+
+
 def _auto_add_feeds(recs: list, max_adds: int = AUTO_ADD_MAX_PER_WEEK,
                     min_score: float = AUTO_ADD_MIN_SCORE) -> None:
-    """Add top-scoring candidates to data/feeds.json as probation feeds."""
-    from scoring.scorecard import FEEDS_STATE, load_feeds_state, save_feeds_state, slug
+    """Add top-scoring candidates to data/feeds.json and config/feeds.seed.json."""
+    from scoring.scorecard import load_feeds_state, save_feeds_state, slug
 
-    existing = _load_existing_domains()
-    added    = 0
-    state    = load_feeds_state()
-    today    = datetime.utcnow().strftime("%Y-%m-%d")
+    existing    = _load_existing_domains()
+    added       = 0
+    state       = load_feeds_state()
+    seed_batch  = []
+    today       = datetime.utcnow().strftime("%Y-%m-%d")
 
     for rec in recs:
         if added >= max_adds:
             break
         if rec.get("score", 0) < min_score:
-            break
+            continue
         domain = rec["domain"]
         if domain in existing:
             continue
@@ -501,12 +527,20 @@ def _auto_add_feeds(recs: list, max_adds: int = AUTO_ADD_MAX_PER_WEEK,
             "good_days_streak":      0,
             "last_transition":       None,
         })
+        seed_batch.append({
+            "name":     domain,
+            "url":      rec["feed_url"],
+            "category": "ai",
+            "enabled":  True,
+            "priority": 1,
+        })
         existing.add(domain)
         added += 1
         print(f"  ✓ Auto-added feed: {domain} (score={rec['score']:.1f})")
 
     if added:
         save_feeds_state(state)
+        _append_to_seed(seed_batch)
 
 
 def _print_summary(recs: list) -> None:

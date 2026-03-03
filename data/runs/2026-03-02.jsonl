@@ -1,0 +1,47 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "openai-news", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "langchain-blog", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "openai-news", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "langchain-blog", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-03-02T01:14:58Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-03-02T01:14:58Z"}
+{"event": "article_ok", "feed_id": "langchain-blog", "url": "https://blog.langchain.com/customers-clay/", "fetch_ms": 222, "extract_ms": 26, "ts": "2026-03-02T01:14:58Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict", "fetch_ms": 811, "extract_ms": 53, "ts": "2026-03-02T01:14:59Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://littlefreelibrary.org", "fetch_ms": 218, "extract_ms": 37, "ts": "2026-03-02T01:15:00Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived", "fetch_ms": 170, "extract_ms": 60, "ts": "2026-03-02T01:15:00Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://maurycyz.com/misc/c_files/", "fetch_ms": 778, "extract_ms": 13, "ts": "2026-03-02T01:15:01Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://health.aws.amazon.com/health/status", "error": "extraction_failed", "ts": "2026-03-02T01:15:01Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://littlefreelibrary.org/", "ts": "2026-03-02T01:15:01Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://maurycyz.com/misc/c_files/", "ts": "2026-03-02T01:15:01Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://health.aws.amazon.com/health/status", "ts": "2026-03-02T01:15:01Z"}
+{"event": "story_duplicate", "feed_id": "openai-news", "url": "https://openai.com/index/our-agreement-with-the-department-of-war", "ts": "2026-03-02T01:15:01Z"}
