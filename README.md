@@ -80,7 +80,7 @@ The scorecard system automatically moves low-performing feeds to `probation` or 
 
 ### Adding feeds
 
-Edit `config/feeds.seed.json`. The runtime state file (`data/feeds.json`) is gitignored and re-created from the seed if absent.
+Edit `config/feeds.seed.json`. The runtime state file (`data/feeds.json`) is committed by CI and re-created from the seed if absent.
 
 ### Weekly feed discovery
 
