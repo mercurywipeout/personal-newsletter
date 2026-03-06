@@ -90,5 +90,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
     "date": "2026-03-05"
+  },
+  {
+    "url": "https://www.latent.space/p/cursor-third-era",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rm9i6f/webui_agentic_loop_mcp_client_with_support_for/",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/6/clinejection/",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rm7rox/p_ondevice_speech_toolkit_for_apple_silicon_asr/",
+    "date": "2026-03-06"
+  },
+  {
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "date": "2026-03-06"
   }
 ]
