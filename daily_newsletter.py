@@ -271,12 +271,7 @@ Write a 2–3 sentence situational briefing that:
 - Distinguishes confirmed developments from speculation
 - Does NOT repeat individual story summaries
 - Clearly states if signals are fragmented or incremental
-
-0.25. Write the following synthesis sections (no emojis anywhere in these sections):
-
-Emerging patterns (2–3 bullets): What structural or directional patterns are emerging across multiple stories? Focus on second-order effects and cross-cutting trends, not individual events. Each bullet is a concise sentence.
-
-Quiet signals (1–3 bullets): Low-visibility developments that deserve attention but didn't make the main story selection. Think: early adoption patterns, under-covered releases, or subtle behavioral shifts. Each bullet is a concise sentence.
+- Use **bold** (double asterisks) to emphasize the most important 2–4 key terms, company names, or developments in the briefing
 
 0.5. Based on your analysis, generate a concise subject line.
 
@@ -318,8 +313,6 @@ Return ONLY a valid JSON object with this structure:
 {{
   "subject_line": "...",
   "situational_briefing": "2–3 sentence overview here",
-  "emerging_patterns": ["pattern sentence 1", "pattern sentence 2"],
-  "quiet_signals": ["signal sentence 1", "signal sentence 2"],
   "stories": [
     {{
       "title": "...",
@@ -354,8 +347,6 @@ Return ONLY a valid JSON object with this structure:
                 return (
                     parsed.get("subject_line", ""),
                     parsed.get("situational_briefing", ""),
-                    parsed.get("emerging_patterns", []),
-                    parsed.get("quiet_signals", []),
                     parsed["stories"],
                 )
         except Exception:
@@ -365,12 +356,12 @@ Return ONLY a valid JSON object with this structure:
     arr_match = re.search(r"\[.*\]", raw, re.DOTALL)
     if arr_match:
         try:
-            return "", "", [], [], json.loads(arr_match.group())
+            return "", "", json.loads(arr_match.group())
         except Exception:
             pass
 
     print("  ⚠  Could not parse Claude response — using raw stories as fallback")
-    return "", "", [], [], []
+    return "", "", []
 
 
 def safe_url(url):
@@ -381,39 +372,14 @@ def safe_url(url):
 
 
 # ── Build HTML Email ───────────────────────────────────────────────────────────
-def build_html_email(stories, situational_briefing="", emerging_patterns=None, quiet_signals=None):
+def build_html_email(stories, situational_briefing=""):
     today_long  = datetime.now().strftime("%A, %B %d, %Y")
     today_short = datetime.now().strftime("%b %d")
 
-    # ── Emerging Patterns (subsection below briefing) ───────────────────────────
-    emerging_html = ""
-    if emerging_patterns:
-        bullets = "".join(
-            f'<li style="font-size:13px;line-height:1.65;color:#555;margin-bottom:5px;">{escape(b)}</li>'
-            for b in emerging_patterns
-        )
-        emerging_html = f"""
-      <div style="margin-top:16px;margin-bottom:4px;">
-        <div style="font-size:10px;font-weight:600;color:#1a1a1a;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;">
-          Emerging patterns
-        </div>
-        <ul style="margin:0;padding:0 0 0 16px;">{bullets}</ul>
-      </div>"""
-
-    # ── Quiet Signals (bottom of email, before footer) ──────────────────────────
-    quiet_signals_html = ""
-    if quiet_signals:
-        bullets = "".join(
-            f'<li style="font-size:13px;line-height:1.65;color:#666;margin-bottom:5px;">{escape(b)}</li>'
-            for b in quiet_signals
-        )
-        quiet_signals_html = f"""
-  <div style="padding:20px 44px 24px;border-top:1px solid #ece9e3;">
-    <div style="font-size:10px;font-weight:600;color:#1a1a1a;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;">
-      Quiet signals
-    </div>
-    <ul style="margin:0;padding:0 0 0 16px;">{bullets}</ul>
-  </div>"""
+    # Convert **bold** markers to <strong> tags in the briefing
+    def render_briefing(text):
+        safe = escape(text)
+        return re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", safe)
 
     # ── Story sections grouped by category ─────────────────────────────────────
     categories = {}
@@ -470,12 +436,11 @@ def build_html_email(stories, situational_briefing="", emerging_patterns=None, q
       <div style="margin-top:10px;font-size:13px;color:#888;">{today_long}</div>
     </div>
 
-    <!-- Intro / Situational Briefing + Emerging Patterns -->
+    <!-- Intro / Situational Briefing -->
     <div style="padding:28px 44px 0;border-bottom:1px solid #f0eeeb;">
-      <p style="margin:0 0 {('26' if emerging_patterns else '34')}px;font-size:14px;line-height:1.7;color:#555;">
-        {escape(situational_briefing) if situational_briefing else "Your daily curation of what&#39;s moving in AI, developer tools, and big tech — filtered for signal over noise."}
+      <p style="margin:0 0 34px;font-size:14px;line-height:1.7;color:#555;">
+        {render_briefing(situational_briefing) if situational_briefing else "Your daily curation of what&#39;s moving in AI, developer tools, and big tech — filtered for signal over noise."}
       </p>
-      {emerging_html}
       <div style="height:24px;"></div>
     </div>
 
@@ -483,9 +448,6 @@ def build_html_email(stories, situational_briefing="", emerging_patterns=None, q
     <div style="padding:32px 44px;">
       {sections_html}
     </div>
-
-    <!-- Quiet Signals -->
-    {quiet_signals_html}
 
     <!-- Footer -->
     <div style="background:#f8f7f4;padding:24px 44px;border-top:1px solid #ece9e3;">
@@ -559,7 +521,7 @@ def main():
     print(f"  Clustered: {n_dupes} duplicates removed → {len(stories)} unique stories")
 
     print("\n[2/4] Curating with Claude...")
-    subject_line, briefing, emerging_patterns, quiet_signals, curated = curate_with_claude(stories)
+    subject_line, briefing, curated = curate_with_claude(stories)
     print(f"  Selected {len(curated)} stories for the newsletter")
 
     if not curated:
@@ -567,7 +529,7 @@ def main():
         return
 
     print("\n[3/4] Building HTML email...")
-    html = build_html_email(curated, briefing, emerging_patterns, quiet_signals)
+    html = build_html_email(curated, briefing)
 
     if dry_run:
         preview_path = Path(__file__).parent / "newsletter_preview.html"
