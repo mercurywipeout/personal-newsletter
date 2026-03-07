@@ -440,5 +440,97 @@
       "dup_count": 2,
       "first_in_cluster_count": 0
     }
+  },
+  "2026-03-07": {
+    "simon-willison": {
+      "stories_fetched": 7,
+      "stories_passed": 7,
+      "article_ok": 4,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 1
+    },
+    "the-github-blog": {
+      "stories_fetched": 3,
+      "stories_passed": 3,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "latent-space": {
+      "stories_fetched": 3,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "openai-news": {
+      "stories_fetched": 6,
+      "stories_passed": 6,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 2,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica": {
+      "stories_fetched": 3,
+      "stories_passed": 3,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "mit-tech-review": {
+      "stories_fetched": 4,
+      "stories_passed": 4,
+      "article_ok": 4,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 1,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica-ai": {
+      "stories_fetched": 8,
+      "stories_passed": 8,
+      "article_ok": 4,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "hacker-news-frontpage": {
+      "stories_fetched": 40,
+      "stories_passed": 16,
+      "article_ok": 13,
+      "article_error": 1,
+      "article_blocked": 1,
+      "dup_count": 9,
+      "first_in_cluster_count": 1
+    },
+    "reddit-r-localllama": {
+      "stories_fetched": 48,
+      "stories_passed": 16,
+      "article_ok": 1,
+      "article_error": 2,
+      "article_blocked": 2,
+      "dup_count": 2,
+      "first_in_cluster_count": 1
+    },
+    "reddit-r-machinelearning": {
+      "stories_fetched": 27,
+      "stories_passed": 16,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 1,
+      "dup_count": 3,
+      "first_in_cluster_count": 0
+    }
   }
 }
