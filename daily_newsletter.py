@@ -15,6 +15,7 @@ import calendar
 import feedparser
 import concurrent.futures
 from article_fetcher import enrich_stories
+from notable_uses import find_notable_ai_uses
 from clustering.cluster import cluster_stories, save_clusters, emit_cluster_telemetry
 from scoring.scorecard import sync_feeds_state, post_run, get_rate_limit, slug, emit_telemetry
 from html import escape
@@ -372,7 +373,7 @@ def safe_url(url):
 
 
 # ── Build HTML Email ───────────────────────────────────────────────────────────
-def build_html_email(stories, situational_briefing=""):
+def build_html_email(stories, situational_briefing="", notable_uses=None):
     today_long  = datetime.now().strftime("%A, %B %d, %Y")
     today_short = datetime.now().strftime("%b %d")
 
@@ -418,6 +419,41 @@ def build_html_email(stories, situational_briefing=""):
           {story_blocks}
         </div>"""
 
+    # ── Notable AI Uses section ─────────────────────────────────────────────────
+    notable_html = ""
+    if notable_uses:
+        use_blocks = ""
+        for item in notable_uses:
+            url = safe_url(item.get("url", ""))
+            use_blocks += f"""
+            <div style="margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #f5ede0;">
+              <div style="font-size:11px;color:#b07030;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:5px;">
+                {escape(item.get('source', ''))}
+              </div>
+              <a href="{url}" style="text-decoration:none;">
+                <h4 style="margin:0 0 7px 0;font-size:15px;font-weight:600;line-height:1.35;color:#1a1a1a;">
+                  {escape(item.get('title', ''))}
+                </h4>
+              </a>
+              <p style="margin:0 0 5px;font-size:13px;line-height:1.65;color:#444;">
+                {escape(item.get('what', ''))}
+              </p>
+              <p style="margin:0;font-size:12px;line-height:1.6;color:#888;font-style:italic;">
+                {escape(item.get('why', ''))}
+              </p>
+              <a href="{url}" style="display:inline-block;margin-top:7px;font-size:12px;color:#b07030;text-decoration:none;font-weight:500;">
+                Read more →
+              </a>
+            </div>"""
+
+        notable_html = f"""
+    <div style="padding:28px 44px 32px;border-top:2px solid #f0eeeb;">
+      <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#b07030;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #b07030;">
+        Noted: AI in Practice
+      </div>
+      {use_blocks}
+    </div>"""
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -448,6 +484,9 @@ def build_html_email(stories, situational_briefing=""):
     <div style="padding:32px 44px;">
       {sections_html}
     </div>
+
+    <!-- Notable AI Uses -->
+    {notable_html}
 
     <!-- Footer -->
     <div style="background:#f8f7f4;padding:24px 44px;border-top:1px solid #ece9e3;">
@@ -528,8 +567,10 @@ def main():
         print("  Curation failed — aborting.")
         return
 
+    notable_uses = find_notable_ai_uses(stories, CONFIG["ANTHROPIC_API_KEY"])
+
     print("\n[3/4] Building HTML email...")
-    html = build_html_email(curated, briefing)
+    html = build_html_email(curated, briefing, notable_uses)
 
     if dry_run:
         preview_path = Path(__file__).parent / "newsletter_preview.html"
