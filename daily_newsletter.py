@@ -567,7 +567,9 @@ def main():
         print("  Curation failed — aborting.")
         return
 
-    notable_uses = find_notable_ai_uses(stories, CONFIG["ANTHROPIC_API_KEY"])
+    curated_urls = {s["url"] for s in curated if s.get("url")}
+    notable_uses = find_notable_ai_uses(stories, CONFIG["ANTHROPIC_API_KEY"],
+                                        excluded_urls=curated_urls)
 
     print("\n[3/4] Building HTML email...")
     html = build_html_email(curated, briefing, notable_uses)

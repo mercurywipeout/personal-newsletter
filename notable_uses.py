@@ -101,7 +101,8 @@ def score_ai_use_candidate(story: dict) -> float:
 
 def find_notable_ai_uses(stories: list, api_key: str,
                          min_score: float = 0.15,
-                         max_candidates: int = 12) -> list:
+                         max_candidates: int = 12,
+                         excluded_urls: set = None) -> list:
     """
     Identify and extract notable real-world AI uses from the story pool.
 
@@ -111,12 +112,19 @@ def find_notable_ai_uses(stories: list, api_key: str,
       3. Call Claude Haiku to extract 0–3 structured items
       4. Return list of dicts: {title, what, why, url, source}
 
+    Args:
+      excluded_urls: URLs already used in the main newsletter sections.
+                     Stories matching these are skipped to avoid duplication.
+
     Returns [] on error or when no qualifying items are found.
     """
+    excluded = excluded_urls or set()
+
     # ── Stage 1: keyword pre-filter ───────────────────────────────────────────
     scored = [
         (score_ai_use_candidate(s), s)
         for s in stories
+        if s.get("url") not in excluded
     ]
     candidates = [
         s for score, s in sorted(scored, key=lambda x: x[0], reverse=True)
