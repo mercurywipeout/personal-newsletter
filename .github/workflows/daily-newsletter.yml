@@ -2,10 +2,10 @@ name: Daily AI & Tech Newsletter
 
 on:
   schedule:
-    # 7:00 AM Pacific Standard Time (UTC-8) = 15:00 UTC
-    # Note: shifts to 8 AM PT during daylight saving time (Mar–Nov)
-    # Change to "0 14 * * *" for summer if preferred
-    - cron: "0 15 * * *"
+    # Target ~7:30 AM PT. GitHub's scheduler typically runs 30–55 min late,
+    # so 14:00 UTC lands around 7:30–7:55 AM PDT (Mar–Nov, UTC-7).
+    # In winter PST (UTC-8) this becomes ~6:30–7:00 AM — adjust to "0 15 * * *" if preferred.
+    - cron: "0 14 * * *"
 
   # Allow manual trigger from GitHub Actions tab anytime
   workflow_dispatch:
