@@ -1,0 +1,32 @@
+name: Keepalive
+
+# GitHub automatically disables scheduled workflows after 60 days of repository
+# inactivity. This workflow runs monthly and re-enables the daily newsletter
+# workflow via the GitHub API so it is never silently disabled.
+#
+# See: https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule
+# "Scheduled workflows will only run on the default branch."
+# "If a repository has been inactive for 60 days, GitHub will disable scheduled workflows."
+
+on:
+  schedule:
+    # First day of every month at 14:30 UTC (well before the 15:00 newsletter run)
+    - cron: "30 14 1 * *"
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write   # needed to enable workflows via the API
+
+    steps:
+      - name: Re-enable daily newsletter workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api \
+            --method PUT \
+            -H "Accept: application/vnd.github+json" \
+            /repos/${{ github.repository }}/actions/workflows/daily-newsletter.yml/enable
+          echo "daily-newsletter.yml re-enabled (or was already enabled)"
