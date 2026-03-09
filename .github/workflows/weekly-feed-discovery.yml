@@ -15,7 +15,7 @@ on:
       auto_add:
         description: "Auto-add top candidates to feeds list (true/false)"
         required: false
-        default: "false"
+        default: "true"
 
 jobs:
   discover-feeds:
@@ -37,9 +37,9 @@ jobs:
 
       - name: Run feed discovery
         env:
-          # Only set AUTO_ADD_RECOMMENDED_FEEDS when manually triggered with auto_add=true.
-          # On scheduled runs, auto-add is always off.
-          AUTO_ADD_RECOMMENDED_FEEDS: ${{ github.event.inputs.auto_add == 'true' && '1' || '' }}
+          # Auto-add is on by default for both scheduled and manual runs.
+          # Pass auto_add=false when manually triggering to do a dry-run.
+          AUTO_ADD_RECOMMENDED_FEEDS: ${{ github.event.inputs.auto_add != 'false' && '1' || '' }}
         run: |
           DAY="${{ github.event.inputs.day }}"
           if [ -n "$DAY" ]; then
