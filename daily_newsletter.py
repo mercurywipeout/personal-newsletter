@@ -426,33 +426,33 @@ def build_html_email(stories, situational_briefing="", notable_uses=None):
         for item in notable_uses:
             url = safe_url(item.get("url", ""))
             use_blocks += f"""
-            <div style="margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #f5ede0;">
-              <div style="font-size:11px;color:#b07030;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:5px;">
+            <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #f0eeeb;">
+              <div style="font-size:11px;color:#999;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:6px;">
                 {escape(item.get('source', ''))}
               </div>
               <a href="{url}" style="text-decoration:none;">
-                <h4 style="margin:0 0 7px 0;font-size:15px;font-weight:600;line-height:1.35;color:#1a1a1a;">
+                <h3 style="margin:0 0 8px 0;font-size:17px;font-weight:600;line-height:1.35;color:#1a1a1a;">
                   {escape(item.get('title', ''))}
-                </h4>
+                </h3>
               </a>
-              <p style="margin:0 0 5px;font-size:13px;line-height:1.65;color:#444;">
+              <p style="margin:0 0 5px;font-size:14px;line-height:1.65;color:#444;">
                 {escape(item.get('what', ''))}
               </p>
               <p style="margin:0;font-size:12px;line-height:1.6;color:#888;font-style:italic;">
                 {escape(item.get('why', ''))}
               </p>
-              <a href="{url}" style="display:inline-block;margin-top:7px;font-size:12px;color:#b07030;text-decoration:none;font-weight:500;">
+              <a href="{url}" style="display:inline-block;margin-top:8px;font-size:12px;color:#0057ff;text-decoration:none;font-weight:500;">
                 Read more →
               </a>
             </div>"""
 
         notable_html = f"""
-    <div style="padding:28px 44px 32px;border-top:2px solid #f0eeeb;">
-      <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#b07030;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #b07030;">
-        Noted: AI in Practice
-      </div>
-      {use_blocks}
-    </div>"""
+        <div style="margin-bottom:36px;">
+          <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:#0057ff;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #0057ff;">
+            Noted: AI in Practice
+          </div>
+          {use_blocks}
+        </div>"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -483,10 +483,8 @@ def build_html_email(stories, situational_briefing="", notable_uses=None):
     <!-- Stories -->
     <div style="padding:32px 44px;">
       {sections_html}
+      {notable_html}
     </div>
-
-    <!-- Notable AI Uses -->
-    {notable_html}
 
     <!-- Footer -->
     <div style="background:#f8f7f4;padding:24px 44px;border-top:1px solid #ece9e3;">
