@@ -15,3 +15,4 @@ data/cache/
 
 # Runtime state committed by CI — do NOT add to this list without updating the workflow
 # (seen_stories.json, data/feeds.json, data/feed_stats_daily.json, data/runs/ are tracked)
+.worktrees/
