@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjrjg3/kokoro_tts_but_it_clones_voices_now_introducing/",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=47232903",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://growtika.com/blog/tech-media-collapse",
-    "date": "2026-03-03"
-  },
-  {
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-    "date": "2026-03-03"
-  },
-  {
     "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
     "date": "2026-03-04"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
     "date": "2026-03-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpznk9/solving_the_cjk_bytepremium_in_llms_introducing/",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rpoi3u/r_shadow_apis_breaking_research_reproducibility/",
+    "date": "2026-03-10"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpw17y/ryzen_ai_max_395_128gb_qwen_35_35b122b_benchmarks/",
+    "date": "2026-03-10"
   }
 ]
