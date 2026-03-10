@@ -198,5 +198,25 @@
     "consecutive_poor_days": 5,
     "good_days_streak": 0,
     "last_transition": null
+  },
+  {
+    "id": "blog-rust-lang-org",
+    "name": "blog.rust-lang.org",
+    "url": "https://blog.rust-lang.org/feed.xml",
+    "status": "probation",
+    "added_at": "2026-03-10",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
+  },
+  {
+    "id": "addyosmani-com",
+    "name": "addyosmani.com",
+    "url": "http://addyosmani.com/rss.xml",
+    "status": "probation",
+    "added_at": "2026-03-10",
+    "consecutive_poor_days": 0,
+    "good_days_streak": 0,
+    "last_transition": null
   }
 ]

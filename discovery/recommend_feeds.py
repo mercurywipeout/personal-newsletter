@@ -54,20 +54,52 @@ DOMAIN_RATE_LIMIT_SECS          = 1.0   # min gap between requests to same domai
 
 AUTO_ADD_RECOMMENDED_FEEDS = False   # override with env AUTO_ADD_RECOMMENDED_FEEDS=1
 AUTO_ADD_MAX_PER_WEEK      = 3
-AUTO_ADD_MIN_SCORE         = 6.0
+AUTO_ADD_MIN_SCORE         = 7.0
 
 # ── Domain block-lists ─────────────────────────────────────────────────────────
 _BLOCKED_DOMAINS = {
+    # Social media
     "twitter.com", "x.com", "facebook.com", "linkedin.com", "tiktok.com",
-    "reddit.com", "youtube.com", "youtu.be", "instagram.com", "pinterest.com",
-    "tumblr.com", "snapchat.com", "threads.net", "bsky.app", "mastodon.social",
-    "github.com", "github.io",           # code repos, not feeds
-    "amazon.com", "amzn.to",
-    "google.com", "googleapis.com",
-    "apple.com", "apps.apple.com",
+    "reddit.com", "redditinc.com", "youtube.com", "youtu.be", "instagram.com",
+    "pinterest.com", "tumblr.com", "snapchat.com", "threads.net", "bsky.app",
+    "mastodon.social",
+    # Code hosting / GitHub properties (GitHub Blog is manually curated)
+    "github.com", "github.io", "github.blog", "gitlab.com", "bitbucket.org",
+    "atom.io",  # redirects to github.blog
+    # Big tech / app stores
+    "amazon.com", "amzn.to", "google.com", "googleapis.com",
+    "apple.com", "apps.apple.com", "microsoft.com",
+    # Reference / encyclopedias
+    "wikipedia.org", "en.wikipedia.org", "wikimedia.org", "wikidata.org",
+    "wikibooks.org", "wikiquote.org",
+    # Archive / cache services
+    "archive.org", "archive.ph", "web.archive.org", "webcache.googleusercontent.com",
+    # Link shorteners / redirects
+    "bit.ly", "tinyurl.com", "t.co", "ow.ly", "buff.ly",
+    # CDNs / infrastructure
+    "cloudflare.com", "cloudfront.net", "akamai.com",
+    # News aggregators (we are one)
+    "news.google.com", "feedly.com", "flipboard.com",
 }
 _TRACKING_KEYWORDS = ("tracking", "affiliate", "clicks.", "analytics", ".pixel",
                       "stats.", "beacon.", "doubleclick")
+
+# ── Topical relevance keywords ─────────────────────────────────────────────────
+_TECH_KEYWORDS = {
+    "ai", "artificial intelligence", "machine learning", "deep learning",
+    "language model", "llm", "neural", "nlp", "gpt", "transformer",
+    "openai", "anthropic", "tech", "technology", "software", "developer",
+    "engineering", "startup", "computing", "robotics", "research",
+    "data science", "api", "cloud", "security", "algorithm", "programming",
+    "open source", "python", "javascript", "model", "benchmark", "inference",
+    "training", "fine-tuning", "rag", "agent", "autonomous",
+}
+
+_OFF_TOPIC_KEYWORDS = {
+    "museum", "tourism", "travel", "sport", "sports", "fitness", "recipe",
+    "cooking", "food", "fashion", "beauty", "wellness", "wildlife",
+    "gardening", "archaeology", "astrology", "horoscope",
+}
 
 # ── Common feed paths to probe when homepage discovery fails ───────────────────
 _COMMON_FEED_PATHS = [
@@ -332,12 +364,15 @@ def validate_feed(feed_url: str) -> dict:
       {ok, status, feed_type, items_sampled, latest_pub, error}
     """
     result = {
-        "ok":           False,
-        "status":       None,
-        "feed_type":    None,
-        "items_sampled": 0,
-        "latest_pub":   None,
-        "error":        None,
+        "ok":                False,
+        "status":            None,
+        "feed_type":         None,
+        "items_sampled":     0,
+        "latest_pub":        None,
+        "feed_title":        None,
+        "feed_description":  None,
+        "entry_title_sample": [],
+        "error":             None,
     }
 
     data, status = _fetch_bytes(feed_url)
@@ -369,8 +404,14 @@ def validate_feed(feed_url: str) -> dict:
     else:
         result["feed_type"] = "rss"
 
-    result["ok"]           = True
-    result["items_sampled"] = min(len(valid), 10)
+    result["ok"]                = True
+    result["items_sampled"]     = min(len(valid), 10)
+    result["feed_title"]        = (parsed.feed.get("title") or "")[:200]
+    result["feed_description"]  = (parsed.feed.get("description")
+                                   or parsed.feed.get("subtitle") or "")[:500]
+    result["entry_title_sample"] = [
+        e["title"] for e in valid[:5] if e.get("title")
+    ]
 
     # Latest publish date
     latest = None
@@ -450,6 +491,20 @@ def score_candidate(
     if any(kw in path for kw in ("/blog", "/news", "/articles")):
         score += 0.5
         reasons.append("blog/news path")
+
+    # Topical relevance
+    corpus = " ".join([
+        validation.get("feed_title") or "",
+        validation.get("feed_description") or "",
+        domain,
+        *validation.get("entry_title_sample", []),
+    ]).lower()
+    if any(kw in corpus for kw in _TECH_KEYWORDS):
+        score += 3.0
+        reasons.append("tech-relevant")
+    elif any(kw in corpus for kw in _OFF_TOPIC_KEYWORDS):
+        score -= 4.0
+        reasons.append("off-topic")
 
     return round(score, 2), reasons
 

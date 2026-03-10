@@ -20,7 +20,6 @@
     "enabled": true,
     "priority": 1
   },
-
   {
     "name": "Hugging Face Blog",
     "url": "https://huggingface.co/blog/feed.xml",
@@ -91,7 +90,6 @@
     "enabled": true,
     "priority": 2
   },
-
   {
     "name": "Import AI",
     "url": "https://importai.substack.com/feed",
@@ -127,7 +125,6 @@
     "enabled": true,
     "priority": 3
   },
-
   {
     "name": "Hacker News Frontpage",
     "url": "https://hnrss.org/frontpage",
@@ -148,5 +145,19 @@
     "category": "ai",
     "enabled": true,
     "priority": 4
+  },
+  {
+    "name": "Rust Blog",
+    "url": "https://blog.rust-lang.org/feed.xml",
+    "category": "developer",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "name": "Addy Osmani",
+    "url": "http://addyosmani.com/rss.xml",
+    "category": "developer",
+    "enabled": true,
+    "priority": 3
   }
 ]

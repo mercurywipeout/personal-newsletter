@@ -37,13 +37,10 @@ jobs:
 
       - name: Run feed discovery
         env:
-          # Only set AUTO_ADD_RECOMMENDED_FEEDS when manually triggered with auto_add=true.
-          # On scheduled runs, auto-add is always off.
-          AUTO_ADD_RECOMMENDED_FEEDS: ${{ github.event.inputs.auto_add == 'true' && '1' || '' }}
+          INPUT_DAY: ${{ github.event.inputs.day }}
+          INPUT_AUTO_ADD: ${{ github.event.inputs.auto_add || 'true' }}
         run: |
-          DAY="${{ github.event.inputs.day }}"
-          if [ -n "$DAY" ]; then
-            python -m discovery.recommend_feeds --day "$DAY"
-          else
-            python -m discovery.recommend_feeds
-          fi
+          CMD="python -m discovery.recommend_feeds"
+          [ -n "$INPUT_DAY" ] && CMD="$CMD --day $INPUT_DAY"
+          [ "$INPUT_AUTO_ADD" = "true" ] && CMD="$CMD --auto-add"
+          $CMD
