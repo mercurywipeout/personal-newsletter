@@ -41,8 +41,9 @@ import feedparser
 # ── Paths ──────────────────────────────────────────────────────────────────────
 _HERE         = Path(__file__).parent.parent
 DATA_DIR      = _HERE / "data"
-CLUSTERS_DIR  = DATA_DIR / "clusters"
-RECS_PATH     = DATA_DIR / "feed_recommendations.json"
+CLUSTERS_DIR      = DATA_DIR / "clusters"
+RECS_PATH         = DATA_DIR / "feed_recommendations.json"
+REJECTED_PATH     = DATA_DIR / "rejected_domains.json"
 
 # ── Tuning constants ───────────────────────────────────────────────────────────
 MAX_STORY_PAGES_FETCHED         = 25
@@ -523,6 +524,29 @@ def _load_existing_domains() -> set:
         return set()
 
 
+def _load_rejected_domains() -> set:
+    """Return domains previously confirmed off-topic and permanently skipped."""
+    if not REJECTED_PATH.exists():
+        return set()
+    try:
+        return set(json.loads(REJECTED_PATH.read_text(encoding="utf-8")))
+    except Exception:
+        return set()
+
+
+def _record_rejected_domain(domain: str) -> None:
+    """Add a domain to the persistent off-topic rejection list."""
+    rejected = _load_rejected_domains()
+    if domain in rejected:
+        return
+    rejected.add(domain)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    REJECTED_PATH.write_text(
+        json.dumps(sorted(rejected), indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"  ✗ Rejected domain (off-topic): {domain}")
+
+
 def save_recommendations(recs: list) -> None:
     """Write recommendations to data/feed_recommendations.json."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -628,12 +652,16 @@ def run_recommendations(
         day = datetime.utcnow().strftime("%Y-%m-%d")
 
     existing = _load_existing_domains()
+    rejected = _load_rejected_domains()
     print(f"\n  [Feed Discovery] Analysing {min(len(stories), MAX_STORY_PAGES_FETCHED)}"
           f" stories for new feed candidates…")
 
     # Step 1: discover candidate domains from outbound links
     candidates = discover_candidate_domains(stories)
-    new_domains = {d: p for d, p in candidates.items() if d not in existing}
+    new_domains = {
+        d: p for d, p in candidates.items()
+        if d not in existing and d not in rejected
+    }
     print(f"  Found {len(candidates)} external domains, "
           f"{len(new_domains)} not yet in feed list")
 
@@ -658,6 +686,8 @@ def run_recommendations(
                 continue
 
             score, reasons = score_candidate(domain, feed_url, v, provenance)
+            if "off-topic" in reasons:
+                _record_rejected_domain(domain)
             recs.append({
                 "domain":          domain,
                 "feed_url":        feed_url,
