@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://www.glazeapp.com/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkm9n7/step35flashbase_midtrain_in_case_you_missed_them/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/3/donald-knuth/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/",
-    "date": "2026-03-04"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
-    "date": "2026-03-04"
-  },
-  {
     "url": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
     "date": "2026-03-05"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpw17y/ryzen_ai_max_395_128gb_qwen_35_35b122b_benchmarks/",
     "date": "2026-03-10"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rqvv3z/p_colqwen35v1_45b_sota_on_vidore_v1_ndcg5_0917/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rpvbrt/r_dyninomni_masked_diffusionbased_omnimodal/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqt6cf/mirothinker17_and_mirothinker17mini_best_search/",
+    "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches",
+    "date": "2026-03-11"
   }
 ]
