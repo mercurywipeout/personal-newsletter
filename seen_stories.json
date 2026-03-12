@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rlkon0/flashattention4/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://www.latent.space/p/box",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://blog.langchain.com/langchain-skills/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rlkptk/final_qwen35_unsloth_gguf_update/",
-    "date": "2026-03-05"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
-    "date": "2026-03-05"
-  },
-  {
     "url": "https://www.latent.space/p/cursor-third-era",
     "date": "2026-03-06"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches",
     "date": "2026-03-11"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrqsic/qwen3527biq3_m_5070ti_16gb_32k_context_50ts/",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-replit-agent-4-the-knowledge",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://blog.langchain.com/autonomous-context-compression/",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://github.com/jrswab/axe",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/",
+    "date": "2026-03-12"
+  },
+  {
+    "url": "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters",
+    "date": "2026-03-12"
   }
 ]
