@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/cursor-third-era",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rm9i6f/webui_agentic_loop_mcp_client_with_support_for/",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/6/clinejection/",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rm7rox/p_ondevice_speech_toolkit_for_apple_silicon_asr/",
-    "date": "2026-03-06"
-  },
-  {
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "date": "2026-03-06"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn7fg3/penguinvl_8b2b_by_tencent/",
     "date": "2026-03-07"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters",
     "date": "2026-03-12"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rso48p/cli_is_all_agents_need_part_2_misconceptions/",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rspm10/running_qwen3535ba3b_and_nemotron3super120ba12b/",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://prompt-caching.ai/",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://help.instagram.com/491565145294150",
+    "date": "2026-03-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/13/liquid/",
+    "date": "2026-03-13"
   }
 ]
