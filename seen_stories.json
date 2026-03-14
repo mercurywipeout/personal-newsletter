@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn7fg3/penguinvl_8b2b_by_tencent/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnarei/codegraphcontext_an_mcp_server_that_converts_your/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn7w7b/update_your_llamacpp_great_tg_speedup_on_qwen35/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/",
-    "date": "2026-03-07"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
-    "date": "2026-03-07"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-ai-engineer-will-be-the-last",
     "date": "2026-03-08"
   },
@@ -202,5 +174,37 @@
   {
     "url": "https://simonwillison.net/2026/Mar/13/liquid/",
     "date": "2026-03-13"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxlg8/p_colqwen35v2_45b_is_out/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtl5ww/indexcache_accelerating_sparse_attention_via/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://github.com/Agastya910/agentarmor",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
+    "date": "2026-03-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/13/1m-context/",
+    "date": "2026-03-14"
   }
 ]
