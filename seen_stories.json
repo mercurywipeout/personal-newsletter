@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-ai-engineer-will-be-the-last",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ro4d0y/engram_persistent_memory_for_local_llms_mcp/",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ro6q09/the_synthetic_data_playbook_generating_trillions/",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
-    "date": "2026-03-08"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
-    "date": "2026-03-08"
-  },
-  {
     "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
     "date": "2026-03-09"
   },
@@ -206,5 +178,37 @@
   {
     "url": "https://simonwillison.net/2026/Mar/13/1m-context/",
     "date": "2026-03-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-context-drought",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rueka1/privacyfocused_ai_terminal_emulator_written_in/",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ru7bnz/p_i_got_tired_of_pytorch_geometric_ooming_my/",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://signet.watch",
+    "date": "2026-03-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/14/jannis-leidel/",
+    "date": "2026-03-15"
   }
 ]
