@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rozrmn/finetuned_qwen3_slms_068b_beat_frontier_llms_on/",
-    "date": "2026-03-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-    "date": "2026-03-09"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
     "date": "2026-03-10"
   },
@@ -210,5 +182,33 @@
   {
     "url": "https://simonwillison.net/2026/Mar/14/jannis-leidel/",
     "date": "2026-03-15"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv98wo/qwen359b_on_document_benchmarks_where_it_beats/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv9ze3/sharing_experience_qwen35122ba10b_does_not/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvcwzx/qwen3527b_8_bit_vs_16_bit/",
+    "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+    "date": "2026-03-16"
   }
 ]

@@ -1169,5 +1169,61 @@
       "dup_count": 2,
       "first_in_cluster_count": 0
     }
+  },
+  "2026-03-16": {
+    "the-github-blog": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "simon-willison": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 1,
+      "first_in_cluster_count": 1
+    },
+    "mit-tech-review": {
+      "stories_fetched": 3,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "reddit-r-localllama": {
+      "stories_fetched": 24,
+      "stories_passed": 8,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 3,
+      "dup_count": 3,
+      "first_in_cluster_count": 0
+    },
+    "reddit-r-machinelearning": {
+      "stories_fetched": 10,
+      "stories_passed": 8,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 3,
+      "first_in_cluster_count": 0
+    },
+    "hacker-news-frontpage": {
+      "stories_fetched": 18,
+      "stories_passed": 8,
+      "article_ok": 7,
+      "article_error": 1,
+      "article_blocked": 0,
+      "dup_count": 1,
+      "first_in_cluster_count": 1
+    }
   }
 }
