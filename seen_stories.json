@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpznk9/solving_the_cjk_bytepremium_in_llms_introducing/",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rpoi3u/r_shadow_apis_breaking_research_reproducibility/",
-    "date": "2026-03-10"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpw17y/ryzen_ai_max_395_128gb_qwen_35_35b122b_benchmarks/",
-    "date": "2026-03-10"
-  },
-  {
     "url": "https://www.reddit.com/r/MachineLearning/comments/1rqvv3z/p_colqwen35v1_45b_sota_on_vidore_v1_ndcg5_0917/",
     "date": "2026-03-11"
   },
@@ -210,5 +182,37 @@
   {
     "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
     "date": "2026-03-16"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rw96pw/p_built_confidence_scoring_for_autoresearch/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwa0f7/unsloth_announces_unsloth_studio_a_competitor_to/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://ffmpeg.org/index.html",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw7z93/zero_text_between_my_agents_latent_transfer_now/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rw1eag/r_attention_residuals_by_kimi_team/",
+    "date": "2026-03-17"
+  },
+  {
+    "url": "https://blog.langchain.com/nvidia-enterprise/",
+    "date": "2026-03-17"
   }
 ]
