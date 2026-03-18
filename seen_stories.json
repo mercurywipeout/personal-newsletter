@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rqvv3z/p_colqwen35v1_45b_sota_on_vidore_v1_ndcg5_0917/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rpvbrt/r_dyninomni_masked_diffusionbased_omnimodal/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://openai.com/index/instruction-hierarchy-challenge",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqt6cf/mirothinker17_and_mirothinker17mini_best_search/",
-    "date": "2026-03-11"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches",
-    "date": "2026-03-11"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrqsic/qwen3527biq3_m_5070ti_16gb_32k_context_50ts/",
     "date": "2026-03-12"
   },
@@ -214,5 +182,37 @@
   {
     "url": "https://blog.langchain.com/nvidia-enterprise/",
     "date": "2026-03-17"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://github.com/aibuildai/AI-Build-AI",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://stripe.com/blog/machine-payments-protocol",
+    "date": "2026-03-18"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rx6x20/qianfanocr_4b_endtoend_document_ai_model_9312_on/",
+    "date": "2026-03-18"
   }
 ]
