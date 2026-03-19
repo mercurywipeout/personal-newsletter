@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrqsic/qwen3527biq3_m_5070ti_16gb_32k_context_50ts/",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-replit-agent-4-the-knowledge",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://blog.langchain.com/autonomous-context-compression/",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://github.com/jrswab/axe",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/",
-    "date": "2026-03-12"
-  },
-  {
-    "url": "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters",
-    "date": "2026-03-12"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rso48p/cli_is_all_agents_need_part_2_misconceptions/",
     "date": "2026-03-13"
   },
@@ -214,5 +182,33 @@
   {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rx6x20/qianfanocr_4b_endtoend_document_ai_model_9312_on/",
     "date": "2026-03-18"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1ts2/added_confidence_scoring_to_my_opensource_memory/",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://astral.sh/blog/openai",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
+    "date": "2026-03-19"
+  },
+  {
+    "url": "https://undeadly.org/cgi?action=article%3Bsid%3D20260319125859",
+    "date": "2026-03-19"
   }
 ]
