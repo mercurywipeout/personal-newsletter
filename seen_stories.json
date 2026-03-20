@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rso48p/cli_is_all_agents_need_part_2_misconceptions/",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rspm10/running_qwen3535ba3b_and_nemotron3super120ba12b/",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://prompt-caching.ai/",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://help.instagram.com/491565145294150",
-    "date": "2026-03-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/13/liquid/",
-    "date": "2026-03-13"
-  },
-  {
     "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxlg8/p_colqwen35v2_45b_is_out/",
     "date": "2026-03-14"
   },
@@ -210,5 +182,37 @@
   {
     "url": "https://undeadly.org/cgi?action=article%3Bsid%3D20260319125859",
     "date": "2026-03-19"
+  },
+  {
+    "url": "https://linuxiac.com/germany-mandates-odf-for-public-administration/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryxxt7/composer_2_is_just_kimi_k25_with_rl/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://blog.langchain.com/introducing-langsmith-fleet/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryz423/your_local_model_can_now_render_interactive/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
+    "date": "2026-03-20"
+  },
+  {
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "date": "2026-03-20"
   }
 ]
