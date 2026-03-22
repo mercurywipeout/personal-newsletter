@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-context-drought",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rueka1/privacyfocused_ai_terminal_emulator_written_in/",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1ru7bnz/p_i_got_tired_of_pytorch_geometric_ooming_my/",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://signet.watch",
-    "date": "2026-03-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/14/jannis-leidel/",
-    "date": "2026-03-15"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv98wo/qwen359b_on_document_benchmarks_where_it_beats/",
     "date": "2026-03-16"
   },
@@ -210,5 +178,33 @@
   {
     "url": "https://www.latent.space/p/dreamer",
     "date": "2026-03-21"
+  },
+  {
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0mnv3/minimax_m27_will_be_open_weights/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://pwa.gripe/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0nkqi/is_there_actually_something_meaningfully_better/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0nchk/clawstyle_agents_real_workflow_tool_or/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
+    "date": "2026-03-22"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+    "date": "2026-03-22"
   }
 ]
