@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rw96pw/p_built_confidence_scoring_for_autoresearch/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwa0f7/unsloth_announces_unsloth_studio_a_competitor_to/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://ffmpeg.org/index.html",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw7z93/zero_text_between_my_agents_latent_transfer_now/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rw1eag/r_attention_residuals_by_kimi_team/",
-    "date": "2026-03-17"
-  },
-  {
-    "url": "https://blog.langchain.com/nvidia-enterprise/",
-    "date": "2026-03-17"
-  },
-  {
     "url": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
     "date": "2026-03-18"
   },
@@ -206,5 +174,37 @@
   {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/",
     "date": "2026-03-23"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2gvy5/molmoweb_4b8b/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/24/malicious-litellm/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/24/streaming-experts/",
+    "date": "2026-03-24"
+  },
+  {
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "date": "2026-03-24"
   }
 ]
