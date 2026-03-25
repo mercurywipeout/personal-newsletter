@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://github.com/aibuildai/AI-Build-AI",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://stripe.com/blog/machine-payments-protocol",
-    "date": "2026-03-18"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rx6x20/qianfanocr_4b_endtoend_document_ai_model_9312_on/",
-    "date": "2026-03-18"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1ts2/added_confidence_scoring_to_my_opensource_memory/",
     "date": "2026-03-19"
   },
@@ -206,5 +174,37 @@
   {
     "url": "https://openai.com/index/update-on-the-openai-foundation",
     "date": "2026-03-24"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3eb4v/run_qwen354b_on_amd_npu/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3e8bd/intel_will_sell_a_cheap_gpu_with_32gb_vram_next/",
+    "date": "2026-03-25"
+  },
+  {
+    "url": "https://ente.com/blog/ensu/",
+    "date": "2026-03-25"
   }
 ]
