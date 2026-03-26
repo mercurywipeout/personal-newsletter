@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1ts2/added_confidence_scoring_to_my_opensource_memory/",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://astral.sh/blog/openai",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
-    "date": "2026-03-19"
-  },
-  {
-    "url": "https://undeadly.org/cgi?action=article%3Bsid%3D20260319125859",
-    "date": "2026-03-19"
-  },
-  {
     "url": "https://linuxiac.com/germany-mandates-odf-for-public-administration/",
     "date": "2026-03-20"
   },
@@ -206,5 +178,37 @@
   {
     "url": "https://ente.com/blog/ensu/",
     "date": "2026-03-25"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+    "date": "2026-03-26"
+  },
+  {
+    "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
+    "date": "2026-03-26"
   }
 ]
