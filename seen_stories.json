@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://linuxiac.com/germany-mandates-odf-for-public-administration/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryxxt7/composer_2_is_just_kimi_k25_with_rl/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://blog.langchain.com/introducing-langsmith-fleet/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryz423/your_local_model_can_now_render_interactive/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
-    "date": "2026-03-20"
-  },
-  {
-    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "date": "2026-03-20"
-  },
-  {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzri71/tgi_is_in_maintenance_mode_time_to_switch/",
     "date": "2026-03-21"
   },
@@ -210,5 +178,37 @@
   {
     "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
     "date": "2026-03-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-everything-is-cli",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s57493/dual_7900_xtx_hitting_123_toks_on_qwen3535b/",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s56g07/skipping_90_of_kv_dequant_work_228_decode_at_32k/",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
+    "date": "2026-03-27"
+  },
+  {
+    "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
+    "date": "2026-03-27"
   }
 ]
