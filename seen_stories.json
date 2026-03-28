@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzri71/tgi_is_in_maintenance_mode_time_to_switch/",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzsehn/fixing_qwen_thinking_repetition/",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-    "date": "2026-03-21"
-  },
-  {
-    "url": "https://www.latent.space/p/dreamer",
-    "date": "2026-03-21"
-  },
-  {
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/",
     "date": "2026-03-22"
   },
@@ -210,5 +182,29 @@
   {
     "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
     "date": "2026-03-27"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-h100-prices-are-melting-up",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s62el8/breaking_change_in_llamaserver/",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s611t3/r_lag_state_in_citation_graphs_a_systematic/",
+    "date": "2026-03-28"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
+    "date": "2026-03-28"
   }
 ]
