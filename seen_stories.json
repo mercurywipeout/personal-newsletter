@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s1aw7u/d_the_serverless_gpu_market_is_getting_crowded_a/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1k65x/m5_max_actual_prefill_performance_gains/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s1j4tr/r_detection_is_cheap_routing_is_learned_why/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/22/starlette/",
-    "date": "2026-03-23"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/",
-    "date": "2026-03-23"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
     "date": "2026-03-24"
   },
@@ -206,5 +178,33 @@
   {
     "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
     "date": "2026-03-29"
+  },
+  {
+    "url": "https://github.com/coast-guard/coasts",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s7t7w7/r_an_attack_class_that_passes_every_current_llm/",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7tn5s/psa_using_claude_code_without_anthropic_how_to/",
+    "date": "2026-03-30"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/",
+    "date": "2026-03-30"
   }
 ]
