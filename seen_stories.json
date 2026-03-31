@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-dreamer-joins-meta-superintelligence",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2gvy5/molmoweb_4b8b/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/24/malicious-litellm/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/24/streaming-experts/",
-    "date": "2026-03-24"
-  },
-  {
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "date": "2026-03-24"
-  },
-  {
     "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
     "date": "2026-03-25"
   },
@@ -206,5 +174,29 @@
   {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/",
     "date": "2026-03-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+    "date": "2026-03-31"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+    "date": "2026-03-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+    "date": "2026-03-31"
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s8osi9/d_the_problem_with_comparing_ai_memory_system/",
+    "date": "2026-03-31"
+  },
+  {
+    "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+    "date": "2026-03-31"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+    "date": "2026-03-31"
   }
 ]
