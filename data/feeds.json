@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "status": "probation",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 26,
+    "consecutive_poor_days": 27,
     "good_days_streak": 0,
     "last_transition": "2026-03-19"
   },
@@ -36,7 +36,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 26,
+    "good_days_streak": 27,
     "last_transition": null
   },
   {
@@ -46,7 +46,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 26,
+    "good_days_streak": 27,
     "last_transition": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 24,
+    "good_days_streak": 25,
     "last_transition": null
   },
   {
@@ -76,7 +76,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 28,
+    "good_days_streak": 29,
     "last_transition": null
   },
   {
@@ -106,7 +106,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 28,
+    "good_days_streak": 29,
     "last_transition": null
   },
   {
@@ -116,7 +116,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 26,
+    "good_days_streak": 27,
     "last_transition": null
   },
   {
@@ -166,7 +166,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 27,
+    "good_days_streak": 28,
     "last_transition": null
   },
   {
@@ -175,7 +175,7 @@
     "url": "https://hnrss.org/frontpage",
     "status": "active",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 0,
+    "consecutive_poor_days": 1,
     "good_days_streak": 0,
     "last_transition": null
   },
@@ -185,7 +185,7 @@
     "url": "https://www.reddit.com/r/MachineLearning/.rss",
     "status": "probation",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 26,
+    "consecutive_poor_days": 27,
     "good_days_streak": 0,
     "last_transition": "2026-03-19"
   },
@@ -193,11 +193,11 @@
     "id": "reddit-r-localllama",
     "name": "Reddit r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
-    "status": "probation",
+    "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 27,
+    "consecutive_poor_days": 28,
     "good_days_streak": 0,
-    "last_transition": "2026-03-18"
+    "last_transition": "2026-04-01"
   },
   {
     "id": "blog-rust-lang-org",

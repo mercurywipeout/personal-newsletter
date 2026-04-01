@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3eb4v/run_qwen354b_on_amd_npu/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3e8bd/intel_will_sell_a_cheap_gpu_with_32gb_vram_next/",
-    "date": "2026-03-25"
-  },
-  {
-    "url": "https://ente.com/blog/ensu/",
-    "date": "2026-03-25"
-  },
-  {
     "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
     "date": "2026-03-26"
   },
@@ -198,5 +166,33 @@
   {
     "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "date": "2026-03-31"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+    "date": "2026-04-01"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/",
+    "date": "2026-04-01"
   }
 ]
