@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-    "date": "2026-03-26"
-  },
-  {
-    "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-    "date": "2026-03-26"
-  },
-  {
     "url": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/",
     "date": "2026-03-27"
   },
@@ -194,5 +162,33 @@
   {
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/",
     "date": "2026-04-01"
+  },
+  {
+    "url": "https://browsergate.eu/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://blog.langchain.com/march-2026-langchain-newsletter/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
+    "date": "2026-04-02"
+  },
+  {
+    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+    "date": "2026-04-02"
   }
 ]
