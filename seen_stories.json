@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-everything-is-cli",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s57493/dual_7900_xtx_hitting_123_toks_on_qwen3535b/",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s56g07/skipping_90_of_kv_dequant_work_228_decode_at_32k/",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
-    "date": "2026-03-27"
-  },
-  {
-    "url": "https://bsky.app/profile/teropa.bsky.social/post/3mi2dbt27m226",
-    "date": "2026-03-27"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
     "date": "2026-03-28"
   },
@@ -190,5 +158,37 @@
   {
     "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
     "date": "2026-04-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://ctx.rs",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://www.latent.space/p/moonlake",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
+    "date": "2026-04-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+    "date": "2026-04-03"
   }
 ]
