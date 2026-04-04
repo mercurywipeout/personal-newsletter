@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "date": "2026-03-28"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
-    "date": "2026-03-28"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-h100-prices-are-melting-up",
-    "date": "2026-03-28"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s62el8/breaking_change_in_llamaserver/",
-    "date": "2026-03-28"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s611t3/r_lag_state_in_citation_graphs_a_systematic/",
-    "date": "2026-03-28"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
-    "date": "2026-03-28"
-  },
-  {
     "url": "https://www.reddit.com/r/MachineLearning/comments/1s6uqns/p_built_an_open_source_tool_to_find_the_location/",
     "date": "2026-03-29"
   },
@@ -190,5 +166,37 @@
   {
     "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
     "date": "2026-04-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/04/04/docsrs-only-default-targets/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://blog.langchain.com/production-agents-self-heal/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "date": "2026-04-04"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "date": "2026-04-04"
   }
 ]
