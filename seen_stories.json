@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/coast-guard/coasts",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s7t7w7/r_an_attack_class_that_passes_every_current_llm/",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7tn5s/psa_using_claude_code_without_anthropic_how_to/",
-    "date": "2026-03-30"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/",
-    "date": "2026-03-30"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
     "date": "2026-03-31"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://banray.eu/en/index.html",
     "date": "2026-04-05"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://blog.langchain.com/continual-learning-for-ai-agents/",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
+    "date": "2026-04-06"
+  },
+  {
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "date": "2026-04-06"
   }
 ]
