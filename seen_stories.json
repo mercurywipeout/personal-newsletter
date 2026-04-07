@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
-    "date": "2026-03-31"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
-    "date": "2026-03-31"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-    "date": "2026-03-31"
-  },
-  {
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1s8osi9/d_the_problem_with_comparing_ai_memory_system/",
-    "date": "2026-03-31"
-  },
-  {
-    "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-    "date": "2026-03-31"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-    "date": "2026-03-31"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
     "date": "2026-04-01"
   },
@@ -194,5 +170,33 @@
   {
     "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
     "date": "2026-04-06"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://blog.langchain.com/arcade-dev-tools-now-in-langsmith-fleet/",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-gemma-4-crosses-2-million",
+    "date": "2026-04-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+    "date": "2026-04-07"
   }
 ]
