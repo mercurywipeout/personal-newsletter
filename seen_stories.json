@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
-    "date": "2026-04-01"
-  },
-  {
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/",
-    "date": "2026-04-01"
-  },
-  {
     "url": "https://browsergate.eu/",
     "date": "2026-04-02"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
     "date": "2026-04-07"
+  },
+  {
+    "url": "https://openai.com/index/introducing-child-safety-blueprint",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://blog.langchain.com/deep-agents-v0-5/",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://www.latent.space/p/harness-eng",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
+    "date": "2026-04-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
+    "date": "2026-04-08"
   }
 ]
