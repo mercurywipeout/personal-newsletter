@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://browsergate.eu/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://blog.langchain.com/march-2026-langchain-newsletter/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
-    "date": "2026-04-02"
-  },
-  {
-    "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-    "date": "2026-04-02"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/",
     "date": "2026-04-03"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
     "date": "2026-04-08"
+  },
+  {
+    "url": "https://getsession.org/donate",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
+    "date": "2026-04-09"
+  },
+  {
+    "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/",
+    "date": "2026-04-09"
   }
 ]
