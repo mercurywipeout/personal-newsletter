@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://ctx.rs",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://www.latent.space/p/moonlake",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
-    "date": "2026-04-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
-    "date": "2026-04-03"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
     "date": "2026-04-04"
   },
@@ -198,5 +166,33 @@
   {
     "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/",
     "date": "2026-04-09"
+  },
+  {
+    "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "date": "2026-04-10"
+  },
+  {
+    "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
+    "date": "2026-04-10"
   }
 ]
