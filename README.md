@@ -133,3 +133,9 @@ data/                        # runtime state (committed by CI)
 - Python 3.11+
 - An [Anthropic API key](https://console.anthropic.com/)
 - A Gmail account with an App Password enabled
+
+---
+
+## Roadmap / TODO
+
+- [ ] **Add scraping support** — some high-value sources (e.g. `claude.com/blog`) don't publish RSS feeds; add a scraper that can fetch a listing page, parse article URLs, and pass them through `article_fetcher.py` like any RSS-sourced story
