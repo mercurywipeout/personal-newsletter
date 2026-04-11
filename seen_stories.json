@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/04/04/docsrs-only-default-targets/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://blog.langchain.com/production-agents-self-heal/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "date": "2026-04-04"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "date": "2026-04-04"
-  },
-  {
     "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
     "date": "2026-04-05"
   },
@@ -194,5 +162,29 @@
   {
     "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
     "date": "2026-04-10"
+  },
+  {
+    "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+    "date": "2026-04-11"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+    "date": "2026-04-11"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+    "date": "2026-04-11"
+  },
+  {
+    "url": "https://blog.langchain.com/your-harness-your-memory/",
+    "date": "2026-04-11"
+  },
+  {
+    "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+    "date": "2026-04-11"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-ai-engineer-europe-2026",
+    "date": "2026-04-11"
   }
 ]
