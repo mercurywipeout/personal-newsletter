@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://blog.langchain.com/arcade-dev-tools-now-in-langsmith-fleet/",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-gemma-4-crosses-2-million",
-    "date": "2026-04-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-    "date": "2026-04-07"
-  },
-  {
     "url": "https://openai.com/index/introducing-child-safety-blueprint",
     "date": "2026-04-08"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
     "date": "2026-04-13"
+  },
+  {
+    "url": "https://github.com/kontext-dev/kontext-cli",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-top-local-models-list-april",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/13/steve-yegge/",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+    "date": "2026-04-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+    "date": "2026-04-14"
   }
 ]

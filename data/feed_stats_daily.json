@@ -3558,5 +3558,70 @@
       "dup_count": 5,
       "first_in_cluster_count": 2
     }
+  },
+  "2026-04-14": {
+    "simon-willison": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "the-github-blog": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "google-deepmind-news": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "latent-space": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica-ai": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "mit-tech-review": {
+      "stories_fetched": 7,
+      "stories_passed": 7,
+      "article_ok": 3,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "hacker-news-frontpage": {
+      "stories_fetched": 20,
+      "stories_passed": 8,
+      "article_ok": 7,
+      "article_error": 0,
+      "article_blocked": 1,
+      "dup_count": 6,
+      "first_in_cluster_count": 0
+    }
   }
 }
