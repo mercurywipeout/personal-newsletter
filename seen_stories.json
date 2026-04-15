@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-child-safety-blueprint",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://blog.langchain.com/deep-agents-v0-5/",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://www.latent.space/p/harness-eng",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
-    "date": "2026-04-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
-    "date": "2026-04-08"
-  },
-  {
     "url": "https://getsession.org/donate",
     "date": "2026-04-09"
   },
@@ -186,5 +158,37 @@
   {
     "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
     "date": "2026-04-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://claudestatus.com/",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://www.latent.space/p/notion",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+    "date": "2026-04-15"
+  },
+  {
+    "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+    "date": "2026-04-15"
   }
 ]
