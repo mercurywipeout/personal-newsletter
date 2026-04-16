@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://getsession.org/donate",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
-    "date": "2026-04-09"
-  },
-  {
-    "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/",
-    "date": "2026-04-09"
-  },
-  {
     "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/",
     "date": "2026-04-10"
   },
@@ -190,5 +162,37 @@
   {
     "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
     "date": "2026-04-15"
+  },
+  {
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://www.zatanna.ai/kampala",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "date": "2026-04-16"
+  },
+  {
+    "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "date": "2026-04-16"
   }
 ]
