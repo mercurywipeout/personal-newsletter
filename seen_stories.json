@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-    "date": "2026-04-10"
-  },
-  {
-    "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
-    "date": "2026-04-10"
-  },
-  {
     "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
     "date": "2026-04-11"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
     "date": "2026-04-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+    "date": "2026-04-17"
+  },
+  {
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "date": "2026-04-17"
   }
 ]
