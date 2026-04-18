@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-    "date": "2026-04-11"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
-    "date": "2026-04-11"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-    "date": "2026-04-11"
-  },
-  {
-    "url": "https://blog.langchain.com/your-harness-your-memory/",
-    "date": "2026-04-11"
-  },
-  {
-    "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-    "date": "2026-04-11"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-ai-engineer-europe-2026",
-    "date": "2026-04-11"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=47739305",
     "date": "2026-04-12"
   },
@@ -194,5 +170,29 @@
   {
     "url": "https://openai.com/index/codex-for-almost-everything",
     "date": "2026-04-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/",
+    "date": "2026-04-18"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
+    "date": "2026-04-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+    "date": "2026-04-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "date": "2026-04-18"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+    "date": "2026-04-18"
+  },
+  {
+    "url": "https://github.com/yapstudios/sfsym",
+    "date": "2026-04-18"
   }
 ]

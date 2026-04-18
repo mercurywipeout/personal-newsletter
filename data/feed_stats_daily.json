@@ -3854,5 +3854,88 @@
       "dup_count": 5,
       "first_in_cluster_count": 0
     }
+  },
+  "2026-04-18": {
+    "hugging-face-blog": {
+      "stories_fetched": 1,
+      "stories_passed": 0,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "simon-willison": {
+      "stories_fetched": 3,
+      "stories_passed": 3,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 1,
+      "first_in_cluster_count": 0
+    },
+    "the-github-blog": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 2,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica-ai": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "mit-tech-review": {
+      "stories_fetched": 4,
+      "stories_passed": 4,
+      "article_ok": 3,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 2,
+      "first_in_cluster_count": 0
+    },
+    "latent-space": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "sebastian-raschka": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "hacker-news-frontpage": {
+      "stories_fetched": 20,
+      "stories_passed": 8,
+      "article_ok": 8,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 4,
+      "first_in_cluster_count": 0
+    }
   }
 }
