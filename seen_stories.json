@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=47739305",
-    "date": "2026-04-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/11/sqlite/",
-    "date": "2026-04-12"
-  },
-  {
-    "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-    "date": "2026-04-12"
-  },
-  {
-    "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-    "date": "2026-04-12"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/issues/45756",
-    "date": "2026-04-12"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=47738883",
-    "date": "2026-04-12"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/12/mlx-audio/",
     "date": "2026-04-13"
   },
@@ -194,5 +170,29 @@
   {
     "url": "https://github.com/yapstudios/sfsym",
     "date": "2026-04-18"
+  },
+  {
+    "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
+    "date": "2026-04-19"
+  },
+  {
+    "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+    "date": "2026-04-19"
+  },
+  {
+    "url": "https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen",
+    "date": "2026-04-19"
+  },
+  {
+    "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+    "date": "2026-04-19"
+  },
+  {
+    "url": "https://daverupert.com/2026/04/more-talk-less-grok/",
+    "date": "2026-04-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "date": "2026-04-19"
   }
 ]

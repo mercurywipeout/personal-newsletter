@@ -3937,5 +3937,25 @@
       "dup_count": 4,
       "first_in_cluster_count": 0
     }
+  },
+  "2026-04-19": {
+    "simon-willison": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "hacker-news-frontpage": {
+      "stories_fetched": 20,
+      "stories_passed": 8,
+      "article_ok": 6,
+      "article_error": 1,
+      "article_blocked": 1,
+      "dup_count": 2,
+      "first_in_cluster_count": 0
+    }
   }
 }
