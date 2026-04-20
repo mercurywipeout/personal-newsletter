@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/12/mlx-audio/",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-    "date": "2026-04-13"
-  },
-  {
-    "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-    "date": "2026-04-13"
-  },
-  {
     "url": "https://github.com/kontext-dev/kontext-cli",
     "date": "2026-04-14"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
     "date": "2026-04-19"
+  },
+  {
+    "url": "https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/19/headless-everything/",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+    "date": "2026-04-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+    "date": "2026-04-20"
   }
 ]
