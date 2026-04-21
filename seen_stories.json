@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/kontext-dev/kontext-cli",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-top-local-models-list-april",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/13/steve-yegge/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
-    "date": "2026-04-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-    "date": "2026-04-14"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
     "date": "2026-04-15"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
     "date": "2026-04-20"
+  },
+  {
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://www.latent.space/p/noetik",
+    "date": "2026-04-21"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+    "date": "2026-04-21"
   }
 ]
