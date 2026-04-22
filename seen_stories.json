@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://claudestatus.com/",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://www.latent.space/p/notion",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
-    "date": "2026-04-15"
-  },
-  {
-    "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-    "date": "2026-04-15"
-  },
-  {
     "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
     "date": "2026-04-16"
   },
@@ -194,5 +162,37 @@
   {
     "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
     "date": "2026-04-21"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://cli.github.com/telemetry",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "date": "2026-04-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+    "date": "2026-04-22"
   }
 ]
