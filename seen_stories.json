@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://openai.com/index/codex-for-almost-everything",
-    "date": "2026-04-17"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/",
     "date": "2026-04-18"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
     "date": "2026-04-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/24/honker/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/",
+    "date": "2026-04-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "date": "2026-04-24"
   }
 ]
