@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/",
-    "date": "2026-04-18"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
-    "date": "2026-04-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-    "date": "2026-04-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
-    "date": "2026-04-18"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
-    "date": "2026-04-18"
-  },
-  {
-    "url": "https://github.com/yapstudios/sfsym",
-    "date": "2026-04-18"
-  },
-  {
     "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
     "date": "2026-04-19"
   },
@@ -194,5 +170,33 @@
   {
     "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
     "date": "2026-04-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/25/romain-huet/",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://github.com/nakagami/grdpwasm",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
+    "date": "2026-04-25"
   }
 ]
