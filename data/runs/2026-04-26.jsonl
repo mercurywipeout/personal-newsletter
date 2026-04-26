@@ -1,0 +1,39 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-26T15:38:11Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/orgs/community/discussions/192666", "fetch_ms": 873, "extract_ms": 170, "ts": "2026-04-26T15:38:12Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/", "ts": "2026-04-26T15:38:12Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/", "fetch_ms": 640, "extract_ms": 13, "ts": "2026-04-26T15:38:13Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://asahilinux.org/2026/04/progress-report-7-0/", "fetch_ms": 202, "extract_ms": 57, "ts": "2026-04-26T15:38:13Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://statecharts.dev", "fetch_ms": 164, "extract_ms": 39, "ts": "2026-04-26T15:38:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://ciechanow.ski/exposing-floating-point/", "fetch_ms": 288, "extract_ms": 99, "ts": "2026-04-26T15:38:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health", "fetch_ms": 348, "extract_ms": 57, "ts": "2026-04-26T15:38:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things", "fetch_ms": 232, "extract_ms": 41, "ts": "2026-04-26T15:38:15Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything", "fetch_ms": 70, "extract_ms": 2071, "ts": "2026-04-26T15:38:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/orgs/community/discussions/192666", "ts": "2026-04-26T15:38:17Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://asahilinux.org/2026/04/progress-report-7-0/", "ts": "2026-04-26T15:38:17Z"}
