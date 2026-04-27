@@ -1,0 +1,59 @@
+{"event": "story_fetched", "feed_id": "hugging-face-blog", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "google-deepmind-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "the-github-blog", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "openai-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_fetched", "feed_id": "openai-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "google-deepmind-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "the-github-blog", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "openai-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "story_passed", "feed_id": "openai-news", "ts": "2026-04-27T16:23:24Z"}
+{"event": "article_ok", "feed_id": "the-github-blog", "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/", "fetch_ms": 87, "extract_ms": 38, "ts": "2026-04-27T16:23:24Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/", "fetch_ms": 155, "extract_ms": 33, "ts": "2026-04-27T16:23:24Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://muffin.ink/blog/scratch-svg-sanitization/", "fetch_ms": 119, "extract_ms": 132, "ts": "2026-04-27T16:23:24Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html", "ts": "2026-04-27T16:23:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/", "fetch_ms": 811, "extract_ms": 17, "ts": "2026-04-27T16:23:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html", "fetch_ms": 169, "extract_ms": 36, "ts": "2026-04-27T16:23:26Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.systalyze.com/utilyze", "fetch_ms": 233, "extract_ms": 92, "ts": "2026-04-27T16:23:26Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/serverless-dna/tendril", "fetch_ms": 1277, "extract_ms": 93, "ts": "2026-04-27T16:23:27Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai", "ts": "2026-04-27T16:23:28Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/", "fetch_ms": 120, "extract_ms": 96, "ts": "2026-04-27T16:23:28Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/", "fetch_ms": 22, "extract_ms": 37, "ts": "2026-04-27T16:23:28Z"}
+{"event": "article_ok", "feed_id": "google-deepmind-news", "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/", "fetch_ms": 433, "extract_ms": 32, "ts": "2026-04-27T16:23:28Z"}
+{"event": "article_blocked", "feed_id": "openai-news", "url": "https://openai.com/index/next-phase-of-microsoft-partnership", "ts": "2026-04-27T16:23:28Z"}
+{"event": "article_blocked", "feed_id": "openai-news", "url": "https://openai.com/index/our-principles", "ts": "2026-04-27T16:23:29Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/", "ts": "2026-04-27T16:23:29Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai", "ts": "2026-04-27T16:23:29Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html", "ts": "2026-04-27T16:23:29Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html", "ts": "2026-04-27T16:23:29Z"}

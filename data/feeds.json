@@ -16,7 +16,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 17,
+    "good_days_streak": 18,
     "last_transition": null
   },
   {
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 52,
+    "consecutive_poor_days": 53,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -36,7 +36,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 52,
+    "good_days_streak": 53,
     "last_transition": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 50,
+    "good_days_streak": 51,
     "last_transition": null
   },
   {
@@ -76,7 +76,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 54,
+    "good_days_streak": 55,
     "last_transition": null
   },
   {
@@ -106,7 +106,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 54,
+    "good_days_streak": 55,
     "last_transition": null
   },
   {
@@ -116,7 +116,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 52,
+    "good_days_streak": 53,
     "last_transition": null
   },
   {
@@ -166,7 +166,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 53,
+    "good_days_streak": 54,
     "last_transition": null
   },
   {

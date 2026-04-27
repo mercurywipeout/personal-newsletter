@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://nysfocus.com/2026/04/20/data-center-tax-break-jpmorgan-chase",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/19/headless-everything/",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-    "date": "2026-04-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-    "date": "2026-04-20"
-  },
-  {
     "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
     "date": "2026-04-21"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://statecharts.dev/",
     "date": "2026-04-26"
+  },
+  {
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://github.com/serverless-dna/tendril",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://www.systalyze.com/utilyze",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "date": "2026-04-27"
+  },
+  {
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "date": "2026-04-27"
   }
 ]
