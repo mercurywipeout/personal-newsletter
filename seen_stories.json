@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://www.latent.space/p/noetik",
-    "date": "2026-04-21"
-  },
-  {
-    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-    "date": "2026-04-21"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
     "date": "2026-04-22"
   },
@@ -198,5 +170,37 @@
   {
     "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
     "date": "2026-04-27"
+  },
+  {
+    "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/28/pip-261/",
+    "date": "2026-04-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "date": "2026-04-28"
   }
 ]
