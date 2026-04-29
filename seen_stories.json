@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://cli.github.com/telemetry",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://www.adriankrebs.ch/blog/design-slop/",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-privacy-filter",
-    "date": "2026-04-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-    "date": "2026-04-22"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
     "date": "2026-04-23"
   },
@@ -202,5 +170,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
     "date": "2026-04-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/28/openai-codex/",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://zed.dev/blog/zed-1-0",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+    "date": "2026-04-29"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+    "date": "2026-04-29"
   }
 ]
