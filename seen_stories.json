@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
-    "date": "2026-04-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-    "date": "2026-04-23"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/24/honker/",
     "date": "2026-04-24"
   },
@@ -198,5 +166,37 @@
   {
     "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
     "date": "2026-04-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/29/llm/",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://deepmind.google/blog/ai-co-clinician/",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://honker.dev/",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "date": "2026-04-30"
+  },
+  {
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "date": "2026-04-30"
   }
 ]
