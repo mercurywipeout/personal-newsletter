@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/24/honker/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/",
-    "date": "2026-04-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "date": "2026-04-24"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
     "date": "2026-04-25"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
     "date": "2026-04-30"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/05/01/nvptx-baseline-update/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
+    "date": "2026-05-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/",
+    "date": "2026-05-01"
   }
 ]
