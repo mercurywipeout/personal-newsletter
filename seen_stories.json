@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/25/romain-huet/",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://github.com/nakagami/grdpwasm",
-    "date": "2026-04-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
-    "date": "2026-04-25"
-  },
-  {
     "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
     "date": "2026-04-26"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/",
     "date": "2026-05-01"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://github.com/nexu-io/open-design",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "date": "2026-05-02"
+  },
+  {
+    "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "date": "2026-05-02"
   }
 ]
