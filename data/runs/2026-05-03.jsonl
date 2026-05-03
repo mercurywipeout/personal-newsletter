@@ -1,0 +1,48 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-05-03T15:42:26Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything", "fetch_ms": 67, "extract_ms": 2058, "ts": "2026-05-03T15:42:28Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://zencapital.substack.com/p/business-owners-are-worst-clients", "ts": "2026-05-03T15:42:28Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/", "fetch_ms": 327, "extract_ms": 73, "ts": "2026-05-03T15:42:29Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law", "fetch_ms": 200, "extract_ms": 53, "ts": "2026-05-03T15:42:29Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades", "fetch_ms": 121, "extract_ms": 22, "ts": "2026-05-03T15:42:29Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://simpleobservability.com/docs/alert-driven-monitoring", "fetch_ms": 267, "extract_ms": 58, "ts": "2026-05-03T15:42:29Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/", "fetch_ms": 120, "extract_ms": 16, "ts": "2026-05-03T15:42:29Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/Matheus-git/systemd-manager-tui", "fetch_ms": 830, "extract_ms": 81, "ts": "2026-05-03T15:42:30Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/bring-shrubbery/ml-sharp-web", "fetch_ms": 477, "extract_ms": 77, "ts": "2026-05-03T15:42:31Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything", "fetch_ms": 63, "extract_ms": 62, "ts": "2026-05-03T15:42:31Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch", "fetch_ms": 157, "extract_ms": 185, "ts": "2026-05-03T15:42:31Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law", "ts": "2026-05-03T15:42:31Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://simpleobservability.com/docs/alert-driven-monitoring", "ts": "2026-05-03T15:42:31Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/bring-shrubbery/ml-sharp-web", "ts": "2026-05-03T15:42:31Z"}

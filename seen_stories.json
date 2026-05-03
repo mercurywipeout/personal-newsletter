@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-    "date": "2026-04-26"
-  },
-  {
-    "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-    "date": "2026-04-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/",
-    "date": "2026-04-26"
-  },
-  {
-    "url": "https://ciechanow.ski/exposing-floating-point/",
-    "date": "2026-04-26"
-  },
-  {
-    "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "date": "2026-04-26"
-  },
-  {
-    "url": "https://statecharts.dev/",
-    "date": "2026-04-26"
-  },
-  {
     "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
     "date": "2026-04-27"
   },
@@ -198,5 +174,29 @@
   {
     "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
     "date": "2026-05-02"
+  },
+  {
+    "url": "https://github.com/Matheus-git/systemd-manager-tui",
+    "date": "2026-05-03"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "date": "2026-05-03"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/3/anthropic/",
+    "date": "2026-05-03"
+  },
+  {
+    "url": "https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/",
+    "date": "2026-05-03"
+  },
+  {
+    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+    "date": "2026-05-03"
+  },
+  {
+    "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
+    "date": "2026-05-03"
   }
 ]
