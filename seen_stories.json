@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://github.com/serverless-dna/tendril",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.systalyze.com/utilyze",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-    "date": "2026-04-27"
-  },
-  {
-    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-    "date": "2026-04-27"
-  },
-  {
     "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
     "date": "2026-04-28"
   },
@@ -198,5 +170,29 @@
   {
     "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
     "date": "2026-05-03"
+  },
+  {
+    "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+    "date": "2026-05-04"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+    "date": "2026-05-04"
+  },
+  {
+    "url": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+    "date": "2026-05-04"
+  },
+  {
+    "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+    "date": "2026-05-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "date": "2026-05-04"
+  },
+  {
+    "url": "https://antirez.com/news/164",
+    "date": "2026-05-04"
   }
 ]
