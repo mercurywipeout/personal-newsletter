@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://fortune.com/2026/04/28/nvidia-executive-cost-of-ai-is-greater-than-cost-of-employees/",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/28/pip-261/",
-    "date": "2026-04-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
-    "date": "2026-04-28"
-  },
-  {
     "url": "https://simonwillison.net/2026/Apr/28/openai-codex/",
     "date": "2026-04-29"
   },
@@ -194,5 +162,33 @@
   {
     "url": "https://antirez.com/news/164",
     "date": "2026-05-04"
+  },
+  {
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48023496",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/5/john-gruber/",
+    "date": "2026-05-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/",
+    "date": "2026-05-05"
   }
 ]
