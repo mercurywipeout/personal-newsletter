@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Apr/28/openai-codex/",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://www.texastribune.org/2026/04/28/data-centers-texas-electricians-builders/",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://zed.dev/blog/zed-1-0",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
-    "date": "2026-04-29"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-    "date": "2026-04-29"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
     "date": "2026-04-30"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/",
     "date": "2026-05-05"
+  },
+  {
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "date": "2026-05-06"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+    "date": "2026-05-06"
   }
 ]
