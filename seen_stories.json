@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/29/llm/",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://deepmind.google/blog/ai-co-clinician/",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://honker.dev/",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://openai.com/index/where-the-goblins-came-from",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "date": "2026-04-30"
-  },
-  {
-    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "date": "2026-04-30"
-  },
-  {
     "url": "https://blog.rust-lang.org/2026/05/01/nvptx-baseline-update/",
     "date": "2026-05-01"
   },
@@ -190,5 +158,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
     "date": "2026-05-06"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "date": "2026-05-07"
+  },
+  {
+    "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+    "date": "2026-05-07"
   }
 ]
