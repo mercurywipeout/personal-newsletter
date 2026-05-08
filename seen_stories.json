@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://blog.rust-lang.org/2026/05/01/nvptx-baseline-update/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/",
-    "date": "2026-05-01"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
     "date": "2026-05-02"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
     "date": "2026-05-07"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://github.com/regent-vcs/re_gent",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+    "date": "2026-05-08"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "date": "2026-05-08"
   }
 ]
