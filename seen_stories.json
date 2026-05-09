@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://github.com/nexu-io/open-design",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-    "date": "2026-05-02"
-  },
-  {
-    "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-    "date": "2026-05-02"
-  },
-  {
     "url": "https://github.com/Matheus-git/systemd-manager-tui",
     "date": "2026-05-03"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
     "date": "2026-05-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://dillo-browser.org/lab/web-fork/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://openai.com/index/running-codex-safely",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+    "date": "2026-05-09"
   }
 ]
