@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://github.com/Matheus-git/systemd-manager-tui",
-    "date": "2026-05-03"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
-    "date": "2026-05-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/3/anthropic/",
-    "date": "2026-05-03"
-  },
-  {
-    "url": "https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/",
-    "date": "2026-05-03"
-  },
-  {
-    "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-    "date": "2026-05-03"
-  },
-  {
-    "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
-    "date": "2026-05-03"
-  },
-  {
     "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
     "date": "2026-05-04"
   },
@@ -186,5 +162,17 @@
   {
     "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
     "date": "2026-05-09"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/10/andrew-quinn/",
+    "date": "2026-05-10"
+  },
+  {
+    "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "date": "2026-05-10"
+  },
+  {
+    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "date": "2026-05-10"
   }
 ]
