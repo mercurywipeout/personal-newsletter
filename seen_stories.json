@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48023496",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/5/john-gruber/",
-    "date": "2026-05-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/",
-    "date": "2026-05-05"
-  },
-  {
     "url": "https://openai.com/index/mrc-supercomputer-networking",
     "date": "2026-05-06"
   },
@@ -174,5 +146,37 @@
   {
     "url": "https://openai.com/index/openai-launches-the-deployment-company",
     "date": "2026-05-11"
+  },
+  {
+    "url": "https://voker.ai",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+    "date": "2026-05-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/",
+    "date": "2026-05-12"
   }
 ]
