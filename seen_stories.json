@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
-    "date": "2026-05-06"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-    "date": "2026-05-06"
-  },
-  {
     "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
     "date": "2026-05-07"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/",
     "date": "2026-05-12"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://www.tryardent.com/",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+    "date": "2026-05-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "date": "2026-05-13"
   }
 ]
