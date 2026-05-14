@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
-    "date": "2026-05-07"
-  },
-  {
-    "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-    "date": "2026-05-07"
-  },
-  {
     "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
     "date": "2026-05-08"
   },
@@ -178,5 +150,37 @@
   {
     "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
     "date": "2026-05-13"
+  },
+  {
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "date": "2026-05-14"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
+    "date": "2026-05-14"
   }
 ]
