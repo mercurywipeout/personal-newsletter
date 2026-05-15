@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://github.com/regent-vcs/re_gent",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
-    "date": "2026-05-08"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "date": "2026-05-08"
-  },
-  {
     "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/",
     "date": "2026-05-09"
   },
@@ -182,5 +154,33 @@
   {
     "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
     "date": "2026-05-14"
+  },
+  {
+    "url": "https://turso.tech/blog/the-wonders-of-ai",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "date": "2026-05-15"
+  },
+  {
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "date": "2026-05-15"
   }
 ]
