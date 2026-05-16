@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://dillo-browser.org/lab/web-fork/",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://openai.com/index/running-codex-safely",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
-    "date": "2026-05-09"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-    "date": "2026-05-09"
-  },
-  {
     "url": "https://simonwillison.net/2026/May/10/andrew-quinn/",
     "date": "2026-05-10"
   },
@@ -182,5 +154,37 @@
   {
     "url": "https://openai.com/index/personal-finance-chatgpt",
     "date": "2026-05-15"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date": "2026-05-16"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+    "date": "2026-05-16"
   }
 ]
