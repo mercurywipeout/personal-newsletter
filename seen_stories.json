@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://ratty-term.org/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/",
-    "date": "2026-05-11"
-  },
-  {
-    "url": "https://openai.com/index/openai-launches-the-deployment-company",
-    "date": "2026-05-11"
-  },
-  {
     "url": "https://voker.ai",
     "date": "2026-05-12"
   },
@@ -194,5 +170,33 @@
   {
     "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
     "date": "2026-05-17"
+  },
+  {
+    "url": "https://github.com/InsForge/InsForge",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://www.latent.space/p/the-fourth-law",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+    "date": "2026-05-18"
+  },
+  {
+    "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+    "date": "2026-05-18"
   }
 ]
