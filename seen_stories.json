@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "date": "2026-05-14"
-  },
-  {
-    "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-    "date": "2026-05-14"
-  },
-  {
     "url": "https://turso.tech/blog/the-wonders-of-ai",
     "date": "2026-05-15"
   },
@@ -198,5 +166,37 @@
   {
     "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
     "date": "2026-05-20"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/20/spacex-s1/",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "date": "2026-05-21"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+    "date": "2026-05-21"
   }
 ]
