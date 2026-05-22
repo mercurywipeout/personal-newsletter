@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://turso.tech/blog/the-wonders-of-ai",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
-    "date": "2026-05-15"
-  },
-  {
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "date": "2026-05-15"
-  },
-  {
     "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
     "date": "2026-05-16"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
     "date": "2026-05-21"
+  },
+  {
+    "url": "https://github.com/superset-sh/superset",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.latent.space/p/daytona",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "date": "2026-05-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent/",
+    "date": "2026-05-22"
   }
 ]
