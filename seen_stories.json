@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://nvlabs.github.io/Sana/WM/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "date": "2026-05-16"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
-    "date": "2026-05-16"
-  },
-  {
     "url": "https://simonwillison.net/2026/May/16/openclaw-names/",
     "date": "2026-05-17"
   },
@@ -198,5 +166,33 @@
   {
     "url": "https://simonwillison.net/2026/May/21/datasette-agent/",
     "date": "2026-05-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "date": "2026-05-23"
+  },
+  {
+    "url": "https://nand2mario.github.io/posts/2026/z386/",
+    "date": "2026-05-23"
   }
 ]
