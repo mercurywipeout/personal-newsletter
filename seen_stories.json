@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/May/16/openclaw-names/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://github.com/tech4bot/rk3562deb",
-    "date": "2026-05-17"
-  },
-  {
-    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-    "date": "2026-05-17"
-  },
-  {
     "url": "https://github.com/InsForge/InsForge",
     "date": "2026-05-18"
   },
@@ -194,5 +174,25 @@
   {
     "url": "https://nand2mario.github.io/posts/2026/z386/",
     "date": "2026-05-23"
+  },
+  {
+    "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://mastering.dyalog.com/README.html",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://apple.github.io/ml-pico/",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "date": "2026-05-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/23/on-the-dl/",
+    "date": "2026-05-24"
   }
 ]
