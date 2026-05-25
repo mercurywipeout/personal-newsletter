@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/InsForge/InsForge",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.latent.space/p/the-fourth-law",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-    "date": "2026-05-18"
-  },
-  {
-    "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-    "date": "2026-05-18"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
     "date": "2026-05-19"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://simonwillison.net/2026/May/23/on-the-dl/",
     "date": "2026-05-24"
+  },
+  {
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/05/25/cve-2026-5223/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.trychert.com",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/24/datasette/",
+    "date": "2026-05-25"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "date": "2026-05-25"
   }
 ]
