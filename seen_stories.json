@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-    "date": "2026-05-19"
-  },
-  {
-    "url": "https://superlog.sh/",
-    "date": "2026-05-19"
-  },
-  {
     "url": "https://openai.com/index/advancing-content-provenance",
     "date": "2026-05-20"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
     "date": "2026-05-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.minicor.com/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/26/paul-graham/",
+    "date": "2026-05-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "date": "2026-05-26"
   }
 ]
