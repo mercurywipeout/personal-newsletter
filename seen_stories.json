@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/superset-sh/superset",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://www.latent.space/p/daytona",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
-    "date": "2026-05-22"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/21/datasette-agent/",
-    "date": "2026-05-22"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
     "date": "2026-05-23"
   },
@@ -186,5 +158,37 @@
   {
     "url": "https://github.com/Kaelio/ktx",
     "date": "2026-05-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/29/anthropic/",
+    "date": "2026-05-29"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
+    "date": "2026-05-29"
   }
 ]
