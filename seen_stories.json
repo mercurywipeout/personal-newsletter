@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
-    "date": "2026-05-23"
-  },
-  {
-    "url": "https://nand2mario.github.io/posts/2026/z386/",
-    "date": "2026-05-23"
-  },
-  {
     "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
     "date": "2026-05-24"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
     "date": "2026-05-29"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://helios.southlondonscientific.com/",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "date": "2026-05-30"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+    "date": "2026-05-30"
   }
 ]

@@ -6,7 +6,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 25,
+    "good_days_streak": 26,
     "last_transition": null
   },
   {
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 85,
+    "consecutive_poor_days": 86,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -36,7 +36,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 85,
+    "good_days_streak": 86,
     "last_transition": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 83,
+    "good_days_streak": 84,
     "last_transition": null
   },
   {
@@ -76,7 +76,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 87,
+    "good_days_streak": 88,
     "last_transition": null
   },
   {
@@ -106,7 +106,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 87,
+    "good_days_streak": 88,
     "last_transition": null
   },
   {
@@ -116,7 +116,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 85,
+    "good_days_streak": 86,
     "last_transition": null
   },
   {
@@ -166,7 +166,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 86,
+    "good_days_streak": 87,
     "last_transition": null
   },
   {
@@ -185,7 +185,7 @@
     "url": "https://www.reddit.com/r/MachineLearning/.rss",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 77,
+    "consecutive_poor_days": 78,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -195,7 +195,7 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 78,
+    "consecutive_poor_days": 79,
     "good_days_streak": 0,
     "last_transition": "2026-04-01"
   },
