@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://mastering.dyalog.com/README.html",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://apple.github.io/ml-pico/",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-    "date": "2026-05-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/23/on-the-dl/",
-    "date": "2026-05-24"
-  },
-  {
     "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
     "date": "2026-05-25"
   },
@@ -190,5 +170,33 @@
   {
     "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
     "date": "2026-05-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
+    "date": "2026-05-31"
+  },
+  {
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "date": "2026-05-31"
   }
 ]
