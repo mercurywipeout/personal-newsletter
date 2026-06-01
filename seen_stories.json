@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/05/25/cve-2026-5223/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.trychert.com",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/24/datasette/",
-    "date": "2026-05-25"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-    "date": "2026-05-25"
-  },
-  {
     "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
     "date": "2026-05-26"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://blog.tymscar.com/posts/v100localllm/",
     "date": "2026-05-31"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "date": "2026-06-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+    "date": "2026-06-01"
   }
 ]
