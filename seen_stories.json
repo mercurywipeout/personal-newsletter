@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.minicor.com/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/26/paul-graham/",
-    "date": "2026-05-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "date": "2026-05-26"
-  },
-  {
     "url": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
     "date": "2026-05-27"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
     "date": "2026-06-01"
+  },
+  {
+    "url": "https://github.com/microsoft/coreutils",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/06/02/launching-the-rust-foundation-maintainers-fund/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "date": "2026-06-02"
+  },
+  {
+    "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+    "date": "2026-06-02"
   }
 ]
