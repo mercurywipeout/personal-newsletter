@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://posthog.com/blog/training-ai-models",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://www.latent.space/p/esmfold2",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "date": "2026-05-27"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "date": "2026-05-27"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
     "date": "2026-05-28"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
     "date": "2026-06-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+    "date": "2026-06-03"
   }
 ]
