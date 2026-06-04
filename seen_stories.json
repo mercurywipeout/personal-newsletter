@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://openai.com/index/cisco",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://github.com/creusot-rs/creusot/tree/master",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "date": "2026-05-28"
-  },
-  {
-    "url": "https://github.com/Kaelio/ktx",
-    "date": "2026-05-28"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
     "date": "2026-05-29"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
     "date": "2026-06-03"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://www.latent.space/p/axiom",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://boxes.dev",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "date": "2026-06-04"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "date": "2026-06-04"
   }
 ]
