@@ -7696,5 +7696,88 @@
       "dup_count": 0,
       "first_in_cluster_count": 0
     }
+  },
+  "2026-06-06": {
+    "simon-willison": {
+      "stories_fetched": 3,
+      "stories_passed": 3,
+      "article_ok": 3,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "hugging-face-blog": {
+      "stories_fetched": 1,
+      "stories_passed": 0,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "ars-technica-ai": {
+      "stories_fetched": 3,
+      "stories_passed": 3,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "latent-space": {
+      "stories_fetched": 3,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "sebastian-raschka": {
+      "stories_fetched": 1,
+      "stories_passed": 1,
+      "article_ok": 1,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "mit-tech-review": {
+      "stories_fetched": 2,
+      "stories_passed": 2,
+      "article_ok": 2,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "reddit-r-localllama": {
+      "stories_fetched": 25,
+      "stories_passed": 0,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    },
+    "reddit-r-machinelearning": {
+      "stories_fetched": 7,
+      "stories_passed": 0,
+      "article_ok": 0,
+      "article_error": 0,
+      "article_blocked": 0,
+      "dup_count": 0,
+      "first_in_cluster_count": 0
+    }
   }
 }
