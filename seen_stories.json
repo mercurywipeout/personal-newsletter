@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://prismml.com/news/bonsai-image-4b",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
-    "date": "2026-05-31"
-  },
-  {
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "date": "2026-05-31"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
     "date": "2026-06-01"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
     "date": "2026-06-06"
+  },
+  {
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://9mothers.com/careers",
+    "date": "2026-06-07"
+  },
+  {
+    "url": "https://github.com/devenjarvis/lathe",
+    "date": "2026-06-07"
   }
 ]
