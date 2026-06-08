@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "date": "2026-06-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "date": "2026-06-01"
-  },
-  {
     "url": "https://github.com/microsoft/coreutils",
     "date": "2026-06-02"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://github.com/devenjarvis/lathe",
     "date": "2026-06-07"
+  },
+  {
+    "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://www.apple.com/apple-events/event-stream/",
+    "date": "2026-06-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/",
+    "date": "2026-06-08"
   }
 ]
