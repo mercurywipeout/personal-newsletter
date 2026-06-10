@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "date": "2026-06-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-    "date": "2026-06-03"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
     "date": "2026-06-04"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
     "date": "2026-06-09"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "date": "2026-06-10"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+    "date": "2026-06-10"
   }
 ]
