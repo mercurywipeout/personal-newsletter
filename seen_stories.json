@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://www.latent.space/p/axiom",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://boxes.dev",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "date": "2026-06-04"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-memory-dreaming",
-    "date": "2026-06-04"
-  },
-  {
     "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
     "date": "2026-06-05"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
     "date": "2026-06-10"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/",
+    "date": "2026-06-11"
+  },
+  {
+    "url": "https://mrbruh.com/amd2/",
+    "date": "2026-06-11"
   }
 ]
