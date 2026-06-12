@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://github.com/microsoft/pg_durable",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.latent.space/p/andon",
-    "date": "2026-06-05"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "date": "2026-06-05"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
     "date": "2026-06-06"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://mrbruh.com/amd2/",
     "date": "2026-06-11"
+  },
+  {
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "date": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "date": "2026-06-12"
   }
 ]
