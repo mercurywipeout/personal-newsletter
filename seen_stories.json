@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://www.latent.space/p/bad-envs",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
-    "date": "2026-06-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-    "date": "2026-06-06"
-  },
-  {
     "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
     "date": "2026-06-07"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
     "date": "2026-06-12"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
+    "date": "2026-06-13"
+  },
+  {
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "date": "2026-06-13"
   }
 ]
