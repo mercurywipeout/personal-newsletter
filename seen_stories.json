@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://9mothers.com/careers",
-    "date": "2026-06-07"
-  },
-  {
-    "url": "https://github.com/devenjarvis/lathe",
-    "date": "2026-06-07"
-  },
-  {
     "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
     "date": "2026-06-08"
   },
@@ -198,5 +170,29 @@
   {
     "url": "https://desfontain.es/blog/banning-noise.html",
     "date": "2026-06-13"
+  },
+  {
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "date": "2026-06-14"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48528029",
+    "date": "2026-06-14"
   }
 ]
