@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://www.apple.com/apple-events/event-stream/",
-    "date": "2026-06-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/",
-    "date": "2026-06-08"
-  },
-  {
     "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
     "date": "2026-06-09"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://news.ycombinator.com/item?id=48528029",
     "date": "2026-06-14"
+  },
+  {
+    "url": "https://addyosmani.com/blog/agentic-code-review/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48543908",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://typst.app/docs/changelog/0.15.0/",
+    "date": "2026-06-15"
+  },
+  {
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "date": "2026-06-15"
   }
 ]
