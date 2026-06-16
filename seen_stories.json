@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48463273",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "date": "2026-06-09"
-  },
-  {
-    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "date": "2026-06-09"
-  },
-  {
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
     "date": "2026-06-10"
   },
@@ -194,5 +162,37 @@
   {
     "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
     "date": "2026-06-15"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "date": "2026-06-16"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "date": "2026-06-16"
   }
 ]
