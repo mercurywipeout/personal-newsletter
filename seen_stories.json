@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://github.com/HelixDB/helix-db/tree/main",
-    "date": "2026-06-10"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-    "date": "2026-06-10"
-  },
-  {
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "date": "2026-06-11"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
     "date": "2026-06-16"
+  },
+  {
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://github.com/evanklem/polypore",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.greptile.com/blog/trex-code-execution",
+    "date": "2026-06-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "date": "2026-06-17"
   }
 ]
