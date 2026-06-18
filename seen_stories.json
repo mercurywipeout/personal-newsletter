@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/",
-    "date": "2026-06-11"
-  },
-  {
-    "url": "https://mrbruh.com/amd2/",
-    "date": "2026-06-11"
-  },
-  {
     "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
     "date": "2026-06-12"
   },
@@ -194,5 +166,37 @@
   {
     "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
     "date": "2026-06-17"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+    "date": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+    "date": "2026-06-18"
   }
 ]
