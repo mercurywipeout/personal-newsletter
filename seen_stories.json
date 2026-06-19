@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "date": "2026-06-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-    "date": "2026-06-12"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
     "date": "2026-06-13"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
     "date": "2026-06-18"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://www.latent.space/p/anj",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "date": "2026-06-19"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+    "date": "2026-06-19"
   }
 ]
