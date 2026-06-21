@@ -1,0 +1,58 @@
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-21T16:27:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://norvig.com/lispy.html", "fetch_ms": 325, "extract_ms": 47, "ts": "2026-06-21T16:27:14Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix", "fetch_ms": 78, "extract_ms": 14, "ts": "2026-06-21T16:27:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/", "fetch_ms": 76, "extract_ms": 14, "ts": "2026-06-21T16:27:15Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you", "fetch_ms": 580, "extract_ms": 12, "ts": "2026-06-21T16:27:15Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/proteanthread/bcg", "fetch_ms": 671, "extract_ms": 221, "ts": "2026-06-21T16:27:16Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.beyondallreason.info", "fetch_ms": 395, "extract_ms": 60, "ts": "2026-06-21T16:27:16Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html", "fetch_ms": 74, "extract_ms": 40, "ts": "2026-06-21T16:27:17Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/", "fetch_ms": 176, "extract_ms": 23, "ts": "2026-06-21T16:27:17Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/namgyaaal/avoxelgame", "fetch_ms": 394, "extract_ms": 96, "ts": "2026-06-21T16:27:17Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b", "fetch_ms": 67, "extract_ms": 14, "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://norvig.com/lispy.html", "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you", "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/proteanthread/bcg", "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.beyondallreason.info", "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/", "ts": "2026-06-21T16:27:17Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/namgyaaal/avoxelgame", "ts": "2026-06-21T16:27:17Z"}

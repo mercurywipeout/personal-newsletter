@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "date": "2026-06-14"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48528029",
-    "date": "2026-06-14"
-  },
-  {
     "url": "https://addyosmani.com/blog/agentic-code-review/",
     "date": "2026-06-15"
   },
@@ -190,5 +166,17 @@
   {
     "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
     "date": "2026-06-20"
+  },
+  {
+    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "date": "2026-06-21"
+  },
+  {
+    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "date": "2026-06-21"
   }
 ]
