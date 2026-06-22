@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://addyosmani.com/blog/agentic-code-review/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=48543908",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://typst.app/docs/changelog/0.15.0/",
-    "date": "2026-06-15"
-  },
-  {
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "date": "2026-06-15"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
     "date": "2026-06-16"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
     "date": "2026-06-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://role-confusion.github.io",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://store.steampowered.com/hardware/steammachine",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "date": "2026-06-22"
   }
 ]
