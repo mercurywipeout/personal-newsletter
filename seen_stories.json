@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "date": "2026-06-16"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "date": "2026-06-16"
-  },
-  {
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "date": "2026-06-17"
   },
@@ -178,5 +146,37 @@
   {
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "date": "2026-06-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://lift4d.github.io/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
+    "date": "2026-06-23"
   }
 ]
