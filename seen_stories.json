@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://github.com/evanklem/polypore",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.greptile.com/blog/trex-code-execution",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-    "date": "2026-06-17"
-  },
-  {
     "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
     "date": "2026-06-18"
   },
@@ -178,5 +150,37 @@
   {
     "url": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
     "date": "2026-06-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/23/datasette/",
+    "date": "2026-06-24"
   }
 ]
