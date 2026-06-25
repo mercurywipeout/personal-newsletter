@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-    "date": "2026-06-18"
-  },
-  {
     "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
     "date": "2026-06-19"
   },
@@ -182,5 +150,33 @@
   {
     "url": "https://simonwillison.net/2026/Jun/23/datasette/",
     "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.latent.space/p/databricks",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://ziglang.org/devlog/2026/",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+    "date": "2026-06-25"
   }
 ]
