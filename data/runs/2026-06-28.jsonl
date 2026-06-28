@@ -1,0 +1,52 @@
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-06-28T16:06:52Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/", "fetch_ms": 615, "extract_ms": 15, "ts": "2026-06-28T16:06:52Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/", "fetch_ms": 126, "extract_ms": 25, "ts": "2026-06-28T16:06:52Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://pudding.cool/2026/06/menu-collection/", "error": "text_too_short:86", "ts": "2026-06-28T16:06:53Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/", "fetch_ms": 958, "extract_ms": 16, "ts": "2026-06-28T16:06:54Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/", "fetch_ms": 82, "extract_ms": 22, "ts": "2026-06-28T16:06:54Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/open-energy-transition/open-tyndp", "fetch_ms": 439, "extract_ms": 90, "ts": "2026-06-28T16:06:54Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs", "ts": "2026-06-28T16:06:54Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html", "fetch_ms": 1339, "extract_ms": 19, "ts": "2026-06-28T16:06:56Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna", "fetch_ms": 59, "extract_ms": 62, "ts": "2026-06-28T16:06:56Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/", "ts": "2026-06-28T16:06:56Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/open-energy-transition/open-tyndp", "ts": "2026-06-28T16:06:56Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs", "ts": "2026-06-28T16:06:56Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html", "ts": "2026-06-28T16:06:56Z"}
