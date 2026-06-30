@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://lift4d.github.io/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
-    "date": "2026-06-23"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
     "date": "2026-06-24"
   },
@@ -194,5 +162,33 @@
   {
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "date": "2026-06-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+    "date": "2026-06-30"
   }
 ]
