@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/23/datasette/",
-    "date": "2026-06-24"
-  },
-  {
     "url": "https://www.latent.space/p/databricks",
     "date": "2026-06-25"
   },
@@ -190,5 +158,37 @@
   {
     "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
     "date": "2026-06-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://www.latent.space/p/software-factories",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+    "date": "2026-07-01"
   }
 ]
