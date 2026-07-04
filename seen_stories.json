@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://github.com/bikini/exploitarium",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "date": "2026-06-27"
-  },
-  {
     "url": "https://pudding.cool/2026/06/menu-collection/",
     "date": "2026-06-28"
   },
@@ -194,5 +166,29 @@
   {
     "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/",
     "date": "2026-07-03"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/74066",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/",
+    "date": "2026-07-04"
   }
 ]
