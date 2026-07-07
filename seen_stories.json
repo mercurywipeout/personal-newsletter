@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-    "date": "2026-06-30"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
     "date": "2026-07-01"
   },
@@ -194,5 +166,29 @@
   {
     "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
     "date": "2026-07-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/6/hy3/",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "date": "2026-07-07"
   }
 ]
