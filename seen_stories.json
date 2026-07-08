@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://www.latent.space/p/software-factories",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
-    "date": "2026-07-01"
-  },
-  {
     "url": "https://zk.golf/",
     "date": "2026-07-02"
   },
@@ -190,5 +158,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
     "date": "2026-07-07"
+  },
+  {
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://github.com/weirdGuy/kastor",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+    "date": "2026-07-08"
   }
 ]
