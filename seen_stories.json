@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://zk.golf/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://manufact.com",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://github.com/rafal-qa/slopo",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "date": "2026-07-02"
-  },
-  {
     "url": "https://arxiv.org/abs/2602.20415",
     "date": "2026-07-03"
   },
@@ -186,5 +154,37 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
     "date": "2026-07-08"
+  },
+  {
+    "url": "https://www.context.dev",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "date": "2026-07-09"
   }
 ]
