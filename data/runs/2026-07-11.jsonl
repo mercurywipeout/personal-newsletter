@@ -1,0 +1,63 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "openai-news", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "openai-news", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-11T15:50:51Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres", "fetch_ms": 190, "extract_ms": 18, "ts": "2026-07-11T15:50:52Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf", "error": "extraction_failed", "ts": "2026-07-11T15:50:53Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://fazamhd.com/mental-models/networking/", "fetch_ms": 173, "extract_ms": 179, "ts": "2026-07-11T15:50:54Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482", "fetch_ms": 220, "extract_ms": 16, "ts": "2026-07-11T15:50:54Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://tiki.li/blog/lucky_code.html", "fetch_ms": 800, "extract_ms": 41, "ts": "2026-07-11T15:50:55Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://anti-forbes-list.vercel.app", "fetch_ms": 98, "extract_ms": 26, "ts": "2026-07-11T15:50:55Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.mixfont.com/ghost-font", "fetch_ms": 137, "extract_ms": 21, "ts": "2026-07-11T15:50:55Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves", "ts": "2026-07-11T15:50:55Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c", "fetch_ms": 126, "extract_ms": 28, "ts": "2026-07-11T15:50:56Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything", "fetch_ms": 82, "extract_ms": 2486, "ts": "2026-07-11T15:50:58Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/", "fetch_ms": 126, "extract_ms": 20, "ts": "2026-07-11T15:50:58Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/", "fetch_ms": 21, "extract_ms": 21, "ts": "2026-07-11T15:50:58Z"}
+{"event": "article_ok", "feed_id": "openai-news", "url": "https://openai.com/index/deutsche-telekom", "fetch_ms": 554, "extract_ms": 45, "ts": "2026-07-11T15:50:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf", "ts": "2026-07-11T15:50:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://fazamhd.com/mental-models/networking/", "ts": "2026-07-11T15:50:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://tiki.li/blog/lucky_code.html", "ts": "2026-07-11T15:50:59Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://anti-forbes-list.vercel.app", "ts": "2026-07-11T15:50:59Z"}

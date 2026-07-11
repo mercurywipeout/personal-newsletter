@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://github.com/anthropics/claude-code/issues/74066",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/",
-    "date": "2026-07-04"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
     "date": "2026-07-05"
   },
@@ -186,5 +162,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
     "date": "2026-07-10"
+  },
+  {
+    "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.mixfont.com/ghost-font",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://openai.com/index/deutsche-telekom",
+    "date": "2026-07-11"
   }
 ]
