@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://phosh.mobi/releases/rel-0.56.0/",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://demo.pcbjam.com/",
-    "date": "2026-07-05"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
     "date": "2026-07-06"
   },
@@ -190,5 +166,21 @@
   {
     "url": "https://openai.com/index/deutsche-telekom",
     "date": "2026-07-11"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://odinbook.com/",
+    "date": "2026-07-12"
   }
 ]
