@@ -6,7 +6,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 69,
+    "good_days_streak": 70,
     "last_transition": null
   },
   {
@@ -15,7 +15,7 @@
     "url": "https://deepmind.google/blog/rss.xml",
     "status": "probation",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 18,
+    "consecutive_poor_days": 19,
     "good_days_streak": 0,
     "last_transition": "2026-07-08"
   },
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 129,
+    "consecutive_poor_days": 130,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -36,7 +36,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 129,
+    "good_days_streak": 130,
     "last_transition": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 25,
+    "good_days_streak": 26,
     "last_transition": null
   },
   {
@@ -76,7 +76,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 131,
+    "good_days_streak": 132,
     "last_transition": null
   },
   {
@@ -106,7 +106,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 131,
+    "good_days_streak": 132,
     "last_transition": null
   },
   {
@@ -116,7 +116,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 129,
+    "good_days_streak": 130,
     "last_transition": null
   },
   {
@@ -166,7 +166,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 130,
+    "good_days_streak": 131,
     "last_transition": null
   },
   {
@@ -185,7 +185,7 @@
     "url": "https://www.reddit.com/r/MachineLearning/.rss",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 121,
+    "consecutive_poor_days": 122,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -195,7 +195,7 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 119,
+    "consecutive_poor_days": 120,
     "good_days_streak": 0,
     "last_transition": "2026-04-01"
   },
@@ -226,7 +226,7 @@
     "status": "active",
     "added_at": "2026-03-10",
     "consecutive_poor_days": 0,
-    "good_days_streak": 6,
+    "good_days_streak": 7,
     "last_transition": null
   },
   {
