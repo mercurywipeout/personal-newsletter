@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/6/hy3/",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "date": "2026-07-07"
-  },
-  {
     "url": "https://mistral.ai/news/robostral-navigate/",
     "date": "2026-07-08"
   },
@@ -182,5 +158,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
     "date": "2026-07-13"
+  },
+  {
+    "url": "https://zserge.com/posts/tensor/",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/13/doomql/",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "date": "2026-07-14"
   }
 ]
