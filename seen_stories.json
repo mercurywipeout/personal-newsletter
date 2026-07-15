@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://mistral.ai/news/robostral-navigate/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://github.com/weirdGuy/kastor",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-    "date": "2026-07-08"
-  },
-  {
     "url": "https://www.context.dev",
     "date": "2026-07-09"
   },
@@ -186,5 +158,37 @@
   {
     "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
     "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://github.com/bitjaru/styleseed",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://github.com/synseqack/aict",
+    "date": "2026-07-15"
   }
 ]
