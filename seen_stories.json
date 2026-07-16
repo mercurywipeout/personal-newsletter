@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.context.dev",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-    "date": "2026-07-09"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
     "date": "2026-07-10"
   },
@@ -190,5 +158,33 @@
   {
     "url": "https://github.com/synseqack/aict",
     "date": "2026-07-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/inkling/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/",
+    "date": "2026-07-16"
+  },
+  {
+    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "date": "2026-07-16"
   }
 ]
