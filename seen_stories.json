@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-    "date": "2026-07-10"
-  },
-  {
     "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
     "date": "2026-07-11"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
     "date": "2026-07-16"
+  },
+  {
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "date": "2026-07-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+    "date": "2026-07-17"
   }
 ]
