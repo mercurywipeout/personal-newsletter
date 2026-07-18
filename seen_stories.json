@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://www.mixfont.com/ghost-font",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://openai.com/index/deutsche-telekom",
-    "date": "2026-07-11"
-  },
-  {
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
     "date": "2026-07-12"
   },
@@ -186,5 +158,37 @@
   {
     "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
     "date": "2026-07-17"
+  },
+  {
+    "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "date": "2026-07-18"
+  },
+  {
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "date": "2026-07-18"
   }
 ]
