@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://odinbook.com/",
-    "date": "2026-07-12"
-  },
-  {
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
     "date": "2026-07-13"
   },
@@ -190,5 +174,29 @@
   {
     "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
     "date": "2026-07-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+    "date": "2026-07-19"
   }
 ]
