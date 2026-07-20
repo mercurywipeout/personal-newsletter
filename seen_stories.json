@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://github.com/clawkwork/clawk",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/12/bump/",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "date": "2026-07-13"
-  },
-  {
     "url": "https://zserge.com/posts/tensor/",
     "date": "2026-07-14"
   },
@@ -198,5 +170,29 @@
   {
     "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
     "date": "2026-07-19"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://extensionranker.com/blog/chrome-extension-title-changes-rankings",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "date": "2026-07-20"
   }
 ]
