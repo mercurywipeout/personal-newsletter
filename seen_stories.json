@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/aiewf26trends",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://github.com/bitjaru/styleseed",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
-    "date": "2026-07-15"
-  },
-  {
-    "url": "https://github.com/synseqack/aict",
-    "date": "2026-07-15"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
     "date": "2026-07-16"
   },
@@ -194,5 +162,33 @@
   {
     "url": "https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5",
     "date": "2026-07-21"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-22"
   }
 ]
