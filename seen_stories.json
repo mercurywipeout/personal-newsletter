@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/inkling/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-    "date": "2026-07-16"
-  },
-  {
     "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
     "date": "2026-07-17"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://openjdk.org/jeps/540",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.latent.space/p/poolside",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "date": "2026-07-23"
   }
 ]
