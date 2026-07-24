@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-    "date": "2026-07-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
-    "date": "2026-07-17"
-  },
-  {
     "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
     "date": "2026-07-18"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
     "date": "2026-07-23"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://foldkit.dev/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+    "date": "2026-07-24"
   }
 ]
