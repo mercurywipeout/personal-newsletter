@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "date": "2026-07-18"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "date": "2026-07-19"
   },
@@ -190,5 +158,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
     "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "date": "2026-07-25"
   }
 ]
