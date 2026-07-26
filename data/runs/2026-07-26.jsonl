@@ -1,0 +1,55 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-07-26T15:58:04Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://vectoral.com/blog/token-relay-market", "fetch_ms": 137, "extract_ms": 20, "ts": "2026-07-26T15:58:04Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/", "fetch_ms": 252, "extract_ms": 45, "ts": "2026-07-26T15:58:04Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/ricardoborges/Nautilus", "fetch_ms": 603, "extract_ms": 74, "ts": "2026-07-26T15:58:05Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://news.ycombinator.com/item?id=49057972", "fetch_ms": 89, "extract_ms": 142, "ts": "2026-07-26T15:58:05Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and", "fetch_ms": 100, "extract_ms": 22, "ts": "2026-07-26T15:58:05Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://sunflowersgame.com", "fetch_ms": 70, "extract_ms": 149, "ts": "2026-07-26T15:58:05Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c", "error": "http_error:401", "ts": "2026-07-26T15:58:05Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis", "fetch_ms": 244, "extract_ms": 1870, "ts": "2026-07-26T15:58:08Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything", "fetch_ms": 36, "extract_ms": 728, "ts": "2026-07-26T15:58:08Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level", "fetch_ms": 43, "extract_ms": 36, "ts": "2026-07-26T15:58:08Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c", "ts": "2026-07-26T15:58:08Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/", "ts": "2026-07-26T15:58:08Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/ricardoborges/Nautilus", "ts": "2026-07-26T15:58:08Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://sunflowersgame.com/", "ts": "2026-07-26T15:58:08Z"}

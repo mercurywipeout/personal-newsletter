@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
-    "date": "2026-07-19"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
     "date": "2026-07-20"
   },
@@ -186,5 +162,29 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
     "date": "2026-07-25"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49057972",
+    "date": "2026-07-26"
+  },
+  {
+    "url": "https://vectoral.com/blog/token-relay-market",
+    "date": "2026-07-26"
+  },
+  {
+    "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "date": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/25/ruff/",
+    "date": "2026-07-26"
+  },
+  {
+    "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+    "date": "2026-07-26"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+    "date": "2026-07-26"
   }
 ]
