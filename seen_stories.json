@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://extensionranker.com/blog/chrome-extension-title-changes-rankings",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-    "date": "2026-07-20"
-  },
-  {
     "url": "https://openai.com/index/safety-alignment-long-horizon-models",
     "date": "2026-07-21"
   },
@@ -186,5 +162,33 @@
   {
     "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
     "date": "2026-07-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/26/relay-market/",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+    "date": "2026-07-27"
   }
 ]
