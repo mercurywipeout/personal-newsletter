@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "date": "2026-07-22"
-  },
-  {
     "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "date": "2026-07-23"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
     "date": "2026-07-28"
+  },
+  {
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://usetokenless.com/",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "date": "2026-07-29"
   }
 ]
