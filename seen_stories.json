@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/23/seth-larson/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://openjdk.org/jeps/540",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.latent.space/p/poolside",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "date": "2026-07-23"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
     "date": "2026-07-24"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
     "date": "2026-07-29"
+  },
+  {
+    "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+    "date": "2026-07-30"
   }
 ]
