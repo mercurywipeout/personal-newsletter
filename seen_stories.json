@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://foldkit.dev/",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-    "date": "2026-07-24"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
     "date": "2026-07-25"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
     "date": "2026-07-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+    "date": "2026-07-31"
   }
 ]
