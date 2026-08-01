@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "date": "2026-07-25"
-  },
-  {
     "url": "https://news.ycombinator.com/item?id=49057972",
     "date": "2026-07-26"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
     "date": "2026-07-31"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "date": "2026-08-01"
   }
 ]
