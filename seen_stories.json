@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://news.ycombinator.com/item?id=49057972",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://vectoral.com/blog/token-relay-market",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/25/ruff/",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
-    "date": "2026-07-26"
-  },
-  {
     "url": "https://simonwillison.net/2026/Jul/26/relay-market/",
     "date": "2026-07-27"
   },
@@ -194,5 +170,33 @@
   {
     "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "date": "2026-08-01"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://fuselang.org",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/2/open-letters/",
+    "date": "2026-08-02"
   }
 ]
