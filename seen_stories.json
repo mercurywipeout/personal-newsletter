@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://github.com/reflex-dev/xy",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "date": "2026-07-28"
-  },
-  {
     "url": "https://github.com/drumih/turbo-fieldfare",
     "date": "2026-07-29"
   },
@@ -198,5 +166,37 @@
   {
     "url": "https://armature.tech/",
     "date": "2026-08-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.16763",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://github.com/Chiaro-HQ/methodology",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "date": "2026-08-04"
   }
 ]
