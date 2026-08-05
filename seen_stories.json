@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/drumih/turbo-fieldfare",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://usetokenless.com/",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "date": "2026-07-29"
-  },
-  {
     "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
     "date": "2026-07-30"
   },
@@ -198,5 +170,37 @@
   {
     "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
     "date": "2026-08-04"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "date": "2026-08-05"
   }
 ]
