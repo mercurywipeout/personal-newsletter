@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "date": "2026-07-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-    "date": "2026-07-31"
-  },
-  {
     "url": "https://openai.com/index/building-abundant-intelligence",
     "date": "2026-08-01"
   },
@@ -202,5 +146,37 @@
   {
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "date": "2026-08-05"
+  },
+  {
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/6/datasette/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "date": "2026-08-07"
   }
 ]
