@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "date": "2026-08-01"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "date": "2026-08-01"
-  },
-  {
     "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
     "date": "2026-08-02"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
     "date": "2026-08-07"
+  },
+  {
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "date": "2026-08-08"
   }
 ]
