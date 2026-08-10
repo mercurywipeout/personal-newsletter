@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/ten-advances-in-mathematics/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://epoch.ai/MirrorCode",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://hoplite.sh",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://armature.tech/",
-    "date": "2026-08-03"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
     "date": "2026-08-04"
   },
@@ -162,5 +134,33 @@
   {
     "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/",
     "date": "2026-08-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://openai.com/index/model-ml",
+    "date": "2026-08-10"
   }
 ]
