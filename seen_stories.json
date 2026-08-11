@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.16763",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://github.com/Chiaro-HQ/methodology",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "date": "2026-08-04"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
     "date": "2026-08-05"
   },
@@ -162,5 +130,33 @@
   {
     "url": "https://openai.com/index/model-ml",
     "date": "2026-08-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://manus.im/blog/a-note-to-our-users",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+    "date": "2026-08-11"
   }
 ]
