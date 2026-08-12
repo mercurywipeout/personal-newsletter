@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "date": "2026-08-05"
-  },
-  {
     "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "date": "2026-08-07"
   },
@@ -158,5 +126,33 @@
   {
     "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
     "date": "2026-08-11"
+  },
+  {
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+    "date": "2026-08-12"
   }
 ]
