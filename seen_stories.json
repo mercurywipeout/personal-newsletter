@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/6/datasette/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "date": "2026-08-07"
-  },
-  {
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "date": "2026-08-08"
   },
@@ -186,5 +154,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "date": "2026-08-13"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+    "date": "2026-08-14"
   }
 ]
