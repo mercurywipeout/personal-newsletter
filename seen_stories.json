@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://openai.com/index/model-ml",
-    "date": "2026-08-10"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
     "date": "2026-08-11"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://www.latent.space/p/flue-2",
     "date": "2026-08-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://openai.com/index/the-defenders-window",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.librarian.net/notoai/",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "date": "2026-08-17"
   }
 ]
