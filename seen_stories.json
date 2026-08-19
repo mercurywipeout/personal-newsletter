@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-    "date": "2026-08-12"
-  },
-  {
     "url": "https://www.seangoedecke.com/text-ai-watermarks/",
     "date": "2026-08-13"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
     "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://openai.com/index/replit",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://www.latent.space/p/glean-model-routing",
+    "date": "2026-08-19"
   }
 ]
