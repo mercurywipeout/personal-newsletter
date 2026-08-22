@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://alexrios.me/blog/writergate/",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-    "date": "2026-08-15"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
     "date": "2026-08-16"
   },
@@ -174,5 +146,33 @@
   {
     "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
     "date": "2026-08-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/llm/",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://www.latent.space/p/simile",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "date": "2026-08-22"
   }
 ]
