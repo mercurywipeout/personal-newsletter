@@ -1,0 +1,60 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-23T15:16:43Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-08-23T15:16:43Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/", "fetch_ms": 455, "extract_ms": 31, "ts": "2026-08-23T15:16:43Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/", "fetch_ms": 518, "extract_ms": 22, "ts": "2026-08-23T15:16:44Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://earendil.com/posts/what-is-a-harness/", "fetch_ms": 114, "extract_ms": 12, "ts": "2026-08-23T15:16:44Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/", "error": "text_too_short:51", "ts": "2026-08-23T15:16:45Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes", "ts": "2026-08-23T15:16:45Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://securelist.com/android-head-unit-malware/121106/", "fetch_ms": 1219, "extract_ms": 64, "ts": "2026-08-23T15:16:46Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o", "fetch_ms": 242, "extract_ms": 72, "ts": "2026-08-23T15:16:46Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/", "fetch_ms": 371, "extract_ms": 29, "ts": "2026-08-23T15:16:47Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/", "fetch_ms": 41, "extract_ms": 2481, "ts": "2026-08-23T15:16:49Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/22/llm/", "fetch_ms": 9, "extract_ms": 56, "ts": "2026-08-23T15:16:49Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/", "fetch_ms": 10, "extract_ms": 54, "ts": "2026-08-23T15:16:50Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/attention-interface", "fetch_ms": 52, "extract_ms": 27, "ts": "2026-08-23T15:16:50Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/", "ts": "2026-08-23T15:16:50Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://securelist.com/android-head-unit-malware/121106/", "ts": "2026-08-23T15:16:50Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o", "ts": "2026-08-23T15:16:50Z"}

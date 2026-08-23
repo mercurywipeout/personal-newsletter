@@ -1,13 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://www.latent.space/p/flue-2",
-    "date": "2026-08-16"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "date": "2026-08-17"
   },
@@ -174,5 +166,29 @@
   {
     "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
     "date": "2026-08-22"
+  },
+  {
+    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/llm/",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://www.latent.space/p/attention-interface",
+    "date": "2026-08-23"
   }
 ]
