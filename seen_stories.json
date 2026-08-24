@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://openai.com/index/the-defenders-window",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.librarian.net/notoai/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://openai.com/index/openai-joins-ports-pike-project",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "date": "2026-08-17"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
     "date": "2026-08-18"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://www.latent.space/p/attention-interface",
     "date": "2026-08-23"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "date": "2026-08-24"
   }
 ]

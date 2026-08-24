@@ -1,0 +1,60 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-24T15:33:54Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/", "fetch_ms": 71, "extract_ms": 27, "ts": "2026-08-24T15:33:54Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/", "fetch_ms": 14, "extract_ms": 23, "ts": "2026-08-24T15:33:54Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/", "fetch_ms": 61, "extract_ms": 2413, "ts": "2026-08-24T15:33:56Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/", "fetch_ms": 9, "extract_ms": 34, "ts": "2026-08-24T15:33:56Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/", "fetch_ms": 26, "extract_ms": 55, "ts": "2026-08-24T15:33:56Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/", "fetch_ms": 14, "extract_ms": 52, "ts": "2026-08-24T15:33:56Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/", "fetch_ms": 510, "extract_ms": 20, "ts": "2026-08-24T15:33:57Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://earendil.com/posts/what-is-a-harness/", "fetch_ms": 132, "extract_ms": 14, "ts": "2026-08-24T15:33:57Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/", "fetch_ms": 2656, "extract_ms": 15, "ts": "2026-08-24T15:34:00Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes", "ts": "2026-08-24T15:34:00Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://securelist.com/android-head-unit-malware/121106/", "fetch_ms": 1248, "extract_ms": 58, "ts": "2026-08-24T15:34:01Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o", "fetch_ms": 374, "extract_ms": 68, "ts": "2026-08-24T15:34:02Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/", "fetch_ms": 318, "extract_ms": 42, "ts": "2026-08-24T15:34:02Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://skylens.yantraai.app", "ts": "2026-08-24T15:34:02Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/", "ts": "2026-08-24T15:34:02Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o", "ts": "2026-08-24T15:34:02Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes", "ts": "2026-08-24T15:34:02Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://skylens.yantraai.app/", "ts": "2026-08-24T15:34:02Z"}
