@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://kagi.com/changelog",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-    "date": "2026-08-21"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/21/llm/",
     "date": "2026-08-22"
   },
@@ -190,5 +134,37 @@
   {
     "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
     "date": "2026-08-26"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "date": "2026-08-28"
   }
 ]
