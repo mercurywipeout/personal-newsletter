@@ -133,3 +133,103 @@
 {"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/", "ts": "2026-08-28T00:12:32Z"}
 {"event": "story_duplicate", "feed_id": "venturebeat-ai", "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer", "ts": "2026-08-28T00:12:32Z"}
 {"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/", "ts": "2026-08-28T00:12:32Z"}
+{"event": "story_fetched", "feed_id": "google-deepmind-news", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "openai-news", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hugging-face-blog", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "the-github-blog", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "venturebeat-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "venturebeat-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "openai-news", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "the-github-blog", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "venturebeat-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "story_passed", "feed_id": "venturebeat-ai", "ts": "2026-08-28T23:49:39Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/Lakr233/vphone-cli", "fetch_ms": 521, "extract_ms": 86, "ts": "2026-08-28T23:49:39Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html", "fetch_ms": 237, "extract_ms": 36, "ts": "2026-08-28T23:49:40Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/", "fetch_ms": 83, "extract_ms": 2586, "ts": "2026-08-28T23:49:42Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/", "fetch_ms": 336, "extract_ms": 20, "ts": "2026-08-28T23:49:43Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/", "fetch_ms": 356, "extract_ms": 27, "ts": "2026-08-28T23:49:43Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://usesesame.app", "fetch_ms": 537, "extract_ms": 30, "ts": "2026-08-28T23:49:44Z"}
+{"event": "article_ok", "feed_id": "ars-technica-ai", "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/", "fetch_ms": 283, "extract_ms": 23, "ts": "2026-08-28T23:49:44Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://arxiv.org/abs/2608.23691", "fetch_ms": 135, "extract_ms": 18, "ts": "2026-08-28T23:49:44Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering", "fetch_ms": 445, "extract_ms": 51, "ts": "2026-08-28T23:49:45Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://anil.recoil.org/notes/rumour-is-the-exploit", "fetch_ms": 1010, "extract_ms": 22, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "ars-technica-ai", "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/", "fetch_ms": 82, "extract_ms": 22, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/", "fetch_ms": 217, "extract_ms": 24, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "ars-technica", "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/", "fetch_ms": 80, "extract_ms": 23, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/", "fetch_ms": 21, "extract_ms": 22, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by", "fetch_ms": 127, "extract_ms": 22, "ts": "2026-08-28T23:49:46Z"}
+{"event": "article_ok", "feed_id": "openai-news", "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand", "fetch_ms": 723, "extract_ms": 47, "ts": "2026-08-28T23:49:47Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/", "fetch_ms": 15, "extract_ms": 24, "ts": "2026-08-28T23:49:47Z"}
+{"event": "article_ok", "feed_id": "the-github-blog", "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/", "fetch_ms": 155, "extract_ms": 28, "ts": "2026-08-28T23:49:47Z"}
+{"event": "article_ok", "feed_id": "venturebeat-ai", "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them", "fetch_ms": 216, "extract_ms": 8, "ts": "2026-08-28T23:49:48Z"}
+{"event": "article_ok", "feed_id": "venturebeat-ai", "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer", "fetch_ms": 72, "extract_ms": 10, "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/Lakr233/vphone-cli", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://usesesame.app/", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://arxiv.org/abs/2608.23691", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://anil.recoil.org/notes/rumour-is-the-exploit", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/", "ts": "2026-08-28T23:49:48Z"}
+{"event": "story_first_in_cluster", "feed_id": "venturebeat-ai", "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer", "ts": "2026-08-28T23:49:48Z"}
