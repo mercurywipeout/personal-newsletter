@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/21/llm/",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://www.latent.space/p/simile",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "date": "2026-08-22"
-  },
-  {
     "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
     "date": "2026-08-23"
   },
@@ -194,5 +166,29 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
     "date": "2026-08-28"
+  },
+  {
+    "url": "https://lwn.net/Articles/1091231/",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "date": "2026-08-29"
   }
 ]

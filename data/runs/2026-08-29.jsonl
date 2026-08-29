@@ -1,0 +1,59 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-29T18:08:11Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424", "fetch_ms": 321, "extract_ms": 5, "ts": "2026-08-29T18:08:12Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://science.nasa.gov/mission/roman-space-telescope/", "fetch_ms": 96, "extract_ms": 34, "ts": "2026-08-29T18:08:12Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://ekunazanu.foo/lab/quantifying-colour/", "fetch_ms": 348, "extract_ms": 1105, "ts": "2026-08-29T18:08:13Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.dampfkraft.com/posuto.html", "fetch_ms": 680, "extract_ms": 5, "ts": "2026-08-29T18:08:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e", "fetch_ms": 136, "extract_ms": 3, "ts": "2026-08-29T18:08:14Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://uecker.codeberg.page/2026-08-29.html", "fetch_ms": 587, "extract_ms": 3, "ts": "2026-08-29T18:08:15Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://lwn.net/Articles/1091231/", "fetch_ms": 422, "extract_ms": 75, "ts": "2026-08-29T18:08:15Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo", "fetch_ms": 170, "extract_ms": 17, "ts": "2026-08-29T18:08:15Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor", "fetch_ms": 139, "extract_ms": 19, "ts": "2026-08-29T18:08:15Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/", "fetch_ms": 142, "extract_ms": 447, "ts": "2026-08-29T18:08:16Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/", "fetch_ms": 147, "extract_ms": 14, "ts": "2026-08-29T18:08:16Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/", "fetch_ms": 20, "extract_ms": 13, "ts": "2026-08-29T18:08:16Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://science.nasa.gov/mission/roman-space-telescope/", "ts": "2026-08-29T18:08:16Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://ekunazanu.foo/lab/quantifying-colour/", "ts": "2026-08-29T18:08:16Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo", "ts": "2026-08-29T18:08:16Z"}
+{"event": "story_duplicate", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/", "ts": "2026-08-29T18:08:16Z"}
+{"event": "story_first_in_cluster", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/", "ts": "2026-08-29T18:08:16Z"}
