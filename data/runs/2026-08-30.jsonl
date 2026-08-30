@@ -1,0 +1,59 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "ars-technica", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "ars-technica", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-08-30T18:22:24Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://openrun.dev/blog/litestream/", "fetch_ms": 66, "extract_ms": 25, "ts": "2026-08-30T18:22:24Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1", "error": "text_too_short:137", "ts": "2026-08-30T18:22:25Z"}
+{"event": "article_error", "feed_id": "hacker-news-frontpage", "url": "https://komoroske.com/slime-mold/", "error": "extraction_failed", "ts": "2026-08-30T18:22:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6", "fetch_ms": 57, "extract_ms": 5, "ts": "2026-08-30T18:22:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://0xcc.io/posts/omarchy-root-creds/", "fetch_ms": 255, "extract_ms": 11, "ts": "2026-08-30T18:22:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement", "fetch_ms": 81, "extract_ms": 18, "ts": "2026-08-30T18:22:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://ziglang.org/devlog/2026/#2026-08-27", "fetch_ms": 1217, "extract_ms": 131, "ts": "2026-08-30T18:22:27Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/", "fetch_ms": 99, "extract_ms": 31, "ts": "2026-08-30T18:22:27Z"}
+{"event": "article_ok", "feed_id": "ars-technica", "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/", "fetch_ms": 590, "extract_ms": 24, "ts": "2026-08-30T18:22:27Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Aug/29/hy4/", "fetch_ms": 55, "extract_ms": 2735, "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://openrun.dev/blog/litestream/", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://komoroske.com/slime-mold/", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://0xcc.io/posts/omarchy-root-creds/", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://ziglang.org/devlog/2026/#2026-08-27", "ts": "2026-08-30T18:22:30Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/", "ts": "2026-08-30T18:22:30Z"}

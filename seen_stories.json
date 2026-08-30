@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/llm/",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://www.latent.space/p/attention-interface",
-    "date": "2026-08-23"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
     "date": "2026-08-24"
   },
@@ -190,5 +166,17 @@
   {
     "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "date": "2026-08-29"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-30"
   }
 ]
