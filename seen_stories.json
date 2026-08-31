@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://securelist.com/android-head-unit-malware/121106/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
-    "date": "2026-08-24"
-  },
-  {
     "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
     "date": "2026-08-25"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "date": "2026-08-30"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "date": "2026-08-31"
   }
 ]
