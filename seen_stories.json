@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://openai.com/index/jalapeno-first-results",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
     "date": "2026-08-26"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
     "date": "2026-08-31"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://github.com/carloslfu/slotstream",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.latent.space/p/pr-not-welcome",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://keenableai.github.io/select-showcase/",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.norirobotics.com/",
+    "date": "2026-09-01"
   }
 ]
