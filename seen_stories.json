@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.latent.space/p/anima",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
-    "date": "2026-08-26"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
     "date": "2026-08-28"
   },
@@ -178,5 +150,33 @@
   {
     "url": "https://www.norirobotics.com/",
     "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://frontierharness.org",
+    "date": "2026-09-02"
   }
 ]
