@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-    "date": "2026-08-28"
-  },
-  {
     "url": "https://lwn.net/Articles/1091231/",
     "date": "2026-08-29"
   },
@@ -202,5 +142,33 @@
   {
     "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
     "date": "2026-09-03"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.latent.space/p/astra",
+    "date": "2026-09-04"
   }
 ]
