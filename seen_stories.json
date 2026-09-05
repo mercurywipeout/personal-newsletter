@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://lwn.net/Articles/1091231/",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "date": "2026-08-29"
-  },
-  {
     "url": "https://simonwillison.net/2026/Aug/29/hy4/",
     "date": "2026-08-30"
   },
@@ -170,5 +146,33 @@
   {
     "url": "https://www.latent.space/p/astra",
     "date": "2026-09-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.latent.space/p/grok-bot",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "date": "2026-09-05"
   }
 ]
