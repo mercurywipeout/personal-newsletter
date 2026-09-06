@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "date": "2026-08-30"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "date": "2026-08-31"
   },
@@ -174,5 +162,29 @@
   {
     "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "date": "2026-09-05"
+  },
+  {
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind",
+    "date": "2026-09-06"
   }
 ]
