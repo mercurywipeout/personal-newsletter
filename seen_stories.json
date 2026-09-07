@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "date": "2026-08-31"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "date": "2026-08-31"
-  },
-  {
     "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "date": "2026-09-01"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://openai.com/index/an-alien-mind",
     "date": "2026-09-06"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://github.com/iczelia/bzip3",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://victoriametrics.com/blog/postgres-19/index.html",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49600233",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "date": "2026-09-07"
   }
 ]
