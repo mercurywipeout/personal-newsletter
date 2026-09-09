@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://frontierharness.org",
-    "date": "2026-09-02"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
     "date": "2026-09-03"
   },
@@ -190,5 +162,33 @@
   {
     "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
     "date": "2026-09-08"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "date": "2026-09-09"
   }
 ]
