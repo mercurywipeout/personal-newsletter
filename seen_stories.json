@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.latent.space/p/astra",
-    "date": "2026-09-04"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
     "date": "2026-09-05"
   },
@@ -198,5 +170,37 @@
   {
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "date": "2026-09-10"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://openai.com/index/put-data-to-work",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+    "date": "2026-09-11"
   }
 ]
