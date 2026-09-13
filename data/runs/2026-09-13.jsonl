@@ -1,0 +1,57 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-09-13T17:52:32Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://news.ycombinator.com/item?id=49686233", "fetch_ms": 323, "extract_ms": 1713, "ts": "2026-09-13T17:52:34Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/", "fetch_ms": 1289, "extract_ms": 146, "ts": "2026-09-13T17:52:35Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/", "fetch_ms": 244, "extract_ms": 15, "ts": "2026-09-13T17:52:36Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/", "fetch_ms": 170, "extract_ms": 19, "ts": "2026-09-13T17:52:36Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://prior.chat", "fetch_ms": 601, "extract_ms": 40, "ts": "2026-09-13T17:52:37Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://cpak.it", "fetch_ms": 259, "extract_ms": 53, "ts": "2026-09-13T17:52:37Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment", "ts": "2026-09-13T17:52:37Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/", "fetch_ms": 76, "extract_ms": 914, "ts": "2026-09-13T17:52:38Z"}
+{"event": "article_error", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/", "error": "extraction_failed", "ts": "2026-09-13T17:52:38Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Sep/12/paul-ford/", "fetch_ms": 23, "extract_ms": 67, "ts": "2026-09-13T17:52:38Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices", "fetch_ms": 143, "extract_ms": 31, "ts": "2026-09-13T17:52:39Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://news.ycombinator.com/item?id=49686233", "ts": "2026-09-13T17:52:39Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://cpak.it/", "ts": "2026-09-13T17:52:39Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://twitter.com/DavidSacks/status/2098973625252708460", "ts": "2026-09-13T17:52:39Z"}
+{"event": "story_first_in_cluster", "feed_id": "hacker-news-frontpage", "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/", "ts": "2026-09-13T17:52:39Z"}

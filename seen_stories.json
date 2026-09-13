@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://openai.com/index/an-alien-mind",
-    "date": "2026-09-06"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
     "date": "2026-09-07"
   },
@@ -202,5 +178,33 @@
   {
     "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
     "date": "2026-09-12"
+  },
+  {
+    "url": "https://cpak.it/",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "date": "2026-09-13"
   }
 ]
