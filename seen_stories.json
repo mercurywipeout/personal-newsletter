@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-    "date": "2026-09-08"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
     "date": "2026-09-09"
   },
@@ -206,5 +174,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
     "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "date": "2026-09-15"
   }
 ]
