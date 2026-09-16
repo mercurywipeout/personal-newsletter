@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "date": "2026-09-09"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "date": "2026-09-10"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "date": "2026-09-15"
+  },
+  {
+    "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://www.latent.space/p/good-start-labs",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://www.latent.space/p/aiuc",
+    "date": "2026-09-16"
   }
 ]
