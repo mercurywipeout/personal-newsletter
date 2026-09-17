@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://tokenstead.ai/models/swe-2",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "date": "2026-09-10"
-  },
-  {
     "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
     "date": "2026-09-11"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://www.latent.space/p/aiuc",
     "date": "2026-09-16"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.18842",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "date": "2026-09-17"
   }
 ]
