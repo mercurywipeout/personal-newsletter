@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/put-data-to-work",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-    "date": "2026-09-11"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
     "date": "2026-09-12"
   },
@@ -202,5 +170,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
     "date": "2026-09-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://danluu.com/brain-off/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "date": "2026-09-18"
   }
 ]
