@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.latent.space/p/recursive",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-    "date": "2026-09-14"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
     "date": "2026-09-15"
   },
@@ -194,5 +166,37 @@
   {
     "url": "https://radius.to/",
     "date": "2026-09-20"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+    "date": "2026-09-21"
   }
 ]
