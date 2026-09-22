@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
     "date": "2026-09-16"
   },
@@ -198,5 +170,37 @@
   {
     "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
     "date": "2026-09-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+    "date": "2026-09-22"
   }
 ]
