@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arxiv.org/abs/2609.18842",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "date": "2026-09-17"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
     "date": "2026-09-18"
   },
@@ -206,5 +174,33 @@
   {
     "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "date": "2026-09-23"
+  },
+  {
+    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "date": "2026-09-24"
   }
 ]
