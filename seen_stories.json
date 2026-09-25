@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://danluu.com/brain-off/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-    "date": "2026-09-18"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
     "date": "2026-09-19"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
     "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.latent.space/p/runway",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://ollaya.dev/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "date": "2026-09-25"
   }
 ]
