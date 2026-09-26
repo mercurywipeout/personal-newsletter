@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://planetscale.com/blog/introducing-tin",
-    "date": "2026-09-19"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
     "date": "2026-09-20"
   },
@@ -202,5 +170,33 @@
   {
     "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.latent.space/p/openrouter",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "date": "2026-09-26"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "date": "2026-09-26"
   }
 ]
