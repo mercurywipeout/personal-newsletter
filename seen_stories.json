@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://gravitylinux.org/blog/early-alpha-m4-mac-mini/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://linear.app/now/ci-bottleneck-reworked",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
-    "date": "2026-09-21"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/21/jev/",
     "date": "2026-09-22"
   },
@@ -206,5 +174,33 @@
   {
     "url": "https://fireworks.ai/blog/ember-1",
     "date": "2026-09-27"
+  },
+  {
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://blog.plcred.org/3mwlphq42d227",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "date": "2026-09-28"
   }
 ]
