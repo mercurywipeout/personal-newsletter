@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Sep/21/jev/",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-    "date": "2026-09-22"
-  },
-  {
     "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
     "date": "2026-09-23"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://stateofutopia.com/experiments/microllmlab/",
     "date": "2026-09-28"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://openai.com/index/introducing-dots/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+    "date": "2026-09-29"
   }
 ]
