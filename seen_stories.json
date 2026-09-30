@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://openai.com/index/ringg",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "date": "2026-09-23"
-  },
-  {
     "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
     "date": "2026-09-24"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
     "date": "2026-09-29"
+  },
+  {
+    "url": "https://edgcpp.org/",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "date": "2026-09-30"
   }
 ]
