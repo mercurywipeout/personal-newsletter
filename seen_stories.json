@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-    "date": "2026-09-24"
-  },
-  {
     "url": "https://www.latent.space/p/runway",
     "date": "2026-09-25"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
     "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.latent.space/p/devday-2026",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+    "date": "2026-10-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "date": "2026-10-01"
   }
 ]
