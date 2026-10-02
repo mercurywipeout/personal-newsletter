@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/runway",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://ollaya.dev/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "date": "2026-09-25"
-  },
-  {
     "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
     "date": "2026-09-26"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
     "date": "2026-10-01"
+  },
+  {
+    "url": "https://www.latent.space/p/airbnb",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+    "date": "2026-10-02"
   }
 ]
