@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.latent.space/p/openrouter",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "date": "2026-09-26"
-  },
-  {
     "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
     "date": "2026-09-27"
   },
@@ -202,5 +174,29 @@
   {
     "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
     "date": "2026-10-02"
+  },
+  {
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://offrun.dev/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://blog.kagi.com/update-orion-linux-windows",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+    "date": "2026-10-03"
   }
 ]
