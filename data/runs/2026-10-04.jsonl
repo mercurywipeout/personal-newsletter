@@ -1,0 +1,59 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hugging-face-blog", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-04T18:30:25Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://awesomedataviz.com", "fetch_ms": 630, "extract_ms": 58, "ts": "2026-10-04T18:30:26Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/", "fetch_ms": 175, "extract_ms": 31, "ts": "2026-10-04T18:30:26Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://en.wikipedia.org/wiki/Blindsight_%28Watts_novel%29", "fetch_ms": 187, "extract_ms": 87, "ts": "2026-10-04T18:30:26Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://automatictransmission.khoury.northeastern.edu", "fetch_ms": 526, "extract_ms": 45, "ts": "2026-10-04T18:30:27Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/Niko1221/Strata", "fetch_ms": 368, "extract_ms": 75, "ts": "2026-10-04T18:30:27Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/allenv0/SCM", "fetch_ms": 295, "extract_ms": 72, "ts": "2026-10-04T18:30:28Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://gamehistory.org/5k-magazines/", "fetch_ms": 270, "extract_ms": 14, "ts": "2026-10-04T18:30:28Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/", "fetch_ms": 467, "extract_ms": 30, "ts": "2026-10-04T18:30:28Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/", "fetch_ms": 54, "extract_ms": 8, "ts": "2026-10-04T18:30:28Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Oct/3/newsletter/", "fetch_ms": 19, "extract_ms": 5, "ts": "2026-10-04T18:30:28Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://automatictransmission.khoury.northeastern.edu/", "ts": "2026-10-04T18:30:28Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/allenv0/SCM", "ts": "2026-10-04T18:30:28Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://gamehistory.org/5k-magazines/", "ts": "2026-10-04T18:30:28Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/", "ts": "2026-10-04T18:30:28Z"}
+{"event": "story_duplicate", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Oct/3/newsletter/", "ts": "2026-10-04T18:30:28Z"}

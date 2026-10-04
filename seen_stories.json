@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://fireworks.ai/blog/ember-1",
-    "date": "2026-09-27"
-  },
-  {
     "url": "https://github.com/firelex/jeff",
     "date": "2026-09-28"
   },
@@ -198,5 +170,21 @@
   {
     "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
     "date": "2026-10-03"
+  },
+  {
+    "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://awesomedataviz.com/",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-10-04"
   }
 ]
