@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/firelex/jeff",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://blog.plcred.org/3mwlphq42d227",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.worldlabs.ai/blog/amd-announcement",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://stateofutopia.com/experiments/microllmlab/",
-    "date": "2026-09-28"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
     "date": "2026-09-29"
   },
@@ -186,5 +158,33 @@
   {
     "url": "https://github.com/Niko1221/Strata",
     "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://openai.com/index/eu-text-provenance",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "date": "2026-10-05"
   }
 ]
