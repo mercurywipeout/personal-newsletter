@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://openai.com/index/introducing-dots/",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-    "date": "2026-09-29"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-    "date": "2026-09-29"
-  },
-  {
     "url": "https://edgcpp.org/",
     "date": "2026-09-30"
   },
@@ -186,5 +154,33 @@
   {
     "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
     "date": "2026-10-05"
+  },
+  {
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://openai.com/index/atlassian-partnership",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://github.com/FeSens/openTPU",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "date": "2026-10-06"
   }
 ]
