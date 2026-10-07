@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://edgcpp.org/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-    "date": "2026-09-30"
-  },
-  {
     "url": "https://www.latent.space/p/devday-2026",
     "date": "2026-10-01"
   },
@@ -182,5 +150,37 @@
   {
     "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
     "date": "2026-10-06"
+  },
+  {
+    "url": "https://scottaaronson.blog/?p=10169",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+    "date": "2026-10-07"
+  },
+  {
+    "url": "https://github.com/docker/docker-agent",
+    "date": "2026-10-07"
   }
 ]
