@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://offrun.dev/",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://blog.kagi.com/update-orion-linux-windows",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-    "date": "2026-10-03"
-  },
-  {
     "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
     "date": "2026-10-04"
   },
@@ -190,5 +166,33 @@
   {
     "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
     "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.latent.space/p/biohub-deepmind",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.latent.space/p/standard-bots",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "date": "2026-10-10"
   }
 ]
