@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://awesomedataviz.com/",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://github.com/Niko1221/Strata",
-    "date": "2026-10-04"
-  },
-  {
     "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
     "date": "2026-10-05"
   },
@@ -194,5 +178,29 @@
   {
     "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
     "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.nyc.gov/main/click-to-cancel",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://nanolathe.gg",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+    "date": "2026-10-11"
   }
 ]
