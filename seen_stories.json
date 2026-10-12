@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://openai.com/index/eu-text-provenance",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "date": "2026-10-05"
-  },
-  {
     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "date": "2026-10-06"
   },
@@ -202,5 +174,33 @@
   {
     "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
     "date": "2026-10-11"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/48195",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.latent.space/p/claude-dynamic-workflows",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "date": "2026-10-12"
   }
 ]
