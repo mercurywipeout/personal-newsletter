@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://scottaaronson.blog/?p=10169",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://github.com/docker/docker-agent",
-    "date": "2026-10-07"
-  },
-  {
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "date": "2026-10-08"
   },
@@ -202,5 +170,37 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
     "date": "2026-10-13"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://petal.live/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "date": "2026-10-14"
+  },
+  {
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "date": "2026-10-14"
   }
 ]
