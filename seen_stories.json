@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/asana-browser-agent",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://openai.com/index/sophos",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://carrierexplode.com/",
-    "date": "2026-10-09"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-    "date": "2026-10-09"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "date": "2026-10-10"
   },
@@ -202,5 +170,33 @@
   {
     "url": "https://zachlandes.com/trolley-problem/",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "date": "2026-10-16"
   }
 ]
