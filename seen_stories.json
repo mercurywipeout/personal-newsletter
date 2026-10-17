@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.latent.space/p/biohub-deepmind",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.latent.space/p/standard-bots",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-    "date": "2026-10-10"
-  },
-  {
     "url": "https://www.nyc.gov/main/click-to-cancel",
     "date": "2026-10-11"
   },
@@ -198,5 +170,33 @@
   {
     "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
     "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://github.com/mikroverk/esp32sim",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "date": "2026-10-17"
   }
 ]
