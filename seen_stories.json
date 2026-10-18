@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://www.nyc.gov/main/click-to-cancel",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://nanolathe.gg",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-    "date": "2026-10-11"
-  },
-  {
     "url": "https://github.com/openai/codex/issues/48195",
     "date": "2026-10-12"
   },
@@ -198,5 +174,33 @@
   {
     "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
     "date": "2026-10-17"
+  },
+  {
+    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "date": "2026-10-18"
   }
 ]
