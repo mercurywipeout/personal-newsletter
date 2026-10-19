@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/openai/codex/issues/48195",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://www.latent.space/p/claude-dynamic-workflows",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "date": "2026-10-12"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
     "date": "2026-10-13"
   },
@@ -202,5 +174,37 @@
   {
     "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "date": "2026-10-18"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+    "date": "2026-10-19"
   }
 ]
