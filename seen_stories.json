@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-    "date": "2026-10-13"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
     "date": "2026-10-14"
   },
@@ -206,5 +178,33 @@
   {
     "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
     "date": "2026-10-19"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+    "date": "2026-10-20"
   }
 ]
