@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://petal.live/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "date": "2026-10-14"
-  },
-  {
     "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
     "date": "2026-10-15"
   },
@@ -206,5 +174,37 @@
   {
     "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
     "date": "2026-10-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "date": "2026-10-21"
   }
 ]
