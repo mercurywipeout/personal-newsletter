@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.krea.ai/krea-3",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://research.meta.ai/blog/muse-spark-open",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://zachlandes.com/trolley-problem/",
-    "date": "2026-10-15"
-  },
-  {
     "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
     "date": "2026-10-16"
   },
@@ -206,5 +174,33 @@
   {
     "url": "https://openai.com/index/openai-models-google-cloud",
     "date": "2026-10-21"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://github.com/rbartoli/agent-usage-guard",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.latent.space/p/modal-d",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "date": "2026-10-22"
   }
 ]
