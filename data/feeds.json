@@ -6,7 +6,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 170,
+    "good_days_streak": 171,
     "last_transition": null
   },
   {
@@ -15,7 +15,7 @@
     "url": "https://deepmind.google/blog/rss.xml",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 31,
+    "consecutive_poor_days": 32,
     "good_days_streak": 0,
     "last_transition": "2026-10-19"
   },
@@ -25,7 +25,7 @@
     "url": "https://huggingface.co/blog/feed.xml",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 230,
+    "consecutive_poor_days": 231,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },
@@ -36,7 +36,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 230,
+    "good_days_streak": 231,
     "last_transition": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 6,
+    "good_days_streak": 7,
     "last_transition": null
   },
   {
@@ -76,7 +76,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 232,
+    "good_days_streak": 233,
     "last_transition": null
   },
   {
@@ -106,7 +106,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 232,
+    "good_days_streak": 233,
     "last_transition": null
   },
   {
@@ -116,7 +116,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 230,
+    "good_days_streak": 231,
     "last_transition": null
   },
   {
@@ -166,7 +166,7 @@
     "status": "active",
     "added_at": "2026-03-02",
     "consecutive_poor_days": 0,
-    "good_days_streak": 231,
+    "good_days_streak": 232,
     "last_transition": null
   },
   {
@@ -185,7 +185,7 @@
     "url": "https://www.reddit.com/r/MachineLearning/.rss",
     "status": "disabled",
     "added_at": "2026-03-02",
-    "consecutive_poor_days": 222,
+    "consecutive_poor_days": 223,
     "good_days_streak": 0,
     "last_transition": "2026-04-02"
   },

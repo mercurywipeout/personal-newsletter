@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "date": "2026-10-16"
-  },
-  {
-    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "date": "2026-10-16"
-  },
-  {
     "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
     "date": "2026-10-17"
   },
@@ -202,5 +174,37 @@
   {
     "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
     "date": "2026-10-22"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://openai.com/index/decisions-api",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://latent.space/p/ainews-black-october/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://latent.space/p/modal-d/",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "date": "2026-10-23"
   }
 ]
