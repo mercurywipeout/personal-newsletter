@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://github.com/mikroverk/esp32sim",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-    "date": "2026-10-17"
-  },
-  {
     "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
     "date": "2026-10-18"
   },
@@ -206,5 +178,33 @@
   {
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "date": "2026-10-23"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://latent.space/p/ainews-kimi-31/",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://blog.roku.com/developer/gitlab-move",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "date": "2026-10-24"
+  },
+  {
+    "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+    "date": "2026-10-24"
   }
 ]
