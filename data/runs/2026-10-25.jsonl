@@ -1,0 +1,44 @@
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_fetched", "feed_id": "reddit-r-machinelearning", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-10-25T18:02:56Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://talkweb.eu/openweb/4558/", "fetch_ms": 780, "extract_ms": 17, "ts": "2026-10-25T18:02:57Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://lynchlab.net/llm-skin-cancer", "fetch_ms": 395, "extract_ms": 10, "ts": "2026-10-25T18:02:58Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://gp-64.com/swr/", "fetch_ms": 97, "extract_ms": 19, "ts": "2026-10-25T18:02:58Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/", "ts": "2026-10-25T18:02:58Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/socrates6969/jukebox-os", "fetch_ms": 328, "extract_ms": 85, "ts": "2026-10-25T18:02:58Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html", "fetch_ms": 342, "extract_ms": 32, "ts": "2026-10-25T18:02:59Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace", "ts": "2026-10-25T18:02:59Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://bigwhalehunting.com/workforce/", "fetch_ms": 116, "extract_ms": 6, "ts": "2026-10-25T18:02:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://lynchlab.net/llm-skin-cancer", "ts": "2026-10-25T18:02:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://gp-64.com/swr/", "ts": "2026-10-25T18:02:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/socrates6969/jukebox-os", "ts": "2026-10-25T18:02:59Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace", "ts": "2026-10-25T18:02:59Z"}
