@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-    "date": "2026-10-20"
-  },
-  {
     "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
     "date": "2026-10-21"
   },
@@ -190,5 +162,37 @@
   {
     "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
     "date": "2026-10-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://cfsg.axiommath.ai/",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://latent.space/p/ainews-anthropic-s1/",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "date": "2026-10-27"
   }
 ]
