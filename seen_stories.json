@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "date": "2026-10-21"
-  },
-  {
     "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
     "date": "2026-10-22"
   },
@@ -194,5 +162,37 @@
   {
     "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
     "date": "2026-10-27"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://latent.space/p/supabase/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "date": "2026-10-28"
   }
 ]
