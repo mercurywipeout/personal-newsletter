@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://github.com/rbartoli/agent-usage-guard",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.latent.space/p/modal-d",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
     "date": "2026-10-23"
   },
@@ -194,5 +166,37 @@
   {
     "url": "https://surgehq.ai/blog/dayjob-tax",
     "date": "2026-10-28"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+    "date": "2026-10-29"
   }
 ]
