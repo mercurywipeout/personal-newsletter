@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://bigwhalehunting.com/workforce/",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://talkweb.eu/openweb/4558/",
-    "date": "2026-10-25"
-  },
-  {
     "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
     "date": "2026-10-26"
   },
@@ -202,5 +186,33 @@
   {
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+    "date": "2026-11-01"
   }
 ]
