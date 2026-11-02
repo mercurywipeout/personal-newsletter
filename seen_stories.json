@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/10/26/how-to-fund-rust-contributors/",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-    "date": "2026-10-26"
-  },
-  {
     "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
     "date": "2026-10-27"
   },
@@ -214,5 +186,33 @@
   {
     "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
     "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://openai.com/index/grid-protectors-program",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.37741",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://openai.com/index/lifeval",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "date": "2026-11-02"
   }
 ]
