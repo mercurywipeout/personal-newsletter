@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.liquid.ai/blog/lfm3",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://cfsg.axiommath.ai/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://latent.space/p/ainews-anthropic-s1/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-    "date": "2026-10-27"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
     "date": "2026-10-28"
   },
@@ -214,5 +182,37 @@
   {
     "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
     "date": "2026-11-02"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50354336",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://neufangled.com/",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "date": "2026-11-03"
   }
 ]
