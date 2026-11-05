@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://latent.space/p/ainews-gemini-4-carbon/",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-    "date": "2026-10-29"
-  },
-  {
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "date": "2026-10-30"
   },
@@ -214,5 +182,33 @@
   {
     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
     "date": "2026-11-04"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://kagi.com/changelog",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://github.com/rivet-dev/rivet",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+    "date": "2026-11-05"
   }
 ]
