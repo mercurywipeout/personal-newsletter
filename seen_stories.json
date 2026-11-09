@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://openai.com/index/grid-protectors-program",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://arxiv.org/abs/2610.37741",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://openai.com/index/lifeval",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "date": "2026-11-02"
-  },
-  {
     "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
     "date": "2026-11-03"
   },
@@ -182,5 +154,37 @@
   {
     "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
     "date": "2026-11-08"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://openai.com/index/control-room",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "date": "2026-11-09"
   }
 ]
