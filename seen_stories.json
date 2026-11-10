@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://news.ycombinator.com/item?id=50354336",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://openai.com/index/scaling-git-at-openai",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://neufangled.com/",
-    "date": "2026-11-03"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "date": "2026-11-03"
-  },
-  {
     "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
     "date": "2026-11-04"
   },
@@ -186,5 +154,37 @@
   {
     "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
     "date": "2026-11-09"
+  },
+  {
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://latent.space/p/resend/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://latent.space/p/naiveai/",
+    "date": "2026-11-10"
   }
 ]
