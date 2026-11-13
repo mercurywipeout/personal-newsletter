@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-cyber",
-    "date": "2026-11-06"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
     "date": "2026-11-07"
   },
@@ -190,5 +158,37 @@
   {
     "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
     "date": "2026-11-12"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.slopmanifesto.com/",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "date": "2026-11-13"
   }
 ]
