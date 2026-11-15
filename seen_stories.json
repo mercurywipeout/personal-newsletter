@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-    "date": "2026-11-08"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "date": "2026-11-09"
   },
@@ -190,5 +186,29 @@
   {
     "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
     "date": "2026-11-14"
+  },
+  {
+    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://ykiko.me/en/articles/2105384023094834022/",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://github.com/db-branch/db-branch",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "date": "2026-11-15"
   }
 ]
