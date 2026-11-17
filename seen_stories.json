@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://latent.space/p/resend/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://openai.com/index/introducing-businesses-chatgpt",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-    "date": "2026-11-10"
-  },
-  {
-    "url": "https://latent.space/p/naiveai/",
-    "date": "2026-11-10"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
     "date": "2026-11-11"
   },
@@ -210,5 +178,37 @@
   {
     "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "date": "2026-11-16"
+  },
+  {
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://latent.space/p/cloudflare/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "date": "2026-11-17"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+    "date": "2026-11-17"
   }
 ]
