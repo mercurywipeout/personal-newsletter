@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.slopmanifesto.com/",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://openai.com/index/introducing-chatgpt-wallet",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-    "date": "2026-11-13"
-  },
-  {
     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
     "date": "2026-11-14"
   },
@@ -206,5 +174,37 @@
   {
     "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
     "date": "2026-11-19"
+  },
+  {
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "date": "2026-11-20"
   }
 ]
