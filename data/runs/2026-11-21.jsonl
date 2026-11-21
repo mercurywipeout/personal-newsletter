@@ -1,0 +1,57 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "ars-technica-ai", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "ars-technica-ai", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-21T20:44:07Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-11-21T20:44:07Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://pwn.ai/upload2shell", "fetch_ms": 257, "extract_ms": 46, "ts": "2026-11-21T20:44:07Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/ShinMegamiBoson/lookatmyquant", "fetch_ms": 735, "extract_ms": 108, "ts": "2026-11-21T20:44:08Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists", "ts": "2026-11-21T20:44:08Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://jespino.github.io/gopgext/", "fetch_ms": 128, "extract_ms": 26, "ts": "2026-11-21T20:44:08Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://math.mit.edu/~drew/grh/", "fetch_ms": 275, "extract_ms": 20, "ts": "2026-11-21T20:44:09Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://onurgumus.github.io/zero-csharp/index.html", "fetch_ms": 60, "extract_ms": 131, "ts": "2026-11-21T20:44:09Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/", "fetch_ms": 59, "extract_ms": 4, "ts": "2026-11-21T20:44:09Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really", "ts": "2026-11-21T20:44:09Z"}
+{"event": "article_ok", "feed_id": "ars-technica-ai", "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/", "fetch_ms": 446, "extract_ms": 18, "ts": "2026-11-21T20:44:10Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://latent.space/p/formal-verification/", "fetch_ms": 190, "extract_ms": 29, "ts": "2026-11-21T20:44:10Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/", "fetch_ms": 63, "extract_ms": 6, "ts": "2026-11-21T20:44:10Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/", "fetch_ms": 92, "extract_ms": 23, "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://pwn.ai/upload2shell", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://github.com/ShinMegamiBoson/lookatmyquant", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://jespino.github.io/gopgext/", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://math.mit.edu/~drew/grh/", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://onurgumus.github.io/zero-csharp/index.html", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really", "ts": "2026-11-21T20:44:10Z"}
+{"event": "story_first_in_cluster", "feed_id": "latent-space", "url": "https://latent.space/p/formal-verification/", "ts": "2026-11-21T20:44:10Z"}

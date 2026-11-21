@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-    "date": "2026-11-14"
-  },
-  {
     "url": "https://joshblais.com/blog/emacs-as-my-browser/",
     "date": "2026-11-15"
   },
@@ -206,5 +178,21 @@
   {
     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
     "date": "2026-11-20"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://latent.space/p/formal-verification/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "date": "2026-11-21"
   }
 ]
