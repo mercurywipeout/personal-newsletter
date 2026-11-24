@@ -1,69 +1,5 @@
 [
   {
-    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://latent.space/p/bfl/",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "date": "2026-11-16"
-  },
-  {
-    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://latent.space/p/cloudflare/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-    "date": "2026-11-17"
-  },
-  {
     "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
     "date": "2026-11-18"
   },
@@ -194,5 +130,37 @@
   {
     "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
     "date": "2026-11-22"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.20031",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "date": "2026-11-24"
   }
 ]
