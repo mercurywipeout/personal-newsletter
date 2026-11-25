@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://horizon-labs.ai/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-    "date": "2026-11-18"
-  },
-  {
     "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
     "date": "2026-11-19"
   },
@@ -194,5 +162,37 @@
   {
     "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
     "date": "2026-11-24"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://defang.io/blog/post/security-incident-november-2026/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "date": "2026-11-25"
   }
 ]
