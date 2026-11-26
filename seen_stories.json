@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-    "date": "2026-11-19"
-  },
-  {
     "url": "https://openai.com/index/combatting-adversarial-distillation",
     "date": "2026-11-20"
   },
@@ -194,5 +166,33 @@
   {
     "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
     "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://github.com/eisenzopf/rvoip",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+    "date": "2026-11-26"
   }
 ]
