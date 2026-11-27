@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "date": "2026-11-20"
-  },
-  {
     "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
     "date": "2026-11-21"
   },
@@ -194,5 +162,29 @@
   {
     "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
     "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://blog.rust-lang.org/2026/11/27/Rust-1.100.1/",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://github.com/skeeto/prospero",
+    "date": "2026-11-27"
   }
 ]

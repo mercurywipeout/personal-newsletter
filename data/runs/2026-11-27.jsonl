@@ -1,0 +1,63 @@
+{"event": "story_fetched", "feed_id": "simon-willison", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hugging-face-blog", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hugging-face-blog", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "latent-space", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "rust-blog", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_fetched", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "simon-willison", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "mit-tech-review", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "latent-space", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "rust-blog", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "story_passed", "feed_id": "hacker-news-frontpage", "ts": "2026-11-27T23:10:01Z"}
+{"event": "article_ok", "feed_id": "latent-space", "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/", "fetch_ms": 255, "extract_ms": 18, "ts": "2026-11-27T23:10:01Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete", "ts": "2026-11-27T23:10:01Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://frantic.im/git/", "fetch_ms": 299, "extract_ms": 3, "ts": "2026-11-27T23:10:02Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://progrium.github.io/9ux/", "fetch_ms": 71, "extract_ms": 7, "ts": "2026-11-27T23:10:02Z"}
+{"event": "article_blocked", "feed_id": "hacker-news-frontpage", "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours", "ts": "2026-11-27T23:10:02Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://github.com/skeeto/prospero", "fetch_ms": 516, "extract_ms": 27, "ts": "2026-11-27T23:10:02Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform", "fetch_ms": 773, "extract_ms": 65, "ts": "2026-11-27T23:10:03Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/", "fetch_ms": 363, "extract_ms": 4, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "hacker-news-frontpage", "url": "https://neuralnetworksanddeeplearning.com", "fetch_ms": 111, "extract_ms": 9, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/", "fetch_ms": 151, "extract_ms": 13, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/", "fetch_ms": 23, "extract_ms": 12, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/", "fetch_ms": 22, "extract_ms": 12, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "rust-blog", "url": "https://blog.rust-lang.org/2026/11/27/Rust-1.100.1/", "fetch_ms": 111, "extract_ms": 8, "ts": "2026-11-27T23:10:04Z"}
+{"event": "article_ok", "feed_id": "simon-willison", "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/", "fetch_ms": 75, "extract_ms": 4, "ts": "2026-11-27T23:10:04Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://progrium.github.io/9ux/", "ts": "2026-11-27T23:10:04Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://neuralnetworksanddeeplearning.com/", "ts": "2026-11-27T23:10:04Z"}
+{"event": "story_duplicate", "feed_id": "hacker-news-frontpage", "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform", "ts": "2026-11-27T23:10:04Z"}
+{"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/", "ts": "2026-11-27T23:10:04Z"}
+{"event": "story_duplicate", "feed_id": "mit-tech-review", "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/", "ts": "2026-11-27T23:10:04Z"}
